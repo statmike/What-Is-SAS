@@ -3,7 +3,6 @@ def procs(url,reload='No'):
     from selenium import webdriver
     from bs4 import BeautifulSoup
     import time
-    import csv
     pathhead = 'crawlers/viya_procs/'
     if reload == 'No':
         driver = webdriver.Safari()
@@ -30,17 +29,14 @@ def procs(url,reload='No'):
                     procs.append([products[-1], proc, proc_short, link.strip()])
         #keep the list of links for products and procedures in procs.csv
         header=["Product","Procedure","Procedure_Short","Procedure_Link"]
-        with open(pathhead+"procs.csv", "w", newline="") as f:
-            writer = csv.writer(f)
-            writer.writerow(header)
-            writer.writerows(procs)
-        f.close
+        mywriter(pathhead,header,procs,'procs')
+        return procs
     else:
-        procs = reader(pathhead,'procs')
+        procs = myreader(pathhead,'procs')
         return procs
 
 # read csv files into lists
-def reader(pathhead,listname):
+def myreader(pathhead,listname):
     import csv
     with open(pathhead+listname+'.csv','r') as f:
         reader = csv.reader(f)
@@ -48,3 +44,12 @@ def reader(pathhead,listname):
     f.close()
     del input_list[0]
     return input_list
+
+# write csv files into lists
+def mywriter(pathhead,header,listname,filename):
+    import csv
+    with open(pathhead+filename+'.csv','w',newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(header)
+        writer.writerows(listname)
+    f.close()

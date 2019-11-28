@@ -3,7 +3,6 @@ def products(url,reload='No'):
     from selenium import webdriver
     from bs4 import BeautifulSoup
     import time
-    import csv
     pathhead = 'crawlers/actions_by_product/'
     if reload == 'No':
         driver = webdriver.Safari()
@@ -22,14 +21,10 @@ def products(url,reload='No'):
         #printlist(products)
         #keep the list of links for actions in products.csv
         header=["Product","Product_Link"]
-        with open(pathhead+"products.csv", "w", newline="") as f:
-            writer = csv.writer(f)
-            writer.writerow(header)
-            writer.writerows(products)
-        f.close
+        mywriter(pathhead,header,products,'products')
         return products
     else:
-        products = reader(pathhead,'products')
+        products = myreader(pathhead,'products')
         return products
 
 # cycle through each product with actions and get list of action sets - save to action_sets.csv
@@ -37,7 +32,6 @@ def action_sets(products,reload='No'):
     from selenium import webdriver
     from bs4 import BeautifulSoup
     import time
-    import csv
     pathhead = 'crawlers/actions_by_product/'
     if reload == 'No':
         driver = webdriver.Safari()
@@ -54,23 +48,17 @@ def action_sets(products,reload='No'):
         driver.close()
         #keep the list of links for actions in action_sets.csv
         header=["Product","ActionSet","ActionSet_Describe","ActionSet_Link","ActionSet_LinkText"]
-        with open(pathhead+"action_sets.csv", "w", newline="") as f:
-            writer = csv.writer(f)
-            writer.writerow(header)
-            writer.writerows(action_sets)
-        f.close
+        mywriter(pathhead,header,action_sets,'action_sets')
         return action_sets
     else:
-        action_sets = reader(pathhead,'action_sets')
+        action_sets = myreader(pathhead,'action_sets')
         return action_sets
-
 
 # cycle through each action set and get list of actions by product - save to actions.csv
 def actions(action_sets,reload='No'):
     from selenium import webdriver
     from bs4 import BeautifulSoup
     import time
-    import csv
     pathhead = 'crawlers/actions_by_product/'
     if reload == 'No':
         driver = webdriver.Safari()
@@ -89,18 +77,14 @@ def actions(action_sets,reload='No'):
         driver.close()
         #keep the list of links for actions in actions.csv
         header=["Product","ActionSet","Action","Action_Describe","Action_Link"]
-        with open(pathhead+"actions.csv", "w", newline="") as f:
-            writer = csv.writer(f)
-            writer.writerow(header)
-            writer.writerows(actions)
-        f.close
+        mywriter(pathhead,header,actions,'actions')
         return actions
     else:
-        actions = reader(pathhead,'actions')
+        actions = myreader(pathhead,'actions')
         return actions
 
 # read csv files into lists
-def reader(pathhead,listname):
+def myreader(pathhead,listname):
     import csv
     with open(pathhead+listname+'.csv','r') as f:
         reader = csv.reader(f)
@@ -108,3 +92,12 @@ def reader(pathhead,listname):
     f.close()
     del input_list[0]
     return input_list
+
+# write csv files into lists
+def mywriter(pathhead,header,listname,filename):
+    import csv
+    with open(pathhead+filename+'.csv','w',newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(header)
+        writer.writerows(listname)
+    f.close()

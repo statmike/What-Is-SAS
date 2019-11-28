@@ -1,0 +1,66 @@
+
+viya/cas product - make sure cas is removed from compared products
+viya/not cas product -
+
+
+action sets by products https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=allprodsactions&docsetTarget=actionSetsByProduct.htm&locale=en
+
+
+IDEA:
+  Product chart without Procedures
+  Add Procedures
+  Add ActionSets
+  Add Actions
+  Add edges between procedures
+  Make drillable: Overview > Product > Procedures or ActionSet
+
+
+
+
+
+- [X] replace & with &amp; for xml in SVG
+- [X] Add strict
+- [X] Direction LR
+- [X] Shade cluster
+- [ ] Manual Prune Edges?????
+    - [ ] remove links to PRINT (maybe others in future)
+    - [ ] CAS
+- [ ] CLEANUP
+  - [X] remove links to self: DBF
+  - [X] why is there a link to PDS ... (Not under a product/cluster...)
+  - [X] why is MCMC under Econometrics
+  - [X] why is MODEL not under a Product (SAS/ETS)
+  - [X] optmodel should be under sas/econometrics and SAS/OR
+  - [6] for procs with same PROC_SHORT (link within cluster)
+    - [ ] Subcluster
+- [ ] How to determine if CAS enabled???
+- [X] Add hover text on nodes/urls
+- [ ] More Scraping
+  - [ ] Get text for hovering on URL: Products, PROCS, Edges
+  - [ ] Create list of Viya Procs from other page
+    - [ ] Create flags: Viya, 9.4, Both
+  - [ ] Save links to Product List of procs
+- [ ] Alpha order of nodes needs fixing
+- [ ] Graph Sequenced and drillable - see notes (paper)
+
+
+
+
+MANUALLIST =['SAS Econometrics','SAS Optimization','SAS Visual Statistics','SAS Visual Data Mining and Machine Learning','SAS Visual Forecasting','SAS Visual Text Analytics']
+for products
+    if not in vdriver then "SAS 9.4"
+    elif in MANUALLIST then "Viya / CAS engine"
+    else 'can add to Viya'
+note: SAS Econometrics comes with SAS/ETS, SAS Optimization comes with SAS/OR, SAS Visual Statistics comes with SAS/STAT, SAS Graph,
+Note: SAS IML comes with SAS/IML
+Note: Visual Analytics is baseline and comes with part of SAS/BASE (some are CAS enabled), SAS CAS
+Note: can add SAS/CONNECT, SAS SPDS, SAS QC, - NO CAS for these
+Note: prerequisits are VA < VS < VDMML, VA < VTA, VA<VF, VA<SAS Econ, VA<SAS Opt
+
+
+current list
+1 - clean 1_crawler
+2 - add action level to 1_crawler
+3 - clean 2_process: dataset references and split code
+4 - clean 3_graphs overview
+4 - clean 3_graphs hairball

@@ -1,0 +1,19 @@
+From,To,Edge_Label
+SAS Visual Analytics,Base SAS,Visual Analytics includes part of Base SAS.  Adding any additional Viya product adds all of Base SAS.
+SAS Visual Analytics,SAS Cloud Analytic Services,Includes
+SAS Visual Statistics,SAS Visual Analytics,Requires
+SAS Visual Statistics,SAS/STAT,Includes
+SAS Visual Statistics,SAS/GRAPH,Includes
+SAS Visual Data Mining and Machine Learning,SAS Visual Statistics,Requires
+SAS Visual Text Analytics,SAS Visual Analytics,Requires
+SAS Visual Forecasting,SAS Visual Analytics,Requires
+SAS Optimization,SAS/OR,Includes
+SAS IML,SAS/IML,Includes
+SAS Econometrics,SAS/ETS,Includes
+SAS Visual Analytics,SAS/STAT,Can Be Added
+SAS Visual Analytics,SAS/GRAPH,Can Be Added
+SAS Visual Analytics,SAS/OR,Can Be Added
+SAS Visual Analytics,SAS/IML,Can Be Added
+SAS Visual Analytics,SAS/ETS,Can Be Added
+SAS Visual Analytics,SAS/CONNECT,Can Be Added
+SAS Visual Analytics,SAS/QC,Can Be Added

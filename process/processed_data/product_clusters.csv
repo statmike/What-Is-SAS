@@ -1,0 +1,37 @@
+Platform,Product,HAS_PROC,HAS_ACTION
+SAS 9,Base SAS,Y,N
+SAS 9,SAS/STAT,Y,N
+SAS 9,SAS/GRAPH,Y,N
+SAS 9,SAS/OR,Y,N
+SAS 9,SAS/IML,Y,N
+SAS 9,SAS/ETS,Y,N
+SAS 9,SAS/CONNECT,Y,N
+SAS 9,SAS/QC,Y,N
+Viya,SAS Visual Analytics,Y,Y
+Viya,SAS Visual Statistics,Y,Y
+Viya,SAS Visual Data Mining and Machine Learning,Y,Y
+Viya,SAS Visual Text Analytics,Y,Y
+Viya,SAS Visual Forecasting,Y,Y
+Viya,SAS Optimization,Y,Y
+Viya,SAS IML,Y,Y
+Viya,SAS Econometrics,Y,Y
+Viya,SAS Cloud Analytic Services,Y,Y
+SAS 9,SAS/ACCESS,Y,N
+SAS 9,SAS/AF,Y,N
+SAS 9,Base SAS High-Performance Procedures,Y,N
+SAS 9,SAS Data Quality Server,Y,N
+SAS 9,SAS Enterprise Miner High-Performance Procedures,Y,N
+SAS 9,SAS/ETS High-Performance Procedures,Y,N
+SAS 9,SAS Forecast Server,Y,N
+SAS 9,SAS/FSP,Y,N
+SAS 9,SAS/Genetics,Y,N
+SAS 9,SAS/GIS,Y,N
+SAS 9,SAS Integration Technologies,Y,N
+SAS 9,SAS/IntrNet,Y,N
+SAS 9,SAS LASR Analytic Server,Y,N
+SAS 9,SAS OLAP Server,Y,N
+SAS 9,SAS OPTGRAPH Procedure,Y,N
+SAS 9,SAS Scalable Performance Data Server,Y,N
+SAS 9,SAS/SHARE,Y,N
+SAS 9,SAS/STAT High-Performance Procedures,Y,N
+SAS 9,SAS Text Miner High-Performance Procedures,Y,N

@@ -32,17 +32,17 @@ def procs(url,reload='No'):
         mywriter(pathhead,header,procs,'procs')
         return procs
     else:
-        procs = myreader(pathhead,'procs')
+        procs = myreader(pathhead,'procs',header='drop')
         return procs
 
 # read csv files into lists
-def myreader(pathhead,listname):
+def myreader(pathhead,filename,header='keep'):
     import csv
-    with open(pathhead+listname+'.csv','r') as f:
+    with open(pathhead+filename+'.csv','r') as f:
         reader = csv.reader(f)
         input_list = list(reader)
     f.close()
-    del input_list[0]
+    if header != 'keep': del input_list[0]
     return input_list
 
 # write csv files into lists

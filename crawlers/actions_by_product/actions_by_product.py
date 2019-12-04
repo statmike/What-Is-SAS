@@ -24,7 +24,7 @@ def products(url,reload='No'):
         mywriter(pathhead,header,products,'products')
         return products
     else:
-        products = myreader(pathhead,'products')
+        products = myreader(pathhead,'products',header='drop')
         return products
 
 # cycle through each product with actions and get list of action sets - save to action_sets.csv
@@ -51,7 +51,7 @@ def action_sets(products,reload='No'):
         mywriter(pathhead,header,action_sets,'action_sets')
         return action_sets
     else:
-        action_sets = myreader(pathhead,'action_sets')
+        action_sets = myreader(pathhead,'action_sets',header='drop')
         return action_sets
 
 # cycle through each action set and get list of actions by product - save to actions.csv
@@ -80,17 +80,17 @@ def actions(action_sets,reload='No'):
         mywriter(pathhead,header,actions,'actions')
         return actions
     else:
-        actions = myreader(pathhead,'actions')
+        actions = myreader(pathhead,'actions',header='drop')
         return actions
 
 # read csv files into lists
-def myreader(pathhead,listname):
+def myreader(pathhead,filename,header='keep'):
     import csv
-    with open(pathhead+listname+'.csv','r') as f:
+    with open(pathhead+filename+'.csv','r') as f:
         reader = csv.reader(f)
         input_list = list(reader)
     f.close()
-    del input_list[0]
+    if header != 'keep': del input_list[0]
     return input_list
 
 # write csv files into lists

@@ -17,7 +17,7 @@ procs_linked = crawl_procs.procs_linked(procs_plus,'Yes')
 
 # crawl viya procedures
 viya_procs_url='https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=allprodsproc&docsetTarget=p1o1v16by0iotvn10m0jzzv9i3y8.htm&locale=en#'
-viya_procs = crawl_viya_procs.procs(viya_procs_url,'Yes')
+viya_procs = crawl_viya_procs.viya_procs(viya_procs_url,'Yes')
 
 
 #list(products)

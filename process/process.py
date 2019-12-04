@@ -57,7 +57,9 @@ for row in procs_linked:
             row.append(node[-1])
 header.append('Node_Name')
 
-mywriter('process/processed_data/',header,procs_linked,'procs_linked_processed')
+mywriter('process/processed_data/',header,procs_linked,'procs_linked')
+
+
 
 
 
@@ -77,3 +79,18 @@ for row in procs_linked:
         pcm.append(['SAS 9',row[0],'Y','N'])
 
 mywriter('process/processed_data/',header,pcm,'product_clusters')
+
+
+
+
+
+
+# process viya_procs and remove SAS 9 products from the second columns (visual statistics references SAS/STAT)
+viya_procs = myreader('crawlers/viya_procs/','viya_procs')
+
+header = viya_procs.pop(0)
+for i, row in enumerate(viya_procs):
+    if row[1] in unique_products: del viya_procs[i]
+list(viya_procs)
+
+mywriter('process/processed_data/',header,viya_procs,'viya_procs')

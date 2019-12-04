@@ -5,7 +5,7 @@
 Provide an interactive visual guide the all of SAS for coding in SAS 9.4, SAS Viya Procedures, SAS Viya Actions including using through opensource API's.
 
 # Current Prototype (very early)
-<img src="./graphs/overview/dotgraph_products.svg">
+<img src="./graphs/overview/dotgraph_products_html.svg">
 
 # TODO
 - [X] Collect Data

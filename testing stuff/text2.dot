@@ -1,0 +1,58 @@
+digraph G
+{
+    rankdir = LR;
+    node1
+    [
+    shape = none
+    label = <<table border="0" cellspacing="0">
+                <tr>
+                <td port="port1" border="1">APPEND</td>
+                <td port="port2" border="1">AUTHLIB</td>
+                <td port="port3" border="1">CALENDAR</td>
+                <td port="port4" border="1">CATALOG</td>
+                <td port="port5" border="1">CATALOG for UNIX</td>
+                </tr><tr>
+                <td port="port6" border="1">CATALOG for Windows</td>
+                <td port="port7" border="1">CATALOG for z/OS</td>
+                <td port="port8" border="1">CDISC ODM</td>
+                <td port="port9" border="1">CDISC SDTM</td>
+                <td port="port10" border="1">CHART</td>
+                </tr><tr>
+                <td port="port11" border="1">CIMPORT</td>
+                <td port="port12" border="1">CIMPORT for UNIX</td>
+                <td port="port13" border="1">CIMPORT for Windows</td>
+                <td port="port14" border="1">CIMPORT for z/OS</td>
+                <td port="port15" border="1">COMPARE</td>
+                </tr><tr>
+                <td port="port16" border="1">CONTENTS</td>
+                <td port="port17" border="1">CONTENTS for UNIX</td>
+                <td port="port18" border="1">CONTENTS for Windows</td>
+                <td port="port19" border="1">CONTENTS for z/OS</td>
+                <td port="port20" border="1">CONVERT for UNIX</td>
+                </tr><tr>
+                <td port="port21" border="1">CONVERT for Windows</td>
+                <td port="port22" border="1">CONVERT for z/OS</td>
+                <td port="port23" border="1">COPY</td>
+                <td port="port24" border="1">CORR</td>
+                <td port="port25" border="1">CPORT</td>
+                </tr>
+              </table>>
+    ]
+
+    node2
+    [
+        shape = none
+        label = <<table border="0" cellspacing="0">
+                    <tr><td port="port1" border="1" bgcolor="blue">corpus_sentence</td></tr>
+                    <tr><td port="port2" border="1">id: 1241798</td></tr>
+                    <tr><td port="port3" border="1">text: Baseball is a sport</td></tr>
+                    <tr><td port="port4" border="1">creator_id: 10859</td></tr>
+                    <tr><td port="port5" border="1">created_on: 2006-11-14 17:58:09.303128</td></tr>
+                    <tr><td port="port6" border="1">language_id: en</td></tr>
+                    <tr><td port="port7" border="1">activity_id: 11</td></tr>
+                    <tr><td port="port8" border="1">score: 124</td></tr>
+                    <tr><td port="port8" border="1">score: 124</td></tr>
+                </table>>
+    ]
+    node1:APPEND0 -> node2:port6 [label="language_id"]
+}

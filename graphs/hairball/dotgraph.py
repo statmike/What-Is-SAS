@@ -1,23 +1,10 @@
 from graphviz import Digraph
 import csv
 import itertools
+from common.commons import myreader
 
 # read in csv
-with open('Projects/PROC overview/collect_processed.csv','r') as f:
-    reader = csv.reader(f)
-    collect = list(reader)
-f.close()
-
-#remove header row from list
-print(collect[0])
-del collect[0]
-
-# easy function for viewing list
-def printlist(list):
-    length=len(list)
-    for i in range(length):
-        print(list[i])
-#printlist(collect)
+collect = myreader('process/processed_data/','procs_linked',header='drop')
 
 # iterate by groups
 groups = []
@@ -69,4 +56,4 @@ print(unique_nodes)
 
 
 dot.format = 'SVG'
-dot.render('Projects/Proc overview/dotgraph')
+dot.render('graphs/hairball/dotgraph')

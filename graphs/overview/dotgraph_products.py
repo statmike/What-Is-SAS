@@ -1,49 +1,14 @@
-import collect_process.py
-
 from graphviz import Digraph
 import csv
 import itertools
+from common.commons import myreader
 
 
 
 # read in csv
-#with open('Projects/PROC overview/product_clusters_manual.csv','r') as f:
-with open('Projects/PROC overview/product_clusters.csv','r') as f:
-    reader = csv.reader(f)
-    prodclus = list(reader)
-f.close()
-#remove header row from list
-print(prodclus[0])
-del prodclus[0]
-
-# read in csv
-with open('Projects/PROC overview/collect_processed.csv','r') as f:
-    reader = csv.reader(f)
-    collect = list(reader)
-f.close()
-#remove header row from list
-print(collect[0])
-del collect[0]
-
-# read in csv
-#manual is only product on Viya and able to be added for 9 to viya, remove manual and all SAS 9 products are presented
-with open('Projects/PROC overview/product_edges_manual.csv','r') as f:
-    reader = csv.reader(f)
-    prodedge = list(reader)
-f.close()
-#remove header row from list
-print(prodedge[0])
-del prodedge[0]
-
-
-
-# easy function for viewing list
-def printlist(list):
-    length=len(list)
-    for i in range(length):
-        print(list[i])
-#printlist(collect)
-#print(collect)
+prodclus = myreader('process/processed_data/','product_clusters',header='drop')
+collect = myreader('process/processed_data/','procs_linked',header='drop')
+prodedge = myreader('process/manual_inputs/','product_edges_manual',header='drop')
 
 # function for cluster (subgraph) naming with iteration
 def subs(name,label,color):
@@ -55,6 +20,7 @@ def subs(name,label,color):
 def url_escape(url):
     url_esc ={"&": "&amp;"}
     return "".join(url_esc.get(c,c) for c in url)
+
 
 
 
@@ -173,5 +139,5 @@ for edge in prodedge:
 
 
 dot.format = 'SVG'
-dot.render('Projects/Proc overview/dotgraph_products')
+dot.render('graphs/overview/dotgraph_products')
 # unflatten -l 3 dotgraph_products | dot -Tsvg -o dotgraph_products.svg

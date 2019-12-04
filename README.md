@@ -4,7 +4,7 @@
 # Goals
 Provide an interactive visual guide the all of SAS for coding in SAS 9.4, SAS Viya Procedures, SAS Viya Actions including using through opensource API's.
 
-# Current Prototype
+# Current Prototype (very early)
 <img src="./graphs/overview/dotgraph_products.svg">
 
 # TODO
@@ -25,7 +25,7 @@ Provide an interactive visual guide the all of SAS for coding in SAS 9.4, SAS Vi
 - [X] rewrite the process file against new file structure
   - [X] viya_procs has some sas 9 products listed (VS has SAS/STAT)
 - [X] move common functions to a common/commons.py file and import throughout modules: myreader, mywriter
-- [ ] tie exisitng graphs to new data structure
+- [X] tie existing graphs to new data structure
   - [ ] graph for platform + products
   - [ ] graph for platform + products + procedures/actionSets
     - [ ] version with relationships added

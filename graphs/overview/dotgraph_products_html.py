@@ -30,19 +30,22 @@ dot = Digraph(comment = 'SAS',strict=True)
 dot.attr(rankdir='LR',splines='polyline')#,compound='True',nodesep='0.1',ranksep='.02')#,ratio='compress')
 
 Node_Name_List = []
-clusters = {}
-# subclusters for platforms - iterate by groups - Platform Clusters
-platforms = []
-platformkey = []
+clusters = {} # will hold a dictionary to lookup cluster names from product, platform names, also for procedures (_P)
+
+# subclusters for platforms - iterate with by groups - Platform Clusters
+platforms = [] # will hold a list of sublist for each value of coll[0] in prodclus - platform (SAS 9, Viya)
+platformkey = [] # a list of unique values for coll[0] in prodclus - platform (SAS 9, Viya)
 prodclus = sorted(prodclus, key=lambda coll: coll[0])
 for k, g in itertools.groupby(prodclus, lambda coll: coll[0]):
     platforms.append(list(g))
     platformkey.append(k)
+
 i1 = 0
-for platform in platforms:
+for platform in platforms: # gets a list for a platform in platforms
     i1 += 1
-    clusters[platform[0][0]] = "cluster_"+str(i1)
+    clusters[platform[0][0]] = "cluster_"+str(i1) # a unique value of platform
     platform_sub = subs(clusters[platform[0][0]],platform[0][0],'lightgrey')
+
     # sub-subclusters for products - iterate by groups - Products on Platform
     products =[]
     productkey =[]
@@ -50,9 +53,10 @@ for platform in platforms:
     for k, g in itertools.groupby(tplatform, lambda coll: coll[1]):
         products.append(list(g))
         productkey.append(k)
+
     i2 = 0
     #dot.attr(randdir='TD')
-    for product in products:
+    for product in products: # individual product within a platform
         i2 +=1
         clusters[product[0][1]] = "cluster_"+str(i1)+"_"+str(i2)
         product_sub = subs(clusters[product[0][1]],product[0][1],'white')
@@ -66,7 +70,7 @@ for platform in platforms:
                 procs.node('SIML',label='SIML',shape='plaintext',style='invis')
             else:
                 clusters[product[0][1]+'_S'] = 'p_'+str(i1)+'_'+str(i2)
-                # lookup procedures for the product and create nodes for each
+                # lookup procedures for the product and create a node containing a table (html)
                 s = 0 # overall count for procedures in product
                 c = 0 # column count for sturcture
                 x = 5 # number of columns for structures
@@ -74,44 +78,40 @@ for platform in platforms:
                 for row in collect:
                     if row[0] == product[0][1]:
                         if row[7] not in Node_Name_List:
-                            #build a struct row for each x procs: "<r11> name |<r12> name |<r13> name |<r14> name|<r15> name"
+                            #build a struct row for each x procs as an html table
                             c += 1
                             s += 1
                             if c == 1: # first column on row
-                                struct = '<tr><td port="'+row[7]+'" border="1">'+row[1]+'</td>' #'<'+row[7]+'> '+row[1]
+                                struct = '<tr><td port="'+row[7]+'" border="1">'+row[1]+'</td>'
                             elif c == x: # last column on row
-                                struct = struct+'<td port="'+row[7]+'" border="1">'+row[1]+'</td></tr>' #struct+'|<'+row[7]+'> '+row[1]
+                                struct = struct+'<td port="'+row[7]+'" border="1">'+row[1]+'</td></tr>'
                                 c = 0
                             else: # not first or last column on row
-                                struct = struct+'<td port="'+row[7]+'" border="1">'+row[1]+'</td>' #struct+'|<'+row[7]+'> '+row[1]
+                                struct = struct+'<td port="'+row[7]+'" border="1">'+row[1]+'</td>'
                             if s % x == 0: # end of a complete row
-                                if not sstruct: sstruct = struct #'{'+struct+'}' # first row
-                                else: sstruct = sstruct+struct #sstruct+'|{'+struct+'}' # new row, not first row
+                                if not sstruct: sstruct = struct  # first row
+                                else: sstruct = sstruct+struct  # new row, not first row
                             Node_Name_List.append(row[7])
                 # check for incomplete stucture, add empty columns, make node
                 if s < x: # not a full single row
                     sstruct = '<<table border="0" cellspacing="0">'+struct+'</tr></table>>'
-                    procs.node('p_'+str(i1)+'_'+str(i2),label=sstruct,shape='record')
                 elif s % x: # more than one row, last row not full (x) so end row with </tr>
-                    #for r in range(1,x-(s % x)+1):
-                    #    struct = struct+'| '
-                    #sstruct = sstruct+'|{'+struct+'}'
                     sstruct = '<<table border="0" cellspacing="0">'+sstruct+struct+'</tr></table>>'
-                    procs.node('p_'+str(i1)+'_'+str(i2),label=sstruct,shape='record')
                 else: # one or more rows, full
                     sstruct = '<<table border="0" cellspacing="0">'+sstruct+'</table>>'
-                    procs.node('p_'+str(i1)+'_'+str(i2),label=sstruct,shape='record')
+                procs.node('p_'+str(i1)+'_'+str(i2),label=sstruct,shape='record')
             product_sub.subgraph(procs)
         if product[0][3] == 'Y': # has actions (CAS)
             clusters[product[0][1]+'_A'] = "cluster_"+str(i1)+"_"+str(i2)+"_actions"
             actions = subs(clusters[product[0][1]+'_A'],'Actions','white')
-            # lookup actionsets for product and create nodes for each shape=ellipse
-            # placeholder until i have the data crawled
+            # lookup actionsets for product and create a node containing a table (html)
+            # placeholder
             actions.node('a'+str(i2),label='actions',shape='plaintext',style='invis')
             product_sub.subgraph(actions)
         platform_sub.subgraph(product_sub)
-
     dot.subgraph(platform_sub)
+
+
 # put edges between products from the product_edges_manual.csv stored in prodedge list: From,To,Edge_Label
 for edge in prodedge:
     # get the first prod from each product to do connection with
@@ -127,11 +127,13 @@ for edge in prodedge:
     dot.edge(from_prod,to_prod,label=edge[2],ltail=clusters[edge[0]],lhead=clusters[edge[1]])
 
 
-# platform clusters: SAS 9 Available on Viya, SAS 9
-# color code procs: CAS, 9 Workspace, gradient for both
-# add actionsets
-# add hyperlinks to procs and actionsets
-# add hovertext
+
+
+
+
+
+
+
 
 
 # create the dot graph code file - good for interactive testing in atom IDE
@@ -139,7 +141,7 @@ for edge in prodedge:
 #print(dot.source,file=sample)
 #sample.close()
 
-print(dot.source)
+#print(dot.source)
 
 dot.format = 'SVG'
 dot.render('graphs/overview/dotgraph_products_html')

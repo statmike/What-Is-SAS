@@ -457,6 +457,102 @@
 </a>
 </g>
 </g>
+<g id="clust72" class="cluster">
+<title>cluster_2_6</title>
+<g id="a_clust72"><a xlink:title="This Tooltip (Cluster)">
+<polygon fill="white" stroke="black" points="16,-5750 16,-7654 1127,-7654 1127,-5750 16,-5750"/>
+<text text-anchor="middle" x="571.5" y="-7638.8" font-family="Times,serif" font-size="14.00">SAS Visual Data Mining and Machine Learning</text>
+</a>
+</g>
+</g>
+<g id="clust73" class="cluster">
+<title>cluster_2_6_procs</title>
+<g id="a_clust73"><a xlink:title="This Tooltip (Cluster)">
+<polygon fill="white" stroke="black" points="323,-7476 323,-7624 820,-7624 820,-7476 323,-7476"/>
+<text text-anchor="middle" x="571.5" y="-7608.8" font-family="Times,serif" font-size="14.00">Procedures</text>
+</a>
+</g>
+</g>
+<g id="clust74" class="cluster">
+<title>cluster_2_6_actions</title>
+<g id="a_clust74"><a xlink:title="This Tooltip (Cluster)">
+<polygon fill="white" stroke="black" points="24,-5758 24,-7468 1119,-7468 1119,-5758 24,-5758"/>
+<text text-anchor="middle" x="571.5" y="-7452.8" font-family="Times,serif" font-size="14.00">Action Sets</text>
+</a>
+</g>
+</g>
+<g id="clust75" class="cluster">
+<title>cluster_2_7</title>
+<g id="a_clust75"><a xlink:title="This Tooltip (Cluster)">
+<polygon fill="white" stroke="black" points="1442.77,-7978 1442.77,-8310 1879.77,-8310 1879.77,-7978 1442.77,-7978"/>
+<text text-anchor="middle" x="1661.27" y="-8294.8" font-family="Times,serif" font-size="14.00">SAS Visual Forecasting</text>
+</a>
+</g>
+</g>
+<g id="clust76" class="cluster">
+<title>cluster_2_7_procs</title>
+<g id="a_clust76"><a xlink:title="This Tooltip (Cluster)">
+<polygon fill="white" stroke="black" points="1450.77,-8192 1450.77,-8280 1871.77,-8280 1871.77,-8192 1450.77,-8192"/>
+<text text-anchor="middle" x="1661.27" y="-8264.8" font-family="Times,serif" font-size="14.00">Procedures</text>
+</a>
+</g>
+</g>
+<g id="clust77" class="cluster">
+<title>cluster_2_7_actions</title>
+<g id="a_clust77"><a xlink:title="This Tooltip (Cluster)">
+<polygon fill="white" stroke="black" points="1495.77,-7986 1495.77,-8184 1826.77,-8184 1826.77,-7986 1495.77,-7986"/>
+<text text-anchor="middle" x="1661.27" y="-8168.8" font-family="Times,serif" font-size="14.00">Action Sets</text>
+</a>
+</g>
+</g>
+<g id="clust78" class="cluster">
+<title>cluster_2_8</title>
+<g id="a_clust78"><a xlink:title="This Tooltip (Cluster)">
+<polygon fill="white" stroke="black" points="1410.77,-5980 1410.77,-6270 1911.77,-6270 1911.77,-5980 1410.77,-5980"/>
+<text text-anchor="middle" x="1661.27" y="-6254.8" font-family="Times,serif" font-size="14.00">SAS Visual Statistics</text>
+</a>
+</g>
+</g>
+<g id="clust79" class="cluster">
+<title>cluster_2_8_procs</title>
+<g id="a_clust79"><a xlink:title="This Tooltip (Cluster)">
+<polygon fill="white" stroke="black" points="1418.77,-6072 1418.77,-6240 1903.77,-6240 1903.77,-6072 1418.77,-6072"/>
+<text text-anchor="middle" x="1661.27" y="-6224.8" font-family="Times,serif" font-size="14.00">Procedures</text>
+</a>
+</g>
+</g>
+<g id="clust80" class="cluster">
+<title>cluster_2_8_actions</title>
+<g id="a_clust80"><a xlink:title="This Tooltip (Cluster)">
+<polygon fill="white" stroke="black" points="1519.27,-5988 1519.27,-6064 1803.27,-6064 1803.27,-5988 1519.27,-5988"/>
+<text text-anchor="middle" x="1661.27" y="-6048.8" font-family="Times,serif" font-size="14.00">Action Sets</text>
+</a>
+</g>
+</g>
+<g id="clust81" class="cluster">
+<title>cluster_2_9</title>
+<g id="a_clust81"><a xlink:title="This Tooltip (Cluster)">
+<polygon fill="white" stroke="black" points="1192.77,-7550 1192.77,-7970 2129.77,-7970 2129.77,-7550 1192.77,-7550"/>
+<text text-anchor="middle" x="1661.27" y="-7954.8" font-family="Times,serif" font-size="14.00">SAS Visual Text Analytics</text>
+</a>
+</g>
+</g>
+<g id="clust82" class="cluster">
+<title>cluster_2_9_procs</title>
+<g id="a_clust82"><a xlink:title="This Tooltip (Cluster)">
+<polygon fill="white" stroke="black" points="1530.77,-7864 1530.77,-7940 1791.77,-7940 1791.77,-7864 1530.77,-7864"/>
+<text text-anchor="middle" x="1661.27" y="-7924.8" font-family="Times,serif" font-size="14.00">Procedures</text>
+</a>
+</g>
+</g>
+<g id="clust83" class="cluster">
+<title>cluster_2_9_actions</title>
+<g id="a_clust83"><a xlink:title="This Tooltip (Cluster)">
+<polygon fill="white" stroke="black" points="1200.77,-7558 1200.77,-7856 2121.77,-7856 2121.77,-7558 1200.77,-7558"/>
+<text text-anchor="middle" x="1661.27" y="-7840.8" font-family="Times,serif" font-size="14.00">Action Sets</text>
+</a>
+</g>
+</g>
 <g id="clust57" class="cluster">
 <title>cluster_2_1</title>
 <g id="a_clust57"><a xlink:title="This Tooltip (Cluster)">
@@ -574,102 +670,6 @@
 <g id="a_clust71"><a xlink:title="This Tooltip (Cluster)">
 <polygon fill="white" stroke="black" points="2203.53,-4716 2203.53,-8198 3271.53,-8198 3271.53,-4716 2203.53,-4716"/>
 <text text-anchor="middle" x="2737.53" y="-8182.8" font-family="Times,serif" font-size="14.00">Action Sets</text>
-</a>
-</g>
-</g>
-<g id="clust72" class="cluster">
-<title>cluster_2_6</title>
-<g id="a_clust72"><a xlink:title="This Tooltip (Cluster)">
-<polygon fill="white" stroke="black" points="16,-5750 16,-7676 1127,-7676 1127,-5750 16,-5750"/>
-<text text-anchor="middle" x="571.5" y="-7660.8" font-family="Times,serif" font-size="14.00">SAS Visual Data Mining and Machine Learning</text>
-</a>
-</g>
-</g>
-<g id="clust73" class="cluster">
-<title>cluster_2_6_procs</title>
-<g id="a_clust73"><a xlink:title="This Tooltip (Cluster)">
-<polygon fill="white" stroke="black" points="323,-7498 323,-7646 820,-7646 820,-7498 323,-7498"/>
-<text text-anchor="middle" x="571.5" y="-7630.8" font-family="Times,serif" font-size="14.00">Procedures</text>
-</a>
-</g>
-</g>
-<g id="clust74" class="cluster">
-<title>cluster_2_6_actions</title>
-<g id="a_clust74"><a xlink:title="This Tooltip (Cluster)">
-<polygon fill="white" stroke="black" points="24,-5758 24,-7490 1119,-7490 1119,-5758 24,-5758"/>
-<text text-anchor="middle" x="571.5" y="-7474.8" font-family="Times,serif" font-size="14.00">Action Sets</text>
-</a>
-</g>
-</g>
-<g id="clust75" class="cluster">
-<title>cluster_2_7</title>
-<g id="a_clust75"><a xlink:title="This Tooltip (Cluster)">
-<polygon fill="white" stroke="black" points="1442.77,-7978 1442.77,-8310 1879.77,-8310 1879.77,-7978 1442.77,-7978"/>
-<text text-anchor="middle" x="1661.27" y="-8294.8" font-family="Times,serif" font-size="14.00">SAS Visual Forecasting</text>
-</a>
-</g>
-</g>
-<g id="clust76" class="cluster">
-<title>cluster_2_7_procs</title>
-<g id="a_clust76"><a xlink:title="This Tooltip (Cluster)">
-<polygon fill="white" stroke="black" points="1450.77,-8192 1450.77,-8280 1871.77,-8280 1871.77,-8192 1450.77,-8192"/>
-<text text-anchor="middle" x="1661.27" y="-8264.8" font-family="Times,serif" font-size="14.00">Procedures</text>
-</a>
-</g>
-</g>
-<g id="clust77" class="cluster">
-<title>cluster_2_7_actions</title>
-<g id="a_clust77"><a xlink:title="This Tooltip (Cluster)">
-<polygon fill="white" stroke="black" points="1495.77,-7986 1495.77,-8184 1826.77,-8184 1826.77,-7986 1495.77,-7986"/>
-<text text-anchor="middle" x="1661.27" y="-8168.8" font-family="Times,serif" font-size="14.00">Action Sets</text>
-</a>
-</g>
-</g>
-<g id="clust78" class="cluster">
-<title>cluster_2_8</title>
-<g id="a_clust78"><a xlink:title="This Tooltip (Cluster)">
-<polygon fill="white" stroke="black" points="1410.77,-5980 1410.77,-6270 1911.77,-6270 1911.77,-5980 1410.77,-5980"/>
-<text text-anchor="middle" x="1661.27" y="-6254.8" font-family="Times,serif" font-size="14.00">SAS Visual Statistics</text>
-</a>
-</g>
-</g>
-<g id="clust79" class="cluster">
-<title>cluster_2_8_procs</title>
-<g id="a_clust79"><a xlink:title="This Tooltip (Cluster)">
-<polygon fill="white" stroke="black" points="1418.77,-6072 1418.77,-6240 1903.77,-6240 1903.77,-6072 1418.77,-6072"/>
-<text text-anchor="middle" x="1661.27" y="-6224.8" font-family="Times,serif" font-size="14.00">Procedures</text>
-</a>
-</g>
-</g>
-<g id="clust80" class="cluster">
-<title>cluster_2_8_actions</title>
-<g id="a_clust80"><a xlink:title="This Tooltip (Cluster)">
-<polygon fill="white" stroke="black" points="1519.27,-5988 1519.27,-6064 1803.27,-6064 1803.27,-5988 1519.27,-5988"/>
-<text text-anchor="middle" x="1661.27" y="-6048.8" font-family="Times,serif" font-size="14.00">Action Sets</text>
-</a>
-</g>
-</g>
-<g id="clust81" class="cluster">
-<title>cluster_2_9</title>
-<g id="a_clust81"><a xlink:title="This Tooltip (Cluster)">
-<polygon fill="white" stroke="black" points="1192.77,-7550 1192.77,-7970 2129.77,-7970 2129.77,-7550 1192.77,-7550"/>
-<text text-anchor="middle" x="1661.27" y="-7954.8" font-family="Times,serif" font-size="14.00">SAS Visual Text Analytics</text>
-</a>
-</g>
-</g>
-<g id="clust82" class="cluster">
-<title>cluster_2_9_procs</title>
-<g id="a_clust82"><a xlink:title="This Tooltip (Cluster)">
-<polygon fill="white" stroke="black" points="1530.77,-7864 1530.77,-7940 1791.77,-7940 1791.77,-7864 1530.77,-7864"/>
-<text text-anchor="middle" x="1661.27" y="-7924.8" font-family="Times,serif" font-size="14.00">Procedures</text>
-</a>
-</g>
-</g>
-<g id="clust83" class="cluster">
-<title>cluster_2_9_actions</title>
-<g id="a_clust83"><a xlink:title="This Tooltip (Cluster)">
-<polygon fill="white" stroke="black" points="1200.77,-7558 1200.77,-7856 2121.77,-7856 2121.77,-7558 1200.77,-7558"/>
-<text text-anchor="middle" x="1661.27" y="-7840.8" font-family="Times,serif" font-size="14.00">Action Sets</text>
 </a>
 </g>
 </g>
@@ -3363,55 +3363,55 @@
 <!-- p_2_6 -->
 <g id="node38" class="node">
 <title>p_2_6</title>
-<polygon fill="none" stroke="black" points="331,-7507 331,-7615 812,-7615 812,-7507 331,-7507"/>
-<polygon fill="none" stroke="black" points="339.5,-7591 339.5,-7611 428.5,-7611 428.5,-7591 339.5,-7591"/>
-<text text-anchor="start" x="356.9" y="-7596.8" font-family="Times,serif" font-size="14.00">ASTORE</text>
-<polygon fill="none" stroke="black" points="428.5,-7591 428.5,-7611 523.5,-7611 523.5,-7591 428.5,-7591"/>
-<text text-anchor="start" x="457.72" y="-7596.8" font-family="Times,serif" font-size="14.00">BNET</text>
-<polygon fill="none" stroke="black" points="523.5,-7591 523.5,-7611 634.5,-7611 634.5,-7591 523.5,-7591"/>
-<text text-anchor="start" x="541.67" y="-7596.8" font-family="Times,serif" font-size="14.00">BOOLRULE</text>
-<polygon fill="none" stroke="black" points="634.5,-7591 634.5,-7611 725.5,-7611 725.5,-7591 634.5,-7591"/>
-<text text-anchor="start" x="646.67" y="-7596.8" font-family="Times,serif" font-size="14.00">FACTMAC</text>
-<polygon fill="none" stroke="black" points="725.5,-7591 725.5,-7611 804.5,-7611 804.5,-7591 725.5,-7591"/>
-<text text-anchor="start" x="733.23" y="-7596.8" font-family="Times,serif" font-size="14.00">FASTKNN</text>
-<polygon fill="none" stroke="black" points="339.5,-7571 339.5,-7591 428.5,-7591 428.5,-7571 339.5,-7571"/>
-<text text-anchor="start" x="367.66" y="-7576.8" font-family="Times,serif" font-size="14.00">FISM</text>
-<polygon fill="none" stroke="black" points="428.5,-7571 428.5,-7591 523.5,-7591 523.5,-7571 428.5,-7571"/>
-<text text-anchor="start" x="449.94" y="-7576.8" font-family="Times,serif" font-size="14.00">FOREST</text>
-<polygon fill="none" stroke="black" points="523.5,-7571 523.5,-7591 634.5,-7591 634.5,-7571 523.5,-7571"/>
-<text text-anchor="start" x="561.5" y="-7576.8" font-family="Times,serif" font-size="14.00">GMM</text>
-<polygon fill="none" stroke="black" points="634.5,-7571 634.5,-7591 725.5,-7591 725.5,-7571 634.5,-7571"/>
-<text text-anchor="start" x="637.22" y="-7576.8" font-family="Times,serif" font-size="14.00">GRADBOOST</text>
-<polygon fill="none" stroke="black" points="725.5,-7571 725.5,-7591 804.5,-7591 804.5,-7571 725.5,-7571"/>
-<text text-anchor="start" x="728.17" y="-7576.8" font-family="Times,serif" font-size="14.00">GVARCLUS</text>
-<polygon fill="none" stroke="black" points="339.5,-7551 339.5,-7571 428.5,-7571 428.5,-7551 339.5,-7551"/>
-<text text-anchor="start" x="365.33" y="-7556.8" font-family="Times,serif" font-size="14.00">KPCA</text>
-<polygon fill="none" stroke="black" points="428.5,-7551 428.5,-7571 523.5,-7571 523.5,-7551 428.5,-7551"/>
-<text text-anchor="start" x="431.19" y="-7556.8" font-family="Times,serif" font-size="14.00">MBANALYSIS</text>
-<polygon fill="none" stroke="black" points="523.5,-7551 523.5,-7571 634.5,-7571 634.5,-7551 523.5,-7551"/>
-<text text-anchor="start" x="545.17" y="-7556.8" font-family="Times,serif" font-size="14.00">MTLEARN</text>
-<polygon fill="none" stroke="black" points="634.5,-7551 634.5,-7571 725.5,-7571 725.5,-7551 634.5,-7551"/>
-<text text-anchor="start" x="653.55" y="-7556.8" font-family="Times,serif" font-size="14.00">MWPCA</text>
-<polygon fill="none" stroke="black" points="725.5,-7551 725.5,-7571 804.5,-7571 804.5,-7551 725.5,-7551"/>
-<text text-anchor="start" x="730.01" y="-7556.8" font-family="Times,serif" font-size="14.00">NETWORK</text>
-<polygon fill="none" stroke="black" points="339.5,-7531 339.5,-7551 428.5,-7551 428.5,-7531 339.5,-7531"/>
-<text text-anchor="start" x="365.34" y="-7536.8" font-family="Times,serif" font-size="14.00">NNET</text>
-<polygon fill="none" stroke="black" points="428.5,-7531 428.5,-7551 523.5,-7551 523.5,-7531 428.5,-7531"/>
-<text text-anchor="start" x="457.71" y="-7536.8" font-family="Times,serif" font-size="14.00">RPCA</text>
-<polygon fill="none" stroke="black" points="523.5,-7531 523.5,-7551 634.5,-7551 634.5,-7531 523.5,-7531"/>
-<text text-anchor="start" x="526.1" y="-7536.8" font-family="Times,serif" font-size="14.00">SEMISUPLEARN</text>
-<polygon fill="none" stroke="black" points="634.5,-7531 634.5,-7551 725.5,-7551 725.5,-7531 634.5,-7531"/>
-<text text-anchor="start" x="644.46" y="-7536.8" font-family="Times,serif" font-size="14.00">SPARSEML</text>
-<polygon fill="none" stroke="black" points="725.5,-7531 725.5,-7551 804.5,-7551 804.5,-7531 725.5,-7531"/>
-<text text-anchor="start" x="745.94" y="-7536.8" font-family="Times,serif" font-size="14.00">SVDD</text>
-<polygon fill="none" stroke="black" points="339.5,-7511 339.5,-7531 428.5,-7531 428.5,-7511 339.5,-7511"/>
-<text text-anchor="start" x="342.39" y="-7516.8" font-family="Times,serif" font-size="14.00">SVMACHINE</text>
-<polygon fill="none" stroke="black" points="428.5,-7511 428.5,-7531 523.5,-7531 523.5,-7511 428.5,-7511"/>
-<text text-anchor="start" x="440.23" y="-7516.8" font-family="Times,serif" font-size="14.00">TEXTMINE</text>
-<polygon fill="none" stroke="black" points="523.5,-7511 523.5,-7531 634.5,-7531 634.5,-7511 523.5,-7511"/>
-<text text-anchor="start" x="545.94" y="-7516.8" font-family="Times,serif" font-size="14.00">TMSCORE</text>
-<polygon fill="none" stroke="black" points="634.5,-7511 634.5,-7531 725.5,-7531 725.5,-7511 634.5,-7511"/>
-<text text-anchor="start" x="662.5" y="-7516.8" font-family="Times,serif" font-size="14.00">TSNE</text>
+<polygon fill="none" stroke="black" points="331,-7485 331,-7593 812,-7593 812,-7485 331,-7485"/>
+<polygon fill="none" stroke="black" points="339.5,-7569 339.5,-7589 428.5,-7589 428.5,-7569 339.5,-7569"/>
+<text text-anchor="start" x="356.9" y="-7574.8" font-family="Times,serif" font-size="14.00">ASTORE</text>
+<polygon fill="none" stroke="black" points="428.5,-7569 428.5,-7589 523.5,-7589 523.5,-7569 428.5,-7569"/>
+<text text-anchor="start" x="457.72" y="-7574.8" font-family="Times,serif" font-size="14.00">BNET</text>
+<polygon fill="none" stroke="black" points="523.5,-7569 523.5,-7589 634.5,-7589 634.5,-7569 523.5,-7569"/>
+<text text-anchor="start" x="541.67" y="-7574.8" font-family="Times,serif" font-size="14.00">BOOLRULE</text>
+<polygon fill="none" stroke="black" points="634.5,-7569 634.5,-7589 725.5,-7589 725.5,-7569 634.5,-7569"/>
+<text text-anchor="start" x="646.67" y="-7574.8" font-family="Times,serif" font-size="14.00">FACTMAC</text>
+<polygon fill="none" stroke="black" points="725.5,-7569 725.5,-7589 804.5,-7589 804.5,-7569 725.5,-7569"/>
+<text text-anchor="start" x="733.23" y="-7574.8" font-family="Times,serif" font-size="14.00">FASTKNN</text>
+<polygon fill="none" stroke="black" points="339.5,-7549 339.5,-7569 428.5,-7569 428.5,-7549 339.5,-7549"/>
+<text text-anchor="start" x="367.66" y="-7554.8" font-family="Times,serif" font-size="14.00">FISM</text>
+<polygon fill="none" stroke="black" points="428.5,-7549 428.5,-7569 523.5,-7569 523.5,-7549 428.5,-7549"/>
+<text text-anchor="start" x="449.94" y="-7554.8" font-family="Times,serif" font-size="14.00">FOREST</text>
+<polygon fill="none" stroke="black" points="523.5,-7549 523.5,-7569 634.5,-7569 634.5,-7549 523.5,-7549"/>
+<text text-anchor="start" x="561.5" y="-7554.8" font-family="Times,serif" font-size="14.00">GMM</text>
+<polygon fill="none" stroke="black" points="634.5,-7549 634.5,-7569 725.5,-7569 725.5,-7549 634.5,-7549"/>
+<text text-anchor="start" x="637.22" y="-7554.8" font-family="Times,serif" font-size="14.00">GRADBOOST</text>
+<polygon fill="none" stroke="black" points="725.5,-7549 725.5,-7569 804.5,-7569 804.5,-7549 725.5,-7549"/>
+<text text-anchor="start" x="728.17" y="-7554.8" font-family="Times,serif" font-size="14.00">GVARCLUS</text>
+<polygon fill="none" stroke="black" points="339.5,-7529 339.5,-7549 428.5,-7549 428.5,-7529 339.5,-7529"/>
+<text text-anchor="start" x="365.33" y="-7534.8" font-family="Times,serif" font-size="14.00">KPCA</text>
+<polygon fill="none" stroke="black" points="428.5,-7529 428.5,-7549 523.5,-7549 523.5,-7529 428.5,-7529"/>
+<text text-anchor="start" x="431.19" y="-7534.8" font-family="Times,serif" font-size="14.00">MBANALYSIS</text>
+<polygon fill="none" stroke="black" points="523.5,-7529 523.5,-7549 634.5,-7549 634.5,-7529 523.5,-7529"/>
+<text text-anchor="start" x="545.17" y="-7534.8" font-family="Times,serif" font-size="14.00">MTLEARN</text>
+<polygon fill="none" stroke="black" points="634.5,-7529 634.5,-7549 725.5,-7549 725.5,-7529 634.5,-7529"/>
+<text text-anchor="start" x="653.55" y="-7534.8" font-family="Times,serif" font-size="14.00">MWPCA</text>
+<polygon fill="none" stroke="black" points="725.5,-7529 725.5,-7549 804.5,-7549 804.5,-7529 725.5,-7529"/>
+<text text-anchor="start" x="730.01" y="-7534.8" font-family="Times,serif" font-size="14.00">NETWORK</text>
+<polygon fill="none" stroke="black" points="339.5,-7509 339.5,-7529 428.5,-7529 428.5,-7509 339.5,-7509"/>
+<text text-anchor="start" x="365.34" y="-7514.8" font-family="Times,serif" font-size="14.00">NNET</text>
+<polygon fill="none" stroke="black" points="428.5,-7509 428.5,-7529 523.5,-7529 523.5,-7509 428.5,-7509"/>
+<text text-anchor="start" x="457.71" y="-7514.8" font-family="Times,serif" font-size="14.00">RPCA</text>
+<polygon fill="none" stroke="black" points="523.5,-7509 523.5,-7529 634.5,-7529 634.5,-7509 523.5,-7509"/>
+<text text-anchor="start" x="526.1" y="-7514.8" font-family="Times,serif" font-size="14.00">SEMISUPLEARN</text>
+<polygon fill="none" stroke="black" points="634.5,-7509 634.5,-7529 725.5,-7529 725.5,-7509 634.5,-7509"/>
+<text text-anchor="start" x="644.46" y="-7514.8" font-family="Times,serif" font-size="14.00">SPARSEML</text>
+<polygon fill="none" stroke="black" points="725.5,-7509 725.5,-7529 804.5,-7529 804.5,-7509 725.5,-7509"/>
+<text text-anchor="start" x="745.94" y="-7514.8" font-family="Times,serif" font-size="14.00">SVDD</text>
+<polygon fill="none" stroke="black" points="339.5,-7489 339.5,-7509 428.5,-7509 428.5,-7489 339.5,-7489"/>
+<text text-anchor="start" x="342.39" y="-7494.8" font-family="Times,serif" font-size="14.00">SVMACHINE</text>
+<polygon fill="none" stroke="black" points="428.5,-7489 428.5,-7509 523.5,-7509 523.5,-7489 428.5,-7489"/>
+<text text-anchor="start" x="440.23" y="-7494.8" font-family="Times,serif" font-size="14.00">TEXTMINE</text>
+<polygon fill="none" stroke="black" points="523.5,-7489 523.5,-7509 634.5,-7509 634.5,-7489 523.5,-7489"/>
+<text text-anchor="start" x="545.94" y="-7494.8" font-family="Times,serif" font-size="14.00">TMSCORE</text>
+<polygon fill="none" stroke="black" points="634.5,-7489 634.5,-7509 725.5,-7509 725.5,-7489 634.5,-7489"/>
+<text text-anchor="start" x="662.5" y="-7494.8" font-family="Times,serif" font-size="14.00">TSNE</text>
 </g>
 <!-- p_2_8 -->
 <g id="node42" class="node">
@@ -3477,534 +3477,532 @@
 <!-- p_2_6&#45;&gt;p_2_8 -->
 <g id="edge6" class="edge">
 <title>p_2_6&#45;&gt;p_2_8</title>
-<path fill="none" stroke="black" d="M812.08,-7532.05C962.05,-7513.93 1127,-7494 1127,-7494 1127,-7494 1519.95,-6499.96 1631.22,-6218.47"/>
-<polygon fill="black" stroke="black" points="1634.48,-6219.74 1634.9,-6209.16 1627.97,-6217.17 1634.48,-6219.74"/>
-<text text-anchor="middle" x="1159.88" y="-7471.8" font-family="Times,serif" font-size="14.00">Requires</text>
+<path fill="none" stroke="black" d="M812.08,-7510.05C962.05,-7491.93 1127,-7472 1127,-7472 1127,-7472 1518.68,-6497.33 1630.68,-6218.62"/>
+<polygon fill="black" stroke="black" points="1634.06,-6219.59 1634.55,-6209 1627.57,-6216.98 1634.06,-6219.59"/>
+<text text-anchor="middle" x="1159.88" y="-7449.8" font-family="Times,serif" font-size="14.00">Requires</text>
 </g>
 <!-- a_2_6 -->
 <g id="node39" class="node">
 <title>a_2_6</title>
-<polygon fill="none" stroke="black" points="32,-5767 32,-7459 1111,-7459 1111,-5767 32,-5767"/>
-<polygon fill="none" stroke="black" points="40.5,-7405 40.5,-7455 555.5,-7455 555.5,-7405 40.5,-7405"/>
-<text text-anchor="start" x="266.5" y="-7436.8" font-family="Times,serif" font-size="14.00">ruleMining</text>
-<polygon fill="none" stroke="black" points="45.5,-7410 45.5,-7430 278.5,-7430 278.5,-7410 45.5,-7410"/>
-<text text-anchor="start" x="149.94" y="-7415.8" font-family="Times,serif" font-size="14.00">fism</text>
-<polygon fill="none" stroke="black" points="280.5,-7410 280.5,-7430 550.5,-7430 550.5,-7410 280.5,-7410"/>
-<text text-anchor="start" x="384" y="-7415.8" font-family="Times,serif" font-size="14.00">mbanalysis</text>
-<polygon fill="none" stroke="black" points="555.5,-7405 555.5,-7455 1103.5,-7455 1103.5,-7405 555.5,-7405"/>
-<text text-anchor="start" x="813.95" y="-7436.8" font-family="Times,serif" font-size="14.00">audio</text>
-<polygon fill="none" stroke="black" points="560.5,-7410 560.5,-7430 846.5,-7430 846.5,-7410 560.5,-7410"/>
-<text text-anchor="start" x="655.68" y="-7415.8" font-family="Times,serif" font-size="14.00">computeFeatures</text>
-<polygon fill="none" stroke="black" points="848.5,-7410 848.5,-7430 1098.5,-7430 1098.5,-7410 848.5,-7410"/>
-<text text-anchor="start" x="943.95" y="-7415.8" font-family="Times,serif" font-size="14.00">loadAudio</text>
-<polygon fill="none" stroke="black" points="40.5,-7311 40.5,-7405 555.5,-7405 555.5,-7311 40.5,-7311"/>
-<text text-anchor="start" x="273.9" y="-7386.8" font-family="Times,serif" font-size="14.00">autotune</text>
-<polygon fill="none" stroke="black" points="45.5,-7360 45.5,-7380 181.5,-7380 181.5,-7360 45.5,-7360"/>
-<text text-anchor="start" x="67.23" y="-7365.8" font-family="Times,serif" font-size="14.00">modelComposer</text>
-<polygon fill="none" stroke="black" points="183.5,-7360 183.5,-7380 301.5,-7380 301.5,-7360 183.5,-7360"/>
-<text text-anchor="start" x="221.5" y="-7365.8" font-family="Times,serif" font-size="14.00">tuneAll</text>
-<polygon fill="none" stroke="black" points="303.5,-7360 303.5,-7380 395.5,-7380 395.5,-7360 303.5,-7360"/>
-<text text-anchor="start" x="324.23" y="-7365.8" font-family="Times,serif" font-size="14.00">tuneBnet</text>
-<polygon fill="none" stroke="black" points="397.5,-7360 397.5,-7380 550.5,-7380 550.5,-7360 397.5,-7360"/>
-<text text-anchor="start" x="424.49" y="-7365.8" font-family="Times,serif" font-size="14.00">tuneDecisionTree</text>
+<polygon fill="none" stroke="black" points="32,-5767 32,-7437 1111,-7437 1111,-5767 32,-5767"/>
+<polygon fill="none" stroke="black" points="40.5,-7383 40.5,-7433 555.5,-7433 555.5,-7383 40.5,-7383"/>
+<text text-anchor="start" x="266.5" y="-7414.8" font-family="Times,serif" font-size="14.00">ruleMining</text>
+<polygon fill="none" stroke="black" points="45.5,-7388 45.5,-7408 278.5,-7408 278.5,-7388 45.5,-7388"/>
+<text text-anchor="start" x="149.94" y="-7393.8" font-family="Times,serif" font-size="14.00">fism</text>
+<polygon fill="none" stroke="black" points="280.5,-7388 280.5,-7408 550.5,-7408 550.5,-7388 280.5,-7388"/>
+<text text-anchor="start" x="384" y="-7393.8" font-family="Times,serif" font-size="14.00">mbanalysis</text>
+<polygon fill="none" stroke="black" points="555.5,-7383 555.5,-7433 1103.5,-7433 1103.5,-7383 555.5,-7383"/>
+<text text-anchor="start" x="813.95" y="-7414.8" font-family="Times,serif" font-size="14.00">audio</text>
+<polygon fill="none" stroke="black" points="560.5,-7388 560.5,-7408 846.5,-7408 846.5,-7388 560.5,-7388"/>
+<text text-anchor="start" x="655.68" y="-7393.8" font-family="Times,serif" font-size="14.00">computeFeatures</text>
+<polygon fill="none" stroke="black" points="848.5,-7388 848.5,-7408 1098.5,-7408 1098.5,-7388 848.5,-7388"/>
+<text text-anchor="start" x="943.95" y="-7393.8" font-family="Times,serif" font-size="14.00">loadAudio</text>
+<polygon fill="none" stroke="black" points="40.5,-7289 40.5,-7383 555.5,-7383 555.5,-7289 40.5,-7289"/>
+<text text-anchor="start" x="273.9" y="-7364.8" font-family="Times,serif" font-size="14.00">autotune</text>
 <polygon fill="none" stroke="black" points="45.5,-7338 45.5,-7358 181.5,-7358 181.5,-7338 45.5,-7338"/>
-<text text-anchor="start" x="76.96" y="-7343.8" font-family="Times,serif" font-size="14.00">tuneFactMac</text>
+<text text-anchor="start" x="67.23" y="-7343.8" font-family="Times,serif" font-size="14.00">modelComposer</text>
 <polygon fill="none" stroke="black" points="183.5,-7338 183.5,-7358 301.5,-7358 301.5,-7338 183.5,-7338"/>
-<text text-anchor="start" x="212.95" y="-7343.8" font-family="Times,serif" font-size="14.00">tuneForest</text>
+<text text-anchor="start" x="221.5" y="-7343.8" font-family="Times,serif" font-size="14.00">tuneAll</text>
 <polygon fill="none" stroke="black" points="303.5,-7338 303.5,-7358 395.5,-7358 395.5,-7338 303.5,-7338"/>
-<text text-anchor="start" x="325" y="-7343.8" font-family="Times,serif" font-size="14.00">tuneGlm</text>
+<text text-anchor="start" x="324.23" y="-7343.8" font-family="Times,serif" font-size="14.00">tuneBnet</text>
 <polygon fill="none" stroke="black" points="397.5,-7338 397.5,-7358 550.5,-7358 550.5,-7338 397.5,-7338"/>
-<text text-anchor="start" x="408.54" y="-7343.8" font-family="Times,serif" font-size="14.00">tuneGradientBoostTree</text>
+<text text-anchor="start" x="424.49" y="-7343.8" font-family="Times,serif" font-size="14.00">tuneDecisionTree</text>
 <polygon fill="none" stroke="black" points="45.5,-7316 45.5,-7336 181.5,-7336 181.5,-7316 45.5,-7316"/>
-<text text-anchor="start" x="57.12" y="-7321.8" font-family="Times,serif" font-size="14.00">tuneGraphMultiReg</text>
+<text text-anchor="start" x="76.96" y="-7321.8" font-family="Times,serif" font-size="14.00">tuneFactMac</text>
 <polygon fill="none" stroke="black" points="183.5,-7316 183.5,-7336 301.5,-7336 301.5,-7316 183.5,-7316"/>
-<text text-anchor="start" x="195.08" y="-7321.8" font-family="Times,serif" font-size="14.00">tuneLabelSpread</text>
+<text text-anchor="start" x="212.95" y="-7321.8" font-family="Times,serif" font-size="14.00">tuneForest</text>
 <polygon fill="none" stroke="black" points="303.5,-7316 303.5,-7336 395.5,-7336 395.5,-7316 303.5,-7316"/>
-<text text-anchor="start" x="314.51" y="-7321.8" font-family="Times,serif" font-size="14.00">tuneLogistic</text>
+<text text-anchor="start" x="325" y="-7321.8" font-family="Times,serif" font-size="14.00">tuneGlm</text>
 <polygon fill="none" stroke="black" points="397.5,-7316 397.5,-7336 550.5,-7336 550.5,-7316 397.5,-7316"/>
-<text text-anchor="start" x="432.8" y="-7321.8" font-family="Times,serif" font-size="14.00">tuneNeuralNet</text>
-<polygon fill="none" stroke="black" points="555.5,-7311 555.5,-7405 1103.5,-7405 1103.5,-7311 555.5,-7311"/>
-<text text-anchor="start" x="768.46" y="-7375.8" font-family="Times,serif" font-size="14.00">bayesianNetClassifier</text>
-<polygon fill="none" stroke="black" points="560.5,-7316 560.5,-7358 1098.5,-7358 1098.5,-7316 560.5,-7316"/>
-<text text-anchor="start" x="817.45" y="-7332.8" font-family="Times,serif" font-size="14.00">bnet</text>
-<polygon fill="none" stroke="black" points="40.5,-7261 40.5,-7311 555.5,-7311 555.5,-7261 40.5,-7261"/>
-<text text-anchor="start" x="258.73" y="-7292.8" font-family="Times,serif" font-size="14.00">bioMedImage</text>
-<polygon fill="none" stroke="black" points="45.5,-7266 45.5,-7286 136.5,-7286 136.5,-7266 45.5,-7266"/>
-<text text-anchor="start" x="55.23" y="-7271.8" font-family="Times,serif" font-size="14.00">buildSurface</text>
-<polygon fill="none" stroke="black" points="138.5,-7266 138.5,-7286 246.5,-7286 246.5,-7266 138.5,-7266"/>
-<text text-anchor="start" x="148.18" y="-7271.8" font-family="Times,serif" font-size="14.00">loadDicomData</text>
-<polygon fill="none" stroke="black" points="248.5,-7266 248.5,-7286 396.5,-7286 396.5,-7266 248.5,-7266"/>
-<text text-anchor="start" x="258.35" y="-7271.8" font-family="Times,serif" font-size="14.00">processBioMedImages</text>
-<polygon fill="none" stroke="black" points="398.5,-7266 398.5,-7286 550.5,-7286 550.5,-7266 398.5,-7266"/>
-<text text-anchor="start" x="408.01" y="-7271.8" font-family="Times,serif" font-size="14.00">quantifyBioMedImages</text>
-<polygon fill="none" stroke="black" points="555.5,-7261 555.5,-7311 1103.5,-7311 1103.5,-7261 555.5,-7261"/>
-<text text-anchor="start" x="803.83" y="-7292.8" font-family="Times,serif" font-size="14.00">boolRule</text>
-<polygon fill="none" stroke="black" points="560.5,-7266 560.5,-7286 694.5,-7286 694.5,-7266 560.5,-7266"/>
-<text text-anchor="start" x="605.73" y="-7271.8" font-family="Times,serif" font-size="14.00">brScore</text>
-<polygon fill="none" stroke="black" points="696.5,-7266 696.5,-7286 828.5,-7286 828.5,-7266 696.5,-7266"/>
-<text text-anchor="start" x="741.75" y="-7271.8" font-family="Times,serif" font-size="14.00">brTrain</text>
-<polygon fill="none" stroke="black" points="830.5,-7266 830.5,-7286 964.5,-7286 964.5,-7266 830.5,-7266"/>
-<text text-anchor="start" x="875.73" y="-7271.8" font-family="Times,serif" font-size="14.00">brScore</text>
-<polygon fill="none" stroke="black" points="966.5,-7266 966.5,-7286 1098.5,-7286 1098.5,-7266 966.5,-7266"/>
-<text text-anchor="start" x="1011.75" y="-7271.8" font-family="Times,serif" font-size="14.00">brTrain</text>
-<polygon fill="none" stroke="black" points="40.5,-7211 40.5,-7261 555.5,-7261 555.5,-7211 40.5,-7211"/>
-<text text-anchor="start" x="268.07" y="-7242.8" font-family="Times,serif" font-size="14.00">cardinality</text>
-<polygon fill="none" stroke="black" points="45.5,-7216 45.5,-7236 297.5,-7236 297.5,-7216 45.5,-7216"/>
-<text text-anchor="start" x="140.79" y="-7221.8" font-family="Times,serif" font-size="14.00">summarize</text>
-<polygon fill="none" stroke="black" points="299.5,-7216 299.5,-7236 550.5,-7236 550.5,-7216 299.5,-7216"/>
-<text text-anchor="start" x="394.29" y="-7221.8" font-family="Times,serif" font-size="14.00">summarize</text>
-<polygon fill="none" stroke="black" points="555.5,-7211 555.5,-7261 1103.5,-7261 1103.5,-7211 555.5,-7211"/>
-<text text-anchor="start" x="801.9" y="-7242.8" font-family="Times,serif" font-size="14.00">clustering</text>
-<polygon fill="none" stroke="black" points="560.5,-7216 560.5,-7236 828.5,-7236 828.5,-7216 560.5,-7216"/>
-<text text-anchor="start" x="678.16" y="-7221.8" font-family="Times,serif" font-size="14.00">kClus</text>
-<polygon fill="none" stroke="black" points="830.5,-7216 830.5,-7236 1098.5,-7236 1098.5,-7216 830.5,-7216"/>
-<text text-anchor="start" x="948.16" y="-7221.8" font-family="Times,serif" font-size="14.00">kClus</text>
-<polygon fill="none" stroke="black" points="40.5,-7117 40.5,-7211 555.5,-7211 555.5,-7117 40.5,-7117"/>
-<text text-anchor="start" x="251.35" y="-7188.8" font-family="Times,serif" font-size="14.00">dataSciencePilot</text>
-<polygon fill="none" stroke="black" points="45.5,-7151 45.5,-7178 183.5,-7178 183.5,-7151 45.5,-7151"/>
-<text text-anchor="start" x="48.01" y="-7160.3" font-family="Times,serif" font-size="14.00">analyzeMissingPatterns</text>
-<polygon fill="none" stroke="black" points="185.5,-7151 185.5,-7178 290.5,-7178 290.5,-7151 185.5,-7151"/>
-<text text-anchor="start" x="188.25" y="-7160.3" font-family="Times,serif" font-size="14.00">detectInteractions</text>
-<polygon fill="none" stroke="black" points="292.5,-7151 292.5,-7178 437.5,-7178 437.5,-7151 292.5,-7151"/>
-<text text-anchor="start" x="336.61" y="-7160.3" font-family="Times,serif" font-size="14.00">dsAutoMl</text>
-<polygon fill="none" stroke="black" points="439.5,-7151 439.5,-7178 550.5,-7178 550.5,-7151 439.5,-7151"/>
-<text text-anchor="start" x="442.13" y="-7160.3" font-family="Times,serif" font-size="14.00">exploreCorrelation</text>
-<polygon fill="none" stroke="black" points="45.5,-7122 45.5,-7149 183.5,-7149 183.5,-7122 45.5,-7122"/>
-<text text-anchor="start" x="80.3" y="-7131.3" font-family="Times,serif" font-size="14.00">exploreData</text>
-<polygon fill="none" stroke="black" points="185.5,-7122 185.5,-7149 290.5,-7149 290.5,-7122 185.5,-7122"/>
-<text text-anchor="start" x="194.08" y="-7131.3" font-family="Times,serif" font-size="14.00">featureMachine</text>
-<polygon fill="none" stroke="black" points="292.5,-7122 292.5,-7149 437.5,-7149 437.5,-7122 292.5,-7122"/>
-<text text-anchor="start" x="295.03" y="-7131.3" font-family="Times,serif" font-size="14.00">generateShadowFeatures</text>
-<polygon fill="none" stroke="black" points="439.5,-7122 439.5,-7149 550.5,-7149 550.5,-7122 439.5,-7122"/>
-<text text-anchor="start" x="451.08" y="-7131.3" font-family="Times,serif" font-size="14.00">screenVariables</text>
-<polygon fill="none" stroke="black" points="555.5,-7117 555.5,-7211 1103.5,-7211 1103.5,-7117 555.5,-7117"/>
-<text text-anchor="start" x="799.97" y="-7192.8" font-family="Times,serif" font-size="14.00">deepLearn</text>
-<polygon fill="none" stroke="black" points="560.5,-7166 560.5,-7186 659.5,-7186 659.5,-7166 560.5,-7166"/>
-<text text-anchor="start" x="583.57" y="-7171.8" font-family="Times,serif" font-size="14.00">addLayer</text>
-<polygon fill="none" stroke="black" points="661.5,-7166 661.5,-7186 786.5,-7186 786.5,-7166 661.5,-7166"/>
-<text text-anchor="start" x="691.33" y="-7171.8" font-family="Times,serif" font-size="14.00">buildModel</text>
-<polygon fill="none" stroke="black" points="788.5,-7166 788.5,-7186 919.5,-7186 919.5,-7166 788.5,-7166"/>
-<text text-anchor="start" x="811.23" y="-7171.8" font-family="Times,serif" font-size="14.00">dlExportModel</text>
-<polygon fill="none" stroke="black" points="921.5,-7166 921.5,-7186 1098.5,-7186 1098.5,-7166 921.5,-7166"/>
-<text text-anchor="start" x="944.46" y="-7171.8" font-family="Times,serif" font-size="14.00">dlImportModelWeights</text>
+<text text-anchor="start" x="408.54" y="-7321.8" font-family="Times,serif" font-size="14.00">tuneGradientBoostTree</text>
+<polygon fill="none" stroke="black" points="45.5,-7294 45.5,-7314 181.5,-7314 181.5,-7294 45.5,-7294"/>
+<text text-anchor="start" x="57.12" y="-7299.8" font-family="Times,serif" font-size="14.00">tuneGraphMultiReg</text>
+<polygon fill="none" stroke="black" points="183.5,-7294 183.5,-7314 301.5,-7314 301.5,-7294 183.5,-7294"/>
+<text text-anchor="start" x="195.08" y="-7299.8" font-family="Times,serif" font-size="14.00">tuneLabelSpread</text>
+<polygon fill="none" stroke="black" points="303.5,-7294 303.5,-7314 395.5,-7314 395.5,-7294 303.5,-7294"/>
+<text text-anchor="start" x="314.51" y="-7299.8" font-family="Times,serif" font-size="14.00">tuneLogistic</text>
+<polygon fill="none" stroke="black" points="397.5,-7294 397.5,-7314 550.5,-7314 550.5,-7294 397.5,-7294"/>
+<text text-anchor="start" x="432.8" y="-7299.8" font-family="Times,serif" font-size="14.00">tuneNeuralNet</text>
+<polygon fill="none" stroke="black" points="555.5,-7289 555.5,-7383 1103.5,-7383 1103.5,-7289 555.5,-7289"/>
+<text text-anchor="start" x="768.46" y="-7353.8" font-family="Times,serif" font-size="14.00">bayesianNetClassifier</text>
+<polygon fill="none" stroke="black" points="560.5,-7294 560.5,-7336 1098.5,-7336 1098.5,-7294 560.5,-7294"/>
+<text text-anchor="start" x="817.45" y="-7310.8" font-family="Times,serif" font-size="14.00">bnet</text>
+<polygon fill="none" stroke="black" points="40.5,-7239 40.5,-7289 555.5,-7289 555.5,-7239 40.5,-7239"/>
+<text text-anchor="start" x="258.73" y="-7270.8" font-family="Times,serif" font-size="14.00">bioMedImage</text>
+<polygon fill="none" stroke="black" points="45.5,-7244 45.5,-7264 136.5,-7264 136.5,-7244 45.5,-7244"/>
+<text text-anchor="start" x="55.23" y="-7249.8" font-family="Times,serif" font-size="14.00">buildSurface</text>
+<polygon fill="none" stroke="black" points="138.5,-7244 138.5,-7264 246.5,-7264 246.5,-7244 138.5,-7244"/>
+<text text-anchor="start" x="148.18" y="-7249.8" font-family="Times,serif" font-size="14.00">loadDicomData</text>
+<polygon fill="none" stroke="black" points="248.5,-7244 248.5,-7264 396.5,-7264 396.5,-7244 248.5,-7244"/>
+<text text-anchor="start" x="258.35" y="-7249.8" font-family="Times,serif" font-size="14.00">processBioMedImages</text>
+<polygon fill="none" stroke="black" points="398.5,-7244 398.5,-7264 550.5,-7264 550.5,-7244 398.5,-7244"/>
+<text text-anchor="start" x="408.01" y="-7249.8" font-family="Times,serif" font-size="14.00">quantifyBioMedImages</text>
+<polygon fill="none" stroke="black" points="555.5,-7239 555.5,-7289 1103.5,-7289 1103.5,-7239 555.5,-7239"/>
+<text text-anchor="start" x="803.83" y="-7270.8" font-family="Times,serif" font-size="14.00">boolRule</text>
+<polygon fill="none" stroke="black" points="560.5,-7244 560.5,-7264 694.5,-7264 694.5,-7244 560.5,-7244"/>
+<text text-anchor="start" x="605.73" y="-7249.8" font-family="Times,serif" font-size="14.00">brScore</text>
+<polygon fill="none" stroke="black" points="696.5,-7244 696.5,-7264 828.5,-7264 828.5,-7244 696.5,-7244"/>
+<text text-anchor="start" x="741.75" y="-7249.8" font-family="Times,serif" font-size="14.00">brTrain</text>
+<polygon fill="none" stroke="black" points="830.5,-7244 830.5,-7264 964.5,-7264 964.5,-7244 830.5,-7244"/>
+<text text-anchor="start" x="875.73" y="-7249.8" font-family="Times,serif" font-size="14.00">brScore</text>
+<polygon fill="none" stroke="black" points="966.5,-7244 966.5,-7264 1098.5,-7264 1098.5,-7244 966.5,-7244"/>
+<text text-anchor="start" x="1011.75" y="-7249.8" font-family="Times,serif" font-size="14.00">brTrain</text>
+<polygon fill="none" stroke="black" points="40.5,-7189 40.5,-7239 555.5,-7239 555.5,-7189 40.5,-7189"/>
+<text text-anchor="start" x="268.07" y="-7220.8" font-family="Times,serif" font-size="14.00">cardinality</text>
+<polygon fill="none" stroke="black" points="45.5,-7194 45.5,-7214 297.5,-7214 297.5,-7194 45.5,-7194"/>
+<text text-anchor="start" x="140.79" y="-7199.8" font-family="Times,serif" font-size="14.00">summarize</text>
+<polygon fill="none" stroke="black" points="299.5,-7194 299.5,-7214 550.5,-7214 550.5,-7194 299.5,-7194"/>
+<text text-anchor="start" x="394.29" y="-7199.8" font-family="Times,serif" font-size="14.00">summarize</text>
+<polygon fill="none" stroke="black" points="555.5,-7189 555.5,-7239 1103.5,-7239 1103.5,-7189 555.5,-7189"/>
+<text text-anchor="start" x="801.9" y="-7220.8" font-family="Times,serif" font-size="14.00">clustering</text>
+<polygon fill="none" stroke="black" points="560.5,-7194 560.5,-7214 828.5,-7214 828.5,-7194 560.5,-7194"/>
+<text text-anchor="start" x="678.16" y="-7199.8" font-family="Times,serif" font-size="14.00">kClus</text>
+<polygon fill="none" stroke="black" points="830.5,-7194 830.5,-7214 1098.5,-7214 1098.5,-7194 830.5,-7194"/>
+<text text-anchor="start" x="948.16" y="-7199.8" font-family="Times,serif" font-size="14.00">kClus</text>
+<polygon fill="none" stroke="black" points="40.5,-7095 40.5,-7189 555.5,-7189 555.5,-7095 40.5,-7095"/>
+<text text-anchor="start" x="251.35" y="-7166.8" font-family="Times,serif" font-size="14.00">dataSciencePilot</text>
+<polygon fill="none" stroke="black" points="45.5,-7129 45.5,-7156 183.5,-7156 183.5,-7129 45.5,-7129"/>
+<text text-anchor="start" x="48.01" y="-7138.3" font-family="Times,serif" font-size="14.00">analyzeMissingPatterns</text>
+<polygon fill="none" stroke="black" points="185.5,-7129 185.5,-7156 290.5,-7156 290.5,-7129 185.5,-7129"/>
+<text text-anchor="start" x="188.25" y="-7138.3" font-family="Times,serif" font-size="14.00">detectInteractions</text>
+<polygon fill="none" stroke="black" points="292.5,-7129 292.5,-7156 437.5,-7156 437.5,-7129 292.5,-7129"/>
+<text text-anchor="start" x="336.61" y="-7138.3" font-family="Times,serif" font-size="14.00">dsAutoMl</text>
+<polygon fill="none" stroke="black" points="439.5,-7129 439.5,-7156 550.5,-7156 550.5,-7129 439.5,-7129"/>
+<text text-anchor="start" x="442.13" y="-7138.3" font-family="Times,serif" font-size="14.00">exploreCorrelation</text>
+<polygon fill="none" stroke="black" points="45.5,-7100 45.5,-7127 183.5,-7127 183.5,-7100 45.5,-7100"/>
+<text text-anchor="start" x="80.3" y="-7109.3" font-family="Times,serif" font-size="14.00">exploreData</text>
+<polygon fill="none" stroke="black" points="185.5,-7100 185.5,-7127 290.5,-7127 290.5,-7100 185.5,-7100"/>
+<text text-anchor="start" x="194.08" y="-7109.3" font-family="Times,serif" font-size="14.00">featureMachine</text>
+<polygon fill="none" stroke="black" points="292.5,-7100 292.5,-7127 437.5,-7127 437.5,-7100 292.5,-7100"/>
+<text text-anchor="start" x="295.03" y="-7109.3" font-family="Times,serif" font-size="14.00">generateShadowFeatures</text>
+<polygon fill="none" stroke="black" points="439.5,-7100 439.5,-7127 550.5,-7127 550.5,-7100 439.5,-7100"/>
+<text text-anchor="start" x="451.08" y="-7109.3" font-family="Times,serif" font-size="14.00">screenVariables</text>
+<polygon fill="none" stroke="black" points="555.5,-7095 555.5,-7189 1103.5,-7189 1103.5,-7095 555.5,-7095"/>
+<text text-anchor="start" x="799.97" y="-7170.8" font-family="Times,serif" font-size="14.00">deepLearn</text>
 <polygon fill="none" stroke="black" points="560.5,-7144 560.5,-7164 659.5,-7164 659.5,-7144 560.5,-7144"/>
-<text text-anchor="start" x="592.89" y="-7149.8" font-family="Times,serif" font-size="14.00">dlJoin</text>
+<text text-anchor="start" x="583.57" y="-7149.8" font-family="Times,serif" font-size="14.00">addLayer</text>
 <polygon fill="none" stroke="black" points="661.5,-7144 661.5,-7164 786.5,-7164 786.5,-7144 661.5,-7144"/>
-<text text-anchor="start" x="684.97" y="-7149.8" font-family="Times,serif" font-size="14.00">dlLabelTarget</text>
+<text text-anchor="start" x="691.33" y="-7149.8" font-family="Times,serif" font-size="14.00">buildModel</text>
 <polygon fill="none" stroke="black" points="788.5,-7144 788.5,-7164 919.5,-7164 919.5,-7144 788.5,-7144"/>
-<text text-anchor="start" x="832.22" y="-7149.8" font-family="Times,serif" font-size="14.00">dlPrune</text>
+<text text-anchor="start" x="811.23" y="-7149.8" font-family="Times,serif" font-size="14.00">dlExportModel</text>
 <polygon fill="none" stroke="black" points="921.5,-7144 921.5,-7164 1098.5,-7164 1098.5,-7144 921.5,-7144"/>
-<text text-anchor="start" x="988.62" y="-7149.8" font-family="Times,serif" font-size="14.00">dlScore</text>
+<text text-anchor="start" x="944.46" y="-7149.8" font-family="Times,serif" font-size="14.00">dlImportModelWeights</text>
 <polygon fill="none" stroke="black" points="560.5,-7122 560.5,-7142 659.5,-7142 659.5,-7122 560.5,-7122"/>
-<text text-anchor="start" x="589.64" y="-7127.8" font-family="Times,serif" font-size="14.00">dlTrain</text>
+<text text-anchor="start" x="592.89" y="-7127.8" font-family="Times,serif" font-size="14.00">dlJoin</text>
 <polygon fill="none" stroke="black" points="661.5,-7122 661.5,-7142 786.5,-7142 786.5,-7122 661.5,-7122"/>
-<text text-anchor="start" x="704.42" y="-7127.8" font-family="Times,serif" font-size="14.00">dlTune</text>
+<text text-anchor="start" x="684.97" y="-7127.8" font-family="Times,serif" font-size="14.00">dlLabelTarget</text>
 <polygon fill="none" stroke="black" points="788.5,-7122 788.5,-7142 919.5,-7142 919.5,-7122 788.5,-7122"/>
-<text text-anchor="start" x="824.84" y="-7127.8" font-family="Times,serif" font-size="14.00">modelInfo</text>
+<text text-anchor="start" x="832.22" y="-7127.8" font-family="Times,serif" font-size="14.00">dlPrune</text>
 <polygon fill="none" stroke="black" points="921.5,-7122 921.5,-7142 1098.5,-7142 1098.5,-7122 921.5,-7122"/>
-<text text-anchor="start" x="972.69" y="-7127.8" font-family="Times,serif" font-size="14.00">removeLayer</text>
-<polygon fill="none" stroke="black" points="40.5,-7067 40.5,-7117 555.5,-7117 555.5,-7067 40.5,-7067"/>
-<text text-anchor="start" x="265.74" y="-7098.8" font-family="Times,serif" font-size="14.00">deepNeural</text>
-<polygon fill="none" stroke="black" points="45.5,-7072 45.5,-7092 158.5,-7092 158.5,-7072 45.5,-7072"/>
-<text text-anchor="start" x="76.72" y="-7077.8" font-family="Times,serif" font-size="14.00">dnnCode</text>
-<polygon fill="none" stroke="black" points="160.5,-7072 160.5,-7092 318.5,-7092 318.5,-7072 160.5,-7072"/>
-<text text-anchor="start" x="191.67" y="-7077.8" font-family="Times,serif" font-size="14.00">dnnExportModel</text>
-<polygon fill="none" stroke="black" points="320.5,-7072 320.5,-7092 435.5,-7092 435.5,-7072 320.5,-7072"/>
-<text text-anchor="start" x="351.56" y="-7077.8" font-family="Times,serif" font-size="14.00">dnnScore</text>
-<polygon fill="none" stroke="black" points="437.5,-7072 437.5,-7092 550.5,-7092 550.5,-7072 437.5,-7072"/>
-<text text-anchor="start" x="468.58" y="-7077.8" font-family="Times,serif" font-size="14.00">dnnTrain</text>
-<polygon fill="none" stroke="black" points="555.5,-7067 555.5,-7117 1103.5,-7117 1103.5,-7067 555.5,-7067"/>
-<text text-anchor="start" x="799.57" y="-7098.8" font-family="Times,serif" font-size="14.00">varReduce</text>
-<polygon fill="none" stroke="black" points="560.5,-7072 560.5,-7092 686.5,-7092 686.5,-7072 560.5,-7072"/>
-<text text-anchor="start" x="608.34" y="-7077.8" font-family="Times,serif" font-size="14.00">super</text>
-<polygon fill="none" stroke="black" points="688.5,-7072 688.5,-7092 828.5,-7092 828.5,-7072 688.5,-7072"/>
-<text text-anchor="start" x="736.34" y="-7077.8" font-family="Times,serif" font-size="14.00">unsuper</text>
-<polygon fill="none" stroke="black" points="830.5,-7072 830.5,-7092 956.5,-7092 956.5,-7072 830.5,-7072"/>
-<text text-anchor="start" x="878.34" y="-7077.8" font-family="Times,serif" font-size="14.00">super</text>
-<polygon fill="none" stroke="black" points="958.5,-7072 958.5,-7092 1098.5,-7092 1098.5,-7072 958.5,-7072"/>
-<text text-anchor="start" x="1006.34" y="-7077.8" font-family="Times,serif" font-size="14.00">unsuper</text>
-<polygon fill="none" stroke="black" points="40.5,-7017 40.5,-7067 555.5,-7067 555.5,-7017 40.5,-7017"/>
-<text text-anchor="start" x="267.27" y="-7048.8" font-family="Times,serif" font-size="14.00">simSystem</text>
-<polygon fill="none" stroke="black" points="45.5,-7022 45.5,-7042 297.5,-7042 297.5,-7022 45.5,-7022"/>
-<text text-anchor="start" x="155.16" y="-7027.8" font-family="Times,serif" font-size="14.00">simsk</text>
-<polygon fill="none" stroke="black" points="299.5,-7022 299.5,-7042 550.5,-7042 550.5,-7022 299.5,-7022"/>
-<text text-anchor="start" x="408.66" y="-7027.8" font-family="Times,serif" font-size="14.00">simsk</text>
-<polygon fill="none" stroke="black" points="555.5,-7017 555.5,-7067 1103.5,-7067 1103.5,-7017 555.5,-7017"/>
-<text text-anchor="start" x="790.62" y="-7048.8" font-family="Times,serif" font-size="14.00">explainModel</text>
-<polygon fill="none" stroke="black" points="560.5,-7022 560.5,-7042 729.5,-7042 729.5,-7022 560.5,-7022"/>
-<text text-anchor="start" x="601.85" y="-7027.8" font-family="Times,serif" font-size="14.00">linearExplainer</text>
-<polygon fill="none" stroke="black" points="731.5,-7022 731.5,-7042 917.5,-7042 917.5,-7022 731.5,-7022"/>
-<text text-anchor="start" x="772.03" y="-7027.8" font-family="Times,serif" font-size="14.00">partialDependence</text>
-<polygon fill="none" stroke="black" points="919.5,-7022 919.5,-7042 1098.5,-7042 1098.5,-7022 919.5,-7022"/>
-<text text-anchor="start" x="960.41" y="-7027.8" font-family="Times,serif" font-size="14.00">shapleyExplainer</text>
-<polygon fill="none" stroke="black" points="40.5,-6967 40.5,-7017 555.5,-7017 555.5,-6967 40.5,-6967"/>
-<text text-anchor="start" x="275.85" y="-6998.8" font-family="Times,serif" font-size="14.00">factmac</text>
-<polygon fill="none" stroke="black" points="45.5,-6972 45.5,-6992 550.5,-6992 550.5,-6972 45.5,-6972"/>
-<text text-anchor="start" x="275.85" y="-6977.8" font-family="Times,serif" font-size="14.00">factmac</text>
-<polygon fill="none" stroke="black" points="555.5,-6967 555.5,-7017 1103.5,-7017 1103.5,-6967 555.5,-6967"/>
-<text text-anchor="start" x="807.34" y="-6998.8" font-family="Times,serif" font-size="14.00">fastKnn</text>
-<polygon fill="none" stroke="black" points="560.5,-6972 560.5,-6992 1098.5,-6992 1098.5,-6972 560.5,-6972"/>
-<text text-anchor="start" x="808.89" y="-6977.8" font-family="Times,serif" font-size="14.00">fastknn</text>
-<polygon fill="none" stroke="black" points="40.5,-6917 40.5,-6967 555.5,-6967 555.5,-6917 40.5,-6917"/>
-<text text-anchor="start" x="276.34" y="-6948.8" font-family="Times,serif" font-size="14.00">freqTab</text>
-<polygon fill="none" stroke="black" points="45.5,-6922 45.5,-6942 297.5,-6942 297.5,-6922 45.5,-6922"/>
-<text text-anchor="start" x="149.84" y="-6927.8" font-family="Times,serif" font-size="14.00">freqTab</text>
-<polygon fill="none" stroke="black" points="299.5,-6922 299.5,-6942 550.5,-6942 550.5,-6922 299.5,-6922"/>
-<text text-anchor="start" x="403.34" y="-6927.8" font-family="Times,serif" font-size="14.00">freqTab</text>
-<polygon fill="none" stroke="black" points="555.5,-6917 555.5,-6967 1103.5,-6967 1103.5,-6917 555.5,-6917"/>
-<text text-anchor="start" x="817.45" y="-6948.8" font-family="Times,serif" font-size="14.00">gam</text>
-<polygon fill="none" stroke="black" points="560.5,-6922 560.5,-6942 698.5,-6942 698.5,-6922 560.5,-6922"/>
-<text text-anchor="start" x="601.51" y="-6927.8" font-family="Times,serif" font-size="14.00">gamScore</text>
-<polygon fill="none" stroke="black" points="700.5,-6922 700.5,-6942 841.5,-6942 841.5,-6922 700.5,-6922"/>
-<text text-anchor="start" x="741.84" y="-6927.8" font-family="Times,serif" font-size="14.00">gamSelect</text>
-<polygon fill="none" stroke="black" points="843.5,-6922 843.5,-6942 959.5,-6942 959.5,-6922 843.5,-6922"/>
-<text text-anchor="start" x="884" y="-6927.8" font-family="Times,serif" font-size="14.00">gampl</text>
-<polygon fill="none" stroke="black" points="961.5,-6922 961.5,-6942 1098.5,-6942 1098.5,-6922 961.5,-6922"/>
-<text text-anchor="start" x="1002.01" y="-6927.8" font-family="Times,serif" font-size="14.00">gamScore</text>
-<polygon fill="none" stroke="black" points="40.5,-6867 40.5,-6917 555.5,-6917 555.5,-6867 40.5,-6867"/>
-<text text-anchor="start" x="280.9" y="-6898.8" font-family="Times,serif" font-size="14.00">gleam</text>
-<polygon fill="none" stroke="black" points="45.5,-6872 45.5,-6892 550.5,-6892 550.5,-6872 45.5,-6872"/>
-<text text-anchor="start" x="255.23" y="-6877.8" font-family="Times,serif" font-size="14.00">graphMultiReg</text>
-<polygon fill="none" stroke="black" points="555.5,-6867 555.5,-6917 1103.5,-6917 1103.5,-6867 555.5,-6867"/>
-<text text-anchor="start" x="771.96" y="-6898.8" font-family="Times,serif" font-size="14.00">graphSemiSupLearn</text>
-<polygon fill="none" stroke="black" points="560.5,-6872 560.5,-6892 1098.5,-6892 1098.5,-6872 560.5,-6872"/>
-<text text-anchor="start" x="796.46" y="-6877.8" font-family="Times,serif" font-size="14.00">labelSpread</text>
-<polygon fill="none" stroke="black" points="40.5,-6773 40.5,-6867 555.5,-6867 555.5,-6773 40.5,-6773"/>
-<text text-anchor="start" x="264.56" y="-6837.8" font-family="Times,serif" font-size="14.00">gVarCluster</text>
-<polygon fill="none" stroke="black" points="45.5,-6778 45.5,-6820 550.5,-6820 550.5,-6778 45.5,-6778"/>
-<text text-anchor="start" x="266.9" y="-6794.8" font-family="Times,serif" font-size="14.00">gvarcluster</text>
-<polygon fill="none" stroke="black" points="555.5,-6773 555.5,-6867 1103.5,-6867 1103.5,-6773 555.5,-6773"/>
-<text text-anchor="start" x="812.4" y="-6848.8" font-family="Times,serif" font-size="14.00">image</text>
-<polygon fill="none" stroke="black" points="560.5,-6822 560.5,-6842 696.5,-6842 696.5,-6822 560.5,-6822"/>
-<text text-anchor="start" x="584.58" y="-6827.8" font-family="Times,serif" font-size="14.00">annotateImages</text>
-<polygon fill="none" stroke="black" points="698.5,-6822 698.5,-6842 792.5,-6842 792.5,-6822 698.5,-6822"/>
-<text text-anchor="start" x="701.18" y="-6827.8" font-family="Times,serif" font-size="14.00">augmentImages</text>
-<polygon fill="none" stroke="black" points="794.5,-6822 794.5,-6842 989.5,-6842 989.5,-6822 794.5,-6822"/>
-<text text-anchor="start" x="847.69" y="-6827.8" font-family="Times,serif" font-size="14.00">compareImages</text>
-<polygon fill="none" stroke="black" points="991.5,-6822 991.5,-6842 1098.5,-6842 1098.5,-6822 991.5,-6822"/>
-<text text-anchor="start" x="998.74" y="-6827.8" font-family="Times,serif" font-size="14.00">condenseImages</text>
+<text text-anchor="start" x="988.62" y="-7127.8" font-family="Times,serif" font-size="14.00">dlScore</text>
+<polygon fill="none" stroke="black" points="560.5,-7100 560.5,-7120 659.5,-7120 659.5,-7100 560.5,-7100"/>
+<text text-anchor="start" x="589.64" y="-7105.8" font-family="Times,serif" font-size="14.00">dlTrain</text>
+<polygon fill="none" stroke="black" points="661.5,-7100 661.5,-7120 786.5,-7120 786.5,-7100 661.5,-7100"/>
+<text text-anchor="start" x="704.42" y="-7105.8" font-family="Times,serif" font-size="14.00">dlTune</text>
+<polygon fill="none" stroke="black" points="788.5,-7100 788.5,-7120 919.5,-7120 919.5,-7100 788.5,-7100"/>
+<text text-anchor="start" x="824.84" y="-7105.8" font-family="Times,serif" font-size="14.00">modelInfo</text>
+<polygon fill="none" stroke="black" points="921.5,-7100 921.5,-7120 1098.5,-7120 1098.5,-7100 921.5,-7100"/>
+<text text-anchor="start" x="972.69" y="-7105.8" font-family="Times,serif" font-size="14.00">removeLayer</text>
+<polygon fill="none" stroke="black" points="40.5,-7045 40.5,-7095 555.5,-7095 555.5,-7045 40.5,-7045"/>
+<text text-anchor="start" x="265.74" y="-7076.8" font-family="Times,serif" font-size="14.00">deepNeural</text>
+<polygon fill="none" stroke="black" points="45.5,-7050 45.5,-7070 158.5,-7070 158.5,-7050 45.5,-7050"/>
+<text text-anchor="start" x="76.72" y="-7055.8" font-family="Times,serif" font-size="14.00">dnnCode</text>
+<polygon fill="none" stroke="black" points="160.5,-7050 160.5,-7070 318.5,-7070 318.5,-7050 160.5,-7050"/>
+<text text-anchor="start" x="191.67" y="-7055.8" font-family="Times,serif" font-size="14.00">dnnExportModel</text>
+<polygon fill="none" stroke="black" points="320.5,-7050 320.5,-7070 435.5,-7070 435.5,-7050 320.5,-7050"/>
+<text text-anchor="start" x="351.56" y="-7055.8" font-family="Times,serif" font-size="14.00">dnnScore</text>
+<polygon fill="none" stroke="black" points="437.5,-7050 437.5,-7070 550.5,-7070 550.5,-7050 437.5,-7050"/>
+<text text-anchor="start" x="468.58" y="-7055.8" font-family="Times,serif" font-size="14.00">dnnTrain</text>
+<polygon fill="none" stroke="black" points="555.5,-7045 555.5,-7095 1103.5,-7095 1103.5,-7045 555.5,-7045"/>
+<text text-anchor="start" x="799.57" y="-7076.8" font-family="Times,serif" font-size="14.00">varReduce</text>
+<polygon fill="none" stroke="black" points="560.5,-7050 560.5,-7070 686.5,-7070 686.5,-7050 560.5,-7050"/>
+<text text-anchor="start" x="608.34" y="-7055.8" font-family="Times,serif" font-size="14.00">super</text>
+<polygon fill="none" stroke="black" points="688.5,-7050 688.5,-7070 828.5,-7070 828.5,-7050 688.5,-7050"/>
+<text text-anchor="start" x="736.34" y="-7055.8" font-family="Times,serif" font-size="14.00">unsuper</text>
+<polygon fill="none" stroke="black" points="830.5,-7050 830.5,-7070 956.5,-7070 956.5,-7050 830.5,-7050"/>
+<text text-anchor="start" x="878.34" y="-7055.8" font-family="Times,serif" font-size="14.00">super</text>
+<polygon fill="none" stroke="black" points="958.5,-7050 958.5,-7070 1098.5,-7070 1098.5,-7050 958.5,-7050"/>
+<text text-anchor="start" x="1006.34" y="-7055.8" font-family="Times,serif" font-size="14.00">unsuper</text>
+<polygon fill="none" stroke="black" points="40.5,-6995 40.5,-7045 555.5,-7045 555.5,-6995 40.5,-6995"/>
+<text text-anchor="start" x="267.27" y="-7026.8" font-family="Times,serif" font-size="14.00">simSystem</text>
+<polygon fill="none" stroke="black" points="45.5,-7000 45.5,-7020 297.5,-7020 297.5,-7000 45.5,-7000"/>
+<text text-anchor="start" x="155.16" y="-7005.8" font-family="Times,serif" font-size="14.00">simsk</text>
+<polygon fill="none" stroke="black" points="299.5,-7000 299.5,-7020 550.5,-7020 550.5,-7000 299.5,-7000"/>
+<text text-anchor="start" x="408.66" y="-7005.8" font-family="Times,serif" font-size="14.00">simsk</text>
+<polygon fill="none" stroke="black" points="555.5,-6995 555.5,-7045 1103.5,-7045 1103.5,-6995 555.5,-6995"/>
+<text text-anchor="start" x="790.62" y="-7026.8" font-family="Times,serif" font-size="14.00">explainModel</text>
+<polygon fill="none" stroke="black" points="560.5,-7000 560.5,-7020 729.5,-7020 729.5,-7000 560.5,-7000"/>
+<text text-anchor="start" x="601.85" y="-7005.8" font-family="Times,serif" font-size="14.00">linearExplainer</text>
+<polygon fill="none" stroke="black" points="731.5,-7000 731.5,-7020 917.5,-7020 917.5,-7000 731.5,-7000"/>
+<text text-anchor="start" x="772.03" y="-7005.8" font-family="Times,serif" font-size="14.00">partialDependence</text>
+<polygon fill="none" stroke="black" points="919.5,-7000 919.5,-7020 1098.5,-7020 1098.5,-7000 919.5,-7000"/>
+<text text-anchor="start" x="960.41" y="-7005.8" font-family="Times,serif" font-size="14.00">shapleyExplainer</text>
+<polygon fill="none" stroke="black" points="40.5,-6945 40.5,-6995 555.5,-6995 555.5,-6945 40.5,-6945"/>
+<text text-anchor="start" x="275.85" y="-6976.8" font-family="Times,serif" font-size="14.00">factmac</text>
+<polygon fill="none" stroke="black" points="45.5,-6950 45.5,-6970 550.5,-6970 550.5,-6950 45.5,-6950"/>
+<text text-anchor="start" x="275.85" y="-6955.8" font-family="Times,serif" font-size="14.00">factmac</text>
+<polygon fill="none" stroke="black" points="555.5,-6945 555.5,-6995 1103.5,-6995 1103.5,-6945 555.5,-6945"/>
+<text text-anchor="start" x="807.34" y="-6976.8" font-family="Times,serif" font-size="14.00">fastKnn</text>
+<polygon fill="none" stroke="black" points="560.5,-6950 560.5,-6970 1098.5,-6970 1098.5,-6950 560.5,-6950"/>
+<text text-anchor="start" x="808.89" y="-6955.8" font-family="Times,serif" font-size="14.00">fastknn</text>
+<polygon fill="none" stroke="black" points="40.5,-6895 40.5,-6945 555.5,-6945 555.5,-6895 40.5,-6895"/>
+<text text-anchor="start" x="276.34" y="-6926.8" font-family="Times,serif" font-size="14.00">freqTab</text>
+<polygon fill="none" stroke="black" points="45.5,-6900 45.5,-6920 297.5,-6920 297.5,-6900 45.5,-6900"/>
+<text text-anchor="start" x="149.84" y="-6905.8" font-family="Times,serif" font-size="14.00">freqTab</text>
+<polygon fill="none" stroke="black" points="299.5,-6900 299.5,-6920 550.5,-6920 550.5,-6900 299.5,-6900"/>
+<text text-anchor="start" x="403.34" y="-6905.8" font-family="Times,serif" font-size="14.00">freqTab</text>
+<polygon fill="none" stroke="black" points="555.5,-6895 555.5,-6945 1103.5,-6945 1103.5,-6895 555.5,-6895"/>
+<text text-anchor="start" x="817.45" y="-6926.8" font-family="Times,serif" font-size="14.00">gam</text>
+<polygon fill="none" stroke="black" points="560.5,-6900 560.5,-6920 698.5,-6920 698.5,-6900 560.5,-6900"/>
+<text text-anchor="start" x="601.51" y="-6905.8" font-family="Times,serif" font-size="14.00">gamScore</text>
+<polygon fill="none" stroke="black" points="700.5,-6900 700.5,-6920 841.5,-6920 841.5,-6900 700.5,-6900"/>
+<text text-anchor="start" x="741.84" y="-6905.8" font-family="Times,serif" font-size="14.00">gamSelect</text>
+<polygon fill="none" stroke="black" points="843.5,-6900 843.5,-6920 959.5,-6920 959.5,-6900 843.5,-6900"/>
+<text text-anchor="start" x="884" y="-6905.8" font-family="Times,serif" font-size="14.00">gampl</text>
+<polygon fill="none" stroke="black" points="961.5,-6900 961.5,-6920 1098.5,-6920 1098.5,-6900 961.5,-6900"/>
+<text text-anchor="start" x="1002.01" y="-6905.8" font-family="Times,serif" font-size="14.00">gamScore</text>
+<polygon fill="none" stroke="black" points="40.5,-6845 40.5,-6895 555.5,-6895 555.5,-6845 40.5,-6845"/>
+<text text-anchor="start" x="280.9" y="-6876.8" font-family="Times,serif" font-size="14.00">gleam</text>
+<polygon fill="none" stroke="black" points="45.5,-6850 45.5,-6870 550.5,-6870 550.5,-6850 45.5,-6850"/>
+<text text-anchor="start" x="255.23" y="-6855.8" font-family="Times,serif" font-size="14.00">graphMultiReg</text>
+<polygon fill="none" stroke="black" points="555.5,-6845 555.5,-6895 1103.5,-6895 1103.5,-6845 555.5,-6845"/>
+<text text-anchor="start" x="771.96" y="-6876.8" font-family="Times,serif" font-size="14.00">graphSemiSupLearn</text>
+<polygon fill="none" stroke="black" points="560.5,-6850 560.5,-6870 1098.5,-6870 1098.5,-6850 560.5,-6850"/>
+<text text-anchor="start" x="796.46" y="-6855.8" font-family="Times,serif" font-size="14.00">labelSpread</text>
+<polygon fill="none" stroke="black" points="40.5,-6751 40.5,-6845 555.5,-6845 555.5,-6751 40.5,-6751"/>
+<text text-anchor="start" x="264.56" y="-6815.8" font-family="Times,serif" font-size="14.00">gVarCluster</text>
+<polygon fill="none" stroke="black" points="45.5,-6756 45.5,-6798 550.5,-6798 550.5,-6756 45.5,-6756"/>
+<text text-anchor="start" x="266.9" y="-6772.8" font-family="Times,serif" font-size="14.00">gvarcluster</text>
+<polygon fill="none" stroke="black" points="555.5,-6751 555.5,-6845 1103.5,-6845 1103.5,-6751 555.5,-6751"/>
+<text text-anchor="start" x="812.4" y="-6826.8" font-family="Times,serif" font-size="14.00">image</text>
 <polygon fill="none" stroke="black" points="560.5,-6800 560.5,-6820 696.5,-6820 696.5,-6800 560.5,-6800"/>
-<text text-anchor="start" x="563.2" y="-6805.8" font-family="Times,serif" font-size="14.00">extractDetectedObjects</text>
+<text text-anchor="start" x="584.58" y="-6805.8" font-family="Times,serif" font-size="14.00">annotateImages</text>
 <polygon fill="none" stroke="black" points="698.5,-6800 698.5,-6820 792.5,-6820 792.5,-6800 698.5,-6800"/>
-<text text-anchor="start" x="711.3" y="-6805.8" font-family="Times,serif" font-size="14.00">fetchImages</text>
+<text text-anchor="start" x="701.18" y="-6805.8" font-family="Times,serif" font-size="14.00">augmentImages</text>
 <polygon fill="none" stroke="black" points="794.5,-6800 794.5,-6820 989.5,-6820 989.5,-6800 794.5,-6800"/>
-<text text-anchor="start" x="797.45" y="-6805.8" font-family="Times,serif" font-size="14.00">flattenImages (flattenImageTable)</text>
+<text text-anchor="start" x="847.69" y="-6805.8" font-family="Times,serif" font-size="14.00">compareImages</text>
 <polygon fill="none" stroke="black" points="991.5,-6800 991.5,-6820 1098.5,-6820 1098.5,-6800 991.5,-6800"/>
-<text text-anchor="start" x="1012.73" y="-6805.8" font-family="Times,serif" font-size="14.00">loadImages</text>
+<text text-anchor="start" x="998.74" y="-6805.8" font-family="Times,serif" font-size="14.00">condenseImages</text>
 <polygon fill="none" stroke="black" points="560.5,-6778 560.5,-6798 696.5,-6798 696.5,-6778 560.5,-6778"/>
-<text text-anchor="start" x="591.18" y="-6783.8" font-family="Times,serif" font-size="14.00">matchImages</text>
+<text text-anchor="start" x="563.2" y="-6783.8" font-family="Times,serif" font-size="14.00">extractDetectedObjects</text>
 <polygon fill="none" stroke="black" points="698.5,-6778 698.5,-6798 792.5,-6798 792.5,-6778 698.5,-6778"/>
-<text text-anchor="start" x="704.29" y="-6783.8" font-family="Times,serif" font-size="14.00">processImages</text>
+<text text-anchor="start" x="711.3" y="-6783.8" font-family="Times,serif" font-size="14.00">fetchImages</text>
 <polygon fill="none" stroke="black" points="794.5,-6778 794.5,-6798 989.5,-6798 989.5,-6778 794.5,-6778"/>
-<text text-anchor="start" x="859.35" y="-6783.8" font-family="Times,serif" font-size="14.00">saveImages</text>
+<text text-anchor="start" x="797.45" y="-6783.8" font-family="Times,serif" font-size="14.00">flattenImages (flattenImageTable)</text>
 <polygon fill="none" stroke="black" points="991.5,-6778 991.5,-6798 1098.5,-6798 1098.5,-6778 991.5,-6778"/>
-<text text-anchor="start" x="994.08" y="-6783.8" font-family="Times,serif" font-size="14.00">summarizeImages</text>
-<polygon fill="none" stroke="black" points="40.5,-6723 40.5,-6773 555.5,-6773 555.5,-6723 40.5,-6723"/>
-<text text-anchor="start" x="289.84" y="-6754.8" font-family="Times,serif" font-size="14.00">ica</text>
-<polygon fill="none" stroke="black" points="45.5,-6728 45.5,-6748 297.5,-6748 297.5,-6728 45.5,-6728"/>
-<text text-anchor="start" x="152.85" y="-6733.8" font-family="Times,serif" font-size="14.00">fastIca</text>
-<polygon fill="none" stroke="black" points="299.5,-6728 299.5,-6748 550.5,-6748 550.5,-6728 299.5,-6728"/>
-<text text-anchor="start" x="406.35" y="-6733.8" font-family="Times,serif" font-size="14.00">fastIca</text>
-<polygon fill="none" stroke="black" points="555.5,-6723 555.5,-6773 1103.5,-6773 1103.5,-6723 555.5,-6723"/>
-<text text-anchor="start" x="801.9" y="-6754.8" font-family="Times,serif" font-size="14.00">kernelPca</text>
-<polygon fill="none" stroke="black" points="560.5,-6728 560.5,-6748 1098.5,-6748 1098.5,-6728 560.5,-6728"/>
-<text text-anchor="start" x="815.89" y="-6733.8" font-family="Times,serif" font-size="14.00">kPca</text>
-<polygon fill="none" stroke="black" points="40.5,-6673 40.5,-6723 555.5,-6723 555.5,-6673 40.5,-6673"/>
-<text text-anchor="start" x="267.67" y="-6704.8" font-family="Times,serif" font-size="14.00">langModel</text>
-<polygon fill="none" stroke="black" points="45.5,-6678 45.5,-6698 203.5,-6698 203.5,-6678 45.5,-6678"/>
-<text text-anchor="start" x="72.03" y="-6683.8" font-family="Times,serif" font-size="14.00">calculateErrorRate</text>
-<polygon fill="none" stroke="black" points="205.5,-6678 205.5,-6698 315.5,-6698 315.5,-6678 205.5,-6678"/>
-<text text-anchor="start" x="231.73" y="-6683.8" font-family="Times,serif" font-size="14.00">lmDecode</text>
-<polygon fill="none" stroke="black" points="317.5,-6678 317.5,-6698 422.5,-6698 422.5,-6678 317.5,-6678"/>
-<text text-anchor="start" x="343.56" y="-6683.8" font-family="Times,serif" font-size="14.00">lmImport</text>
-<polygon fill="none" stroke="black" points="424.5,-6678 424.5,-6698 550.5,-6698 550.5,-6678 424.5,-6678"/>
-<text text-anchor="start" x="450.95" y="-6683.8" font-family="Times,serif" font-size="14.00">nGramCount</text>
-<polygon fill="none" stroke="black" points="555.5,-6673 555.5,-6723 1103.5,-6723 1103.5,-6673 555.5,-6673"/>
-<text text-anchor="start" x="801.51" y="-6704.8" font-family="Times,serif" font-size="14.00">sparseML</text>
-<polygon fill="none" stroke="black" points="560.5,-6678 560.5,-6698 1098.5,-6698 1098.5,-6678 560.5,-6678"/>
-<text text-anchor="start" x="784.25" y="-6683.8" font-family="Times,serif" font-size="14.00">sparseSvmTrain</text>
-<polygon fill="none" stroke="black" points="40.5,-6623 40.5,-6673 555.5,-6673 555.5,-6623 40.5,-6623"/>
-<text text-anchor="start" x="275.15" y="-6654.8" font-family="Times,serif" font-size="14.00">mlTools</text>
-<polygon fill="none" stroke="black" points="45.5,-6628 45.5,-6648 550.5,-6648 550.5,-6628 45.5,-6628"/>
-<text text-anchor="start" x="250.18" y="-6633.8" font-family="Times,serif" font-size="14.00">crossValidateML</text>
-<polygon fill="none" stroke="black" points="555.5,-6623 555.5,-6673 1103.5,-6673 1103.5,-6623 555.5,-6623"/>
-<text text-anchor="start" x="812" y="-6654.8" font-family="Times,serif" font-size="14.00">mixed</text>
-<polygon fill="none" stroke="black" points="560.5,-6628 560.5,-6648 828.5,-6648 828.5,-6628 560.5,-6628"/>
-<text text-anchor="start" x="677" y="-6633.8" font-family="Times,serif" font-size="14.00">mixed</text>
-<polygon fill="none" stroke="black" points="830.5,-6628 830.5,-6648 1098.5,-6648 1098.5,-6628 830.5,-6628"/>
-<text text-anchor="start" x="947" y="-6633.8" font-family="Times,serif" font-size="14.00">mixed</text>
-<polygon fill="none" stroke="black" points="40.5,-6507 40.5,-6623 555.5,-6623 555.5,-6507 40.5,-6507"/>
-<text text-anchor="start" x="285.95" y="-6588.3" font-family="Times,serif" font-size="14.00">mbc</text>
-<polygon fill="none" stroke="black" points="45.5,-6512 45.5,-6565 162.5,-6565 162.5,-6512 45.5,-6512"/>
-<text text-anchor="start" x="84.17" y="-6534.3" font-family="Times,serif" font-size="14.00">mbcFit</text>
-<polygon fill="none" stroke="black" points="164.5,-6512 164.5,-6565 297.5,-6565 297.5,-6512 164.5,-6512"/>
-<text text-anchor="start" x="203.01" y="-6534.3" font-family="Times,serif" font-size="14.00">mbcScore</text>
-<polygon fill="none" stroke="black" points="299.5,-6512 299.5,-6565 416.5,-6565 416.5,-6512 299.5,-6512"/>
-<text text-anchor="start" x="338.17" y="-6534.3" font-family="Times,serif" font-size="14.00">mbcFit</text>
-<polygon fill="none" stroke="black" points="418.5,-6512 418.5,-6565 550.5,-6565 550.5,-6512 418.5,-6512"/>
-<text text-anchor="start" x="456.51" y="-6534.3" font-family="Times,serif" font-size="14.00">mbcScore</text>
-<polygon fill="none" stroke="black" points="555.5,-6507 555.5,-6623 1103.5,-6623 1103.5,-6507 555.5,-6507"/>
-<text text-anchor="start" x="806.56" y="-6604.8" font-family="Times,serif" font-size="14.00">network</text>
-<polygon fill="none" stroke="black" points="560.5,-6578 560.5,-6598 748.5,-6598 748.5,-6578 560.5,-6578"/>
-<text text-anchor="start" x="585.29" y="-6583.8" font-family="Times,serif" font-size="14.00">biconnectedComponents</text>
-<polygon fill="none" stroke="black" points="750.5,-6578 750.5,-6598 859.5,-6598 859.5,-6578 750.5,-6578"/>
-<text text-anchor="start" x="778.57" y="-6583.8" font-family="Times,serif" font-size="14.00">centrality</text>
-<polygon fill="none" stroke="black" points="861.5,-6578 861.5,-6598 984.5,-6598 984.5,-6578 861.5,-6578"/>
-<text text-anchor="start" x="905.9" y="-6583.8" font-family="Times,serif" font-size="14.00">clique</text>
-<polygon fill="none" stroke="black" points="986.5,-6578 986.5,-6598 1098.5,-6598 1098.5,-6578 986.5,-6578"/>
-<text text-anchor="start" x="1010.61" y="-6583.8" font-family="Times,serif" font-size="14.00">community</text>
+<text text-anchor="start" x="1012.73" y="-6783.8" font-family="Times,serif" font-size="14.00">loadImages</text>
+<polygon fill="none" stroke="black" points="560.5,-6756 560.5,-6776 696.5,-6776 696.5,-6756 560.5,-6756"/>
+<text text-anchor="start" x="591.18" y="-6761.8" font-family="Times,serif" font-size="14.00">matchImages</text>
+<polygon fill="none" stroke="black" points="698.5,-6756 698.5,-6776 792.5,-6776 792.5,-6756 698.5,-6756"/>
+<text text-anchor="start" x="704.29" y="-6761.8" font-family="Times,serif" font-size="14.00">processImages</text>
+<polygon fill="none" stroke="black" points="794.5,-6756 794.5,-6776 989.5,-6776 989.5,-6756 794.5,-6756"/>
+<text text-anchor="start" x="859.35" y="-6761.8" font-family="Times,serif" font-size="14.00">saveImages</text>
+<polygon fill="none" stroke="black" points="991.5,-6756 991.5,-6776 1098.5,-6776 1098.5,-6756 991.5,-6756"/>
+<text text-anchor="start" x="994.08" y="-6761.8" font-family="Times,serif" font-size="14.00">summarizeImages</text>
+<polygon fill="none" stroke="black" points="40.5,-6701 40.5,-6751 555.5,-6751 555.5,-6701 40.5,-6701"/>
+<text text-anchor="start" x="289.84" y="-6732.8" font-family="Times,serif" font-size="14.00">ica</text>
+<polygon fill="none" stroke="black" points="45.5,-6706 45.5,-6726 297.5,-6726 297.5,-6706 45.5,-6706"/>
+<text text-anchor="start" x="152.85" y="-6711.8" font-family="Times,serif" font-size="14.00">fastIca</text>
+<polygon fill="none" stroke="black" points="299.5,-6706 299.5,-6726 550.5,-6726 550.5,-6706 299.5,-6706"/>
+<text text-anchor="start" x="406.35" y="-6711.8" font-family="Times,serif" font-size="14.00">fastIca</text>
+<polygon fill="none" stroke="black" points="555.5,-6701 555.5,-6751 1103.5,-6751 1103.5,-6701 555.5,-6701"/>
+<text text-anchor="start" x="801.9" y="-6732.8" font-family="Times,serif" font-size="14.00">kernelPca</text>
+<polygon fill="none" stroke="black" points="560.5,-6706 560.5,-6726 1098.5,-6726 1098.5,-6706 560.5,-6706"/>
+<text text-anchor="start" x="815.89" y="-6711.8" font-family="Times,serif" font-size="14.00">kPca</text>
+<polygon fill="none" stroke="black" points="40.5,-6651 40.5,-6701 555.5,-6701 555.5,-6651 40.5,-6651"/>
+<text text-anchor="start" x="267.67" y="-6682.8" font-family="Times,serif" font-size="14.00">langModel</text>
+<polygon fill="none" stroke="black" points="45.5,-6656 45.5,-6676 203.5,-6676 203.5,-6656 45.5,-6656"/>
+<text text-anchor="start" x="72.03" y="-6661.8" font-family="Times,serif" font-size="14.00">calculateErrorRate</text>
+<polygon fill="none" stroke="black" points="205.5,-6656 205.5,-6676 315.5,-6676 315.5,-6656 205.5,-6656"/>
+<text text-anchor="start" x="231.73" y="-6661.8" font-family="Times,serif" font-size="14.00">lmDecode</text>
+<polygon fill="none" stroke="black" points="317.5,-6656 317.5,-6676 422.5,-6676 422.5,-6656 317.5,-6656"/>
+<text text-anchor="start" x="343.56" y="-6661.8" font-family="Times,serif" font-size="14.00">lmImport</text>
+<polygon fill="none" stroke="black" points="424.5,-6656 424.5,-6676 550.5,-6676 550.5,-6656 424.5,-6656"/>
+<text text-anchor="start" x="450.95" y="-6661.8" font-family="Times,serif" font-size="14.00">nGramCount</text>
+<polygon fill="none" stroke="black" points="555.5,-6651 555.5,-6701 1103.5,-6701 1103.5,-6651 555.5,-6651"/>
+<text text-anchor="start" x="801.51" y="-6682.8" font-family="Times,serif" font-size="14.00">sparseML</text>
+<polygon fill="none" stroke="black" points="560.5,-6656 560.5,-6676 1098.5,-6676 1098.5,-6656 560.5,-6656"/>
+<text text-anchor="start" x="784.25" y="-6661.8" font-family="Times,serif" font-size="14.00">sparseSvmTrain</text>
+<polygon fill="none" stroke="black" points="40.5,-6601 40.5,-6651 555.5,-6651 555.5,-6601 40.5,-6601"/>
+<text text-anchor="start" x="275.15" y="-6632.8" font-family="Times,serif" font-size="14.00">mlTools</text>
+<polygon fill="none" stroke="black" points="45.5,-6606 45.5,-6626 550.5,-6626 550.5,-6606 45.5,-6606"/>
+<text text-anchor="start" x="250.18" y="-6611.8" font-family="Times,serif" font-size="14.00">crossValidateML</text>
+<polygon fill="none" stroke="black" points="555.5,-6601 555.5,-6651 1103.5,-6651 1103.5,-6601 555.5,-6601"/>
+<text text-anchor="start" x="812" y="-6632.8" font-family="Times,serif" font-size="14.00">mixed</text>
+<polygon fill="none" stroke="black" points="560.5,-6606 560.5,-6626 828.5,-6626 828.5,-6606 560.5,-6606"/>
+<text text-anchor="start" x="677" y="-6611.8" font-family="Times,serif" font-size="14.00">mixed</text>
+<polygon fill="none" stroke="black" points="830.5,-6606 830.5,-6626 1098.5,-6626 1098.5,-6606 830.5,-6606"/>
+<text text-anchor="start" x="947" y="-6611.8" font-family="Times,serif" font-size="14.00">mixed</text>
+<polygon fill="none" stroke="black" points="40.5,-6485 40.5,-6601 555.5,-6601 555.5,-6485 40.5,-6485"/>
+<text text-anchor="start" x="285.95" y="-6566.3" font-family="Times,serif" font-size="14.00">mbc</text>
+<polygon fill="none" stroke="black" points="45.5,-6490 45.5,-6543 162.5,-6543 162.5,-6490 45.5,-6490"/>
+<text text-anchor="start" x="84.17" y="-6512.3" font-family="Times,serif" font-size="14.00">mbcFit</text>
+<polygon fill="none" stroke="black" points="164.5,-6490 164.5,-6543 297.5,-6543 297.5,-6490 164.5,-6490"/>
+<text text-anchor="start" x="203.01" y="-6512.3" font-family="Times,serif" font-size="14.00">mbcScore</text>
+<polygon fill="none" stroke="black" points="299.5,-6490 299.5,-6543 416.5,-6543 416.5,-6490 299.5,-6490"/>
+<text text-anchor="start" x="338.17" y="-6512.3" font-family="Times,serif" font-size="14.00">mbcFit</text>
+<polygon fill="none" stroke="black" points="418.5,-6490 418.5,-6543 550.5,-6543 550.5,-6490 418.5,-6490"/>
+<text text-anchor="start" x="456.51" y="-6512.3" font-family="Times,serif" font-size="14.00">mbcScore</text>
+<polygon fill="none" stroke="black" points="555.5,-6485 555.5,-6601 1103.5,-6601 1103.5,-6485 555.5,-6485"/>
+<text text-anchor="start" x="806.56" y="-6582.8" font-family="Times,serif" font-size="14.00">network</text>
 <polygon fill="none" stroke="black" points="560.5,-6556 560.5,-6576 748.5,-6576 748.5,-6556 560.5,-6556"/>
-<text text-anchor="start" x="590.74" y="-6561.8" font-family="Times,serif" font-size="14.00">connectedComponents</text>
+<text text-anchor="start" x="585.29" y="-6561.8" font-family="Times,serif" font-size="14.00">biconnectedComponents</text>
 <polygon fill="none" stroke="black" points="750.5,-6556 750.5,-6576 859.5,-6576 859.5,-6556 750.5,-6556"/>
-<text text-anchor="start" x="792.96" y="-6561.8" font-family="Times,serif" font-size="14.00">core</text>
+<text text-anchor="start" x="778.57" y="-6561.8" font-family="Times,serif" font-size="14.00">centrality</text>
 <polygon fill="none" stroke="black" points="861.5,-6556 861.5,-6576 984.5,-6576 984.5,-6556 861.5,-6556"/>
-<text text-anchor="start" x="908.23" y="-6561.8" font-family="Times,serif" font-size="14.00">cycle</text>
+<text text-anchor="start" x="905.9" y="-6561.8" font-family="Times,serif" font-size="14.00">clique</text>
 <polygon fill="none" stroke="black" points="986.5,-6556 986.5,-6576 1098.5,-6576 1098.5,-6556 986.5,-6556"/>
-<text text-anchor="start" x="1012.96" y="-6561.8" font-family="Times,serif" font-size="14.00">loadGraph</text>
+<text text-anchor="start" x="1010.61" y="-6561.8" font-family="Times,serif" font-size="14.00">community</text>
 <polygon fill="none" stroke="black" points="560.5,-6534 560.5,-6554 748.5,-6554 748.5,-6534 560.5,-6534"/>
-<text text-anchor="start" x="612.89" y="-6539.8" font-family="Times,serif" font-size="14.00">nodeSimilarity</text>
+<text text-anchor="start" x="590.74" y="-6539.8" font-family="Times,serif" font-size="14.00">connectedComponents</text>
 <polygon fill="none" stroke="black" points="750.5,-6534 750.5,-6554 859.5,-6554 859.5,-6534 750.5,-6534"/>
-<text text-anchor="start" x="792.95" y="-6539.8" font-family="Times,serif" font-size="14.00">path</text>
+<text text-anchor="start" x="792.96" y="-6539.8" font-family="Times,serif" font-size="14.00">core</text>
 <polygon fill="none" stroke="black" points="861.5,-6534 861.5,-6554 984.5,-6554 984.5,-6534 861.5,-6534"/>
-<text text-anchor="start" x="885.68" y="-6539.8" font-family="Times,serif" font-size="14.00">patternMatch</text>
+<text text-anchor="start" x="908.23" y="-6539.8" font-family="Times,serif" font-size="14.00">cycle</text>
 <polygon fill="none" stroke="black" points="986.5,-6534 986.5,-6554 1098.5,-6554 1098.5,-6534 986.5,-6534"/>
-<text text-anchor="start" x="1014.12" y="-6539.8" font-family="Times,serif" font-size="14.00">projection</text>
+<text text-anchor="start" x="1012.96" y="-6539.8" font-family="Times,serif" font-size="14.00">loadGraph</text>
 <polygon fill="none" stroke="black" points="560.5,-6512 560.5,-6532 748.5,-6532 748.5,-6512 560.5,-6512"/>
-<text text-anchor="start" x="639.35" y="-6517.8" font-family="Times,serif" font-size="14.00">reach</text>
+<text text-anchor="start" x="612.89" y="-6517.8" font-family="Times,serif" font-size="14.00">nodeSimilarity</text>
 <polygon fill="none" stroke="black" points="750.5,-6512 750.5,-6532 859.5,-6532 859.5,-6512 750.5,-6512"/>
-<text text-anchor="start" x="775.46" y="-6517.8" font-family="Times,serif" font-size="14.00">readGraph</text>
+<text text-anchor="start" x="792.95" y="-6517.8" font-family="Times,serif" font-size="14.00">path</text>
 <polygon fill="none" stroke="black" points="861.5,-6512 861.5,-6532 984.5,-6532 984.5,-6512 861.5,-6512"/>
-<text text-anchor="start" x="888.78" y="-6517.8" font-family="Times,serif" font-size="14.00">shortestPath</text>
+<text text-anchor="start" x="885.68" y="-6517.8" font-family="Times,serif" font-size="14.00">patternMatch</text>
 <polygon fill="none" stroke="black" points="986.5,-6512 986.5,-6532 1098.5,-6532 1098.5,-6512 986.5,-6512"/>
-<text text-anchor="start" x="1016.45" y="-6517.8" font-family="Times,serif" font-size="14.00">summary</text>
-<polygon fill="none" stroke="black" points="40.5,-6457 40.5,-6507 555.5,-6507 555.5,-6457 40.5,-6457"/>
-<text text-anchor="start" x="270.4" y="-6488.8" font-family="Times,serif" font-size="14.00">neuralNet</text>
-<polygon fill="none" stroke="black" points="45.5,-6462 45.5,-6482 211.5,-6482 211.5,-6462 45.5,-6462"/>
-<text text-anchor="start" x="103.62" y="-6467.8" font-family="Times,serif" font-size="14.00">annCode</text>
-<polygon fill="none" stroke="black" points="213.5,-6462 213.5,-6482 382.5,-6482 382.5,-6462 213.5,-6462"/>
-<text text-anchor="start" x="271.96" y="-6467.8" font-family="Times,serif" font-size="14.00">annScore</text>
-<polygon fill="none" stroke="black" points="384.5,-6462 384.5,-6482 550.5,-6482 550.5,-6462 384.5,-6462"/>
-<text text-anchor="start" x="442.48" y="-6467.8" font-family="Times,serif" font-size="14.00">annTrain</text>
-<polygon fill="none" stroke="black" points="555.5,-6457 555.5,-6507 1103.5,-6507 1103.5,-6457 555.5,-6457"/>
-<text text-anchor="start" x="803.07" y="-6488.8" font-family="Times,serif" font-size="14.00">nonlinear</text>
-<polygon fill="none" stroke="black" points="560.5,-6462 560.5,-6482 828.5,-6482 828.5,-6462 560.5,-6462"/>
-<text text-anchor="start" x="676.61" y="-6467.8" font-family="Times,serif" font-size="14.00">nlmod</text>
-<polygon fill="none" stroke="black" points="830.5,-6462 830.5,-6482 1098.5,-6482 1098.5,-6462 830.5,-6462"/>
-<text text-anchor="start" x="946.61" y="-6467.8" font-family="Times,serif" font-size="14.00">nlmod</text>
-<polygon fill="none" stroke="black" points="40.5,-6407 40.5,-6457 555.5,-6457 555.5,-6407 40.5,-6407"/>
-<text text-anchor="start" x="286.72" y="-6427.8" font-family="Times,serif" font-size="14.00">nmf</text>
-<polygon fill="none" stroke="black" points="555.5,-6407 555.5,-6457 1103.5,-6457 1103.5,-6407 555.5,-6407"/>
-<text text-anchor="start" x="771.58" y="-6438.8" font-family="Times,serif" font-size="14.00">nonParametricBayes</text>
-<polygon fill="none" stroke="black" points="560.5,-6412 560.5,-6432 824.5,-6432 824.5,-6412 560.5,-6412"/>
-<text text-anchor="start" x="678.11" y="-6417.8" font-family="Times,serif" font-size="14.00">gmm</text>
-<polygon fill="none" stroke="black" points="826.5,-6412 826.5,-6432 1098.5,-6432 1098.5,-6412 826.5,-6412"/>
-<text text-anchor="start" x="944.22" y="-6417.8" font-family="Times,serif" font-size="14.00">gpReg</text>
-<polygon fill="none" stroke="black" points="40.5,-6335 40.5,-6407 555.5,-6407 555.5,-6335 40.5,-6335"/>
-<text text-anchor="start" x="289.83" y="-6383.3" font-family="Times,serif" font-size="14.00">pls</text>
-<polygon fill="none" stroke="black" points="45.5,-6340 45.5,-6371 297.5,-6371 297.5,-6340 45.5,-6340"/>
-<text text-anchor="start" x="163.33" y="-6351.3" font-family="Times,serif" font-size="14.00">pls</text>
-<polygon fill="none" stroke="black" points="299.5,-6340 299.5,-6371 550.5,-6371 550.5,-6340 299.5,-6340"/>
-<text text-anchor="start" x="416.83" y="-6351.3" font-family="Times,serif" font-size="14.00">pls</text>
-<polygon fill="none" stroke="black" points="555.5,-6335 555.5,-6407 1103.5,-6407 1103.5,-6335 555.5,-6335"/>
-<text text-anchor="start" x="819.79" y="-6388.8" font-family="Times,serif" font-size="14.00">pca</text>
-<polygon fill="none" stroke="black" points="560.5,-6362 560.5,-6382 675.5,-6382 675.5,-6362 560.5,-6362"/>
-<text text-anchor="start" x="609.45" y="-6367.8" font-family="Times,serif" font-size="14.00">eig</text>
-<polygon fill="none" stroke="black" points="677.5,-6362 677.5,-6382 805.5,-6382 805.5,-6362 677.5,-6362"/>
-<text text-anchor="start" x="726.07" y="-6367.8" font-family="Times,serif" font-size="14.00">itergs</text>
-<polygon fill="none" stroke="black" points="807.5,-6362 807.5,-6382 937.5,-6382 937.5,-6362 807.5,-6362"/>
-<text text-anchor="start" x="855.78" y="-6367.8" font-family="Times,serif" font-size="14.00">nipals</text>
-<polygon fill="none" stroke="black" points="939.5,-6362 939.5,-6382 1098.5,-6382 1098.5,-6362 939.5,-6362"/>
-<text text-anchor="start" x="987.9" y="-6367.8" font-family="Times,serif" font-size="14.00">randompca</text>
-<polygon fill="none" stroke="black" points="560.5,-6340 560.5,-6360 675.5,-6360 675.5,-6340 560.5,-6340"/>
-<text text-anchor="start" x="609.45" y="-6345.8" font-family="Times,serif" font-size="14.00">eig</text>
-<polygon fill="none" stroke="black" points="677.5,-6340 677.5,-6360 805.5,-6360 805.5,-6340 677.5,-6340"/>
-<text text-anchor="start" x="726.07" y="-6345.8" font-family="Times,serif" font-size="14.00">itergs</text>
-<polygon fill="none" stroke="black" points="807.5,-6340 807.5,-6360 937.5,-6360 937.5,-6340 807.5,-6340"/>
-<text text-anchor="start" x="855.78" y="-6345.8" font-family="Times,serif" font-size="14.00">nipals</text>
-<polygon fill="none" stroke="black" points="939.5,-6340 939.5,-6360 1098.5,-6360 1098.5,-6340 939.5,-6340"/>
-<text text-anchor="start" x="987.9" y="-6345.8" font-family="Times,serif" font-size="14.00">randompca</text>
-<polygon fill="none" stroke="black" points="40.5,-6285 40.5,-6335 555.5,-6335 555.5,-6285 40.5,-6285"/>
-<text text-anchor="start" x="282.06" y="-6316.8" font-family="Times,serif" font-size="14.00">phreg</text>
-<polygon fill="none" stroke="black" points="45.5,-6290 45.5,-6310 297.5,-6310 297.5,-6290 45.5,-6290"/>
-<text text-anchor="start" x="161.39" y="-6295.8" font-family="Times,serif" font-size="14.00">cox</text>
-<polygon fill="none" stroke="black" points="299.5,-6290 299.5,-6310 550.5,-6310 550.5,-6290 299.5,-6290"/>
-<text text-anchor="start" x="414.89" y="-6295.8" font-family="Times,serif" font-size="14.00">cox</text>
-<polygon fill="none" stroke="black" points="555.5,-6285 555.5,-6335 1103.5,-6335 1103.5,-6285 555.5,-6285"/>
-<text text-anchor="start" x="805.01" y="-6316.8" font-family="Times,serif" font-size="14.00">quantreg</text>
-<polygon fill="none" stroke="black" points="560.5,-6290 560.5,-6310 828.5,-6310 828.5,-6290 560.5,-6290"/>
-<text text-anchor="start" x="670.01" y="-6295.8" font-family="Times,serif" font-size="14.00">quantreg</text>
-<polygon fill="none" stroke="black" points="830.5,-6290 830.5,-6310 1098.5,-6310 1098.5,-6290 830.5,-6290"/>
-<text text-anchor="start" x="940.01" y="-6295.8" font-family="Times,serif" font-size="14.00">quantreg</text>
-<polygon fill="none" stroke="black" points="40.5,-6125 40.5,-6285 555.5,-6285 555.5,-6125 40.5,-6125"/>
-<text text-anchor="start" x="273.12" y="-6239.3" font-family="Times,serif" font-size="14.00">deepRnn</text>
-<polygon fill="none" stroke="black" points="45.5,-6130 45.5,-6205 192.5,-6205 192.5,-6130 45.5,-6130"/>
-<text text-anchor="start" x="72.34" y="-6163.3" font-family="Times,serif" font-size="14.00">rnnExportModel</text>
-<polygon fill="none" stroke="black" points="194.5,-6130 194.5,-6205 298.5,-6205 298.5,-6130 194.5,-6130"/>
-<text text-anchor="start" x="221.23" y="-6163.3" font-family="Times,serif" font-size="14.00">rnnScore</text>
-<polygon fill="none" stroke="black" points="300.5,-6130 300.5,-6205 402.5,-6205 402.5,-6130 300.5,-6130"/>
-<text text-anchor="start" x="327.25" y="-6163.3" font-family="Times,serif" font-size="14.00">rnnTrain</text>
-<polygon fill="none" stroke="black" points="404.5,-6130 404.5,-6205 550.5,-6205 550.5,-6130 404.5,-6130"/>
-<text text-anchor="start" x="430.84" y="-6163.3" font-family="Times,serif" font-size="14.00">rnnExportModel</text>
-<polygon fill="none" stroke="black" points="555.5,-6125 555.5,-6285 1103.5,-6285 1103.5,-6125 555.5,-6125"/>
-<text text-anchor="start" x="800.73" y="-6266.8" font-family="Times,serif" font-size="14.00">regression</text>
-<polygon fill="none" stroke="black" points="560.5,-6240 560.5,-6260 703.5,-6260 703.5,-6240 560.5,-6240"/>
-<text text-anchor="start" x="609.45" y="-6245.8" font-family="Times,serif" font-size="14.00">genmod</text>
-<polygon fill="none" stroke="black" points="705.5,-6240 705.5,-6260 854.5,-6260 854.5,-6240 705.5,-6240"/>
-<text text-anchor="start" x="741.51" y="-6245.8" font-family="Times,serif" font-size="14.00">genmodScore</text>
-<polygon fill="none" stroke="black" points="856.5,-6240 856.5,-6260 974.5,-6260 974.5,-6240 856.5,-6240"/>
-<text text-anchor="start" x="904.61" y="-6245.8" font-family="Times,serif" font-size="14.00">glm</text>
-<polygon fill="none" stroke="black" points="976.5,-6240 976.5,-6260 1098.5,-6260 1098.5,-6240 976.5,-6240"/>
-<text text-anchor="start" x="1010.67" y="-6245.8" font-family="Times,serif" font-size="14.00">glmScore</text>
-<polygon fill="none" stroke="black" points="560.5,-6218 560.5,-6238 703.5,-6238 703.5,-6218 560.5,-6218"/>
-<text text-anchor="start" x="611.39" y="-6223.8" font-family="Times,serif" font-size="14.00">logistic</text>
-<polygon fill="none" stroke="black" points="705.5,-6218 705.5,-6238 854.5,-6238 854.5,-6218 705.5,-6218"/>
-<text text-anchor="start" x="726.34" y="-6223.8" font-family="Times,serif" font-size="14.00">logisticAssociation</text>
-<polygon fill="none" stroke="black" points="856.5,-6218 856.5,-6238 974.5,-6238 974.5,-6218 856.5,-6218"/>
-<text text-anchor="start" x="880.11" y="-6223.8" font-family="Times,serif" font-size="14.00">logisticCode</text>
-<polygon fill="none" stroke="black" points="976.5,-6218 976.5,-6238 1098.5,-6238 1098.5,-6218 976.5,-6218"/>
-<text text-anchor="start" x="997.06" y="-6223.8" font-family="Times,serif" font-size="14.00">logisticLackfit</text>
-<polygon fill="none" stroke="black" points="560.5,-6196 560.5,-6216 703.5,-6216 703.5,-6196 560.5,-6196"/>
-<text text-anchor="start" x="581.44" y="-6201.8" font-family="Times,serif" font-size="14.00">logisticOddsRatio</text>
-<polygon fill="none" stroke="black" points="705.5,-6196 705.5,-6216 854.5,-6216 854.5,-6196 705.5,-6196"/>
-<text text-anchor="start" x="743.45" y="-6201.8" font-family="Times,serif" font-size="14.00">logisticScore</text>
-<polygon fill="none" stroke="black" points="856.5,-6196 856.5,-6216 974.5,-6216 974.5,-6196 856.5,-6196"/>
-<text text-anchor="start" x="877.5" y="-6201.8" font-family="Times,serif" font-size="14.00">logisticType3</text>
-<polygon fill="none" stroke="black" points="976.5,-6196 976.5,-6216 1098.5,-6216 1098.5,-6196 976.5,-6196"/>
-<text text-anchor="start" x="1000.95" y="-6201.8" font-family="Times,serif" font-size="14.00">modelMatrix</text>
-<polygon fill="none" stroke="black" points="560.5,-6174 560.5,-6194 703.5,-6194 703.5,-6174 560.5,-6174"/>
-<text text-anchor="start" x="609.45" y="-6179.8" font-family="Times,serif" font-size="14.00">genmod</text>
-<polygon fill="none" stroke="black" points="705.5,-6174 705.5,-6194 854.5,-6194 854.5,-6174 705.5,-6174"/>
-<text text-anchor="start" x="741.51" y="-6179.8" font-family="Times,serif" font-size="14.00">genmodScore</text>
-<polygon fill="none" stroke="black" points="856.5,-6174 856.5,-6194 974.5,-6194 974.5,-6174 856.5,-6174"/>
-<text text-anchor="start" x="904.61" y="-6179.8" font-family="Times,serif" font-size="14.00">glm</text>
-<polygon fill="none" stroke="black" points="976.5,-6174 976.5,-6194 1098.5,-6194 1098.5,-6174 976.5,-6174"/>
-<text text-anchor="start" x="1010.67" y="-6179.8" font-family="Times,serif" font-size="14.00">glmScore</text>
-<polygon fill="none" stroke="black" points="560.5,-6152 560.5,-6172 703.5,-6172 703.5,-6152 560.5,-6152"/>
-<text text-anchor="start" x="611.39" y="-6157.8" font-family="Times,serif" font-size="14.00">logistic</text>
-<polygon fill="none" stroke="black" points="705.5,-6152 705.5,-6172 854.5,-6172 854.5,-6152 705.5,-6152"/>
-<text text-anchor="start" x="726.34" y="-6157.8" font-family="Times,serif" font-size="14.00">logisticAssociation</text>
-<polygon fill="none" stroke="black" points="856.5,-6152 856.5,-6172 974.5,-6172 974.5,-6152 856.5,-6152"/>
-<text text-anchor="start" x="880.11" y="-6157.8" font-family="Times,serif" font-size="14.00">logisticCode</text>
-<polygon fill="none" stroke="black" points="976.5,-6152 976.5,-6172 1098.5,-6172 1098.5,-6152 976.5,-6152"/>
-<text text-anchor="start" x="997.06" y="-6157.8" font-family="Times,serif" font-size="14.00">logisticLackfit</text>
-<polygon fill="none" stroke="black" points="560.5,-6130 560.5,-6150 703.5,-6150 703.5,-6130 560.5,-6130"/>
-<text text-anchor="start" x="581.44" y="-6135.8" font-family="Times,serif" font-size="14.00">logisticOddsRatio</text>
-<polygon fill="none" stroke="black" points="705.5,-6130 705.5,-6150 854.5,-6150 854.5,-6130 705.5,-6130"/>
-<text text-anchor="start" x="743.45" y="-6135.8" font-family="Times,serif" font-size="14.00">logisticScore</text>
-<polygon fill="none" stroke="black" points="856.5,-6130 856.5,-6150 974.5,-6150 974.5,-6130 856.5,-6130"/>
-<text text-anchor="start" x="877.5" y="-6135.8" font-family="Times,serif" font-size="14.00">logisticType3</text>
-<polygon fill="none" stroke="black" points="976.5,-6130 976.5,-6150 1098.5,-6150 1098.5,-6130 976.5,-6130"/>
-<text text-anchor="start" x="1000.95" y="-6135.8" font-family="Times,serif" font-size="14.00">modelMatrix</text>
-<polygon fill="none" stroke="black" points="40.5,-6053 40.5,-6125 555.5,-6125 555.5,-6053 40.5,-6053"/>
-<text text-anchor="start" x="242.42" y="-6106.8" font-family="Times,serif" font-size="14.00">reinforcementLearn</text>
-<polygon fill="none" stroke="black" points="45.5,-6080 45.5,-6100 168.5,-6100 168.5,-6080 45.5,-6080"/>
-<text text-anchor="start" x="77.85" y="-6085.8" font-family="Times,serif" font-size="14.00">rlDescribe</text>
-<polygon fill="none" stroke="black" points="170.5,-6080 170.5,-6100 318.5,-6100 318.5,-6080 170.5,-6080"/>
-<text text-anchor="start" x="202.9" y="-6085.8" font-family="Times,serif" font-size="14.00">rlExportModel</text>
-<polygon fill="none" stroke="black" points="320.5,-6080 320.5,-6100 424.5,-6100 424.5,-6080 320.5,-6080"/>
-<text text-anchor="start" x="352.29" y="-6085.8" font-family="Times,serif" font-size="14.00">rlScore</text>
-<polygon fill="none" stroke="black" points="426.5,-6080 426.5,-6100 550.5,-6100 550.5,-6080 426.5,-6080"/>
-<text text-anchor="start" x="458.42" y="-6085.8" font-family="Times,serif" font-size="14.00">rlTrainFqn</text>
-<polygon fill="none" stroke="black" points="45.5,-6058 45.5,-6078 168.5,-6078 168.5,-6058 45.5,-6058"/>
-<text text-anchor="start" x="77.85" y="-6063.8" font-family="Times,serif" font-size="14.00">rlDescribe</text>
-<polygon fill="none" stroke="black" points="170.5,-6058 170.5,-6078 318.5,-6078 318.5,-6058 170.5,-6058"/>
-<text text-anchor="start" x="202.9" y="-6063.8" font-family="Times,serif" font-size="14.00">rlExportModel</text>
-<polygon fill="none" stroke="black" points="320.5,-6058 320.5,-6078 424.5,-6078 424.5,-6058 320.5,-6058"/>
-<text text-anchor="start" x="352.29" y="-6063.8" font-family="Times,serif" font-size="14.00">rlScore</text>
-<polygon fill="none" stroke="black" points="426.5,-6058 426.5,-6078 550.5,-6078 550.5,-6058 426.5,-6058"/>
-<text text-anchor="start" x="458.42" y="-6063.8" font-family="Times,serif" font-size="14.00">rlTrainFqn</text>
-<polygon fill="none" stroke="black" points="555.5,-6053 555.5,-6125 1103.5,-6125 1103.5,-6053 555.5,-6053"/>
-<text text-anchor="start" x="801.89" y="-6101.3" font-family="Times,serif" font-size="14.00">robustPca</text>
-<polygon fill="none" stroke="black" points="560.5,-6058 560.5,-6089 821.5,-6089 821.5,-6058 560.5,-6058"/>
-<text text-anchor="start" x="670.79" y="-6069.3" font-family="Times,serif" font-size="14.00">mwpca</text>
-<polygon fill="none" stroke="black" points="823.5,-6058 823.5,-6089 1098.5,-6089 1098.5,-6058 823.5,-6058"/>
-<text text-anchor="start" x="933.79" y="-6069.3" font-family="Times,serif" font-size="14.00">robustpca</text>
-<polygon fill="none" stroke="black" points="40.5,-5981 40.5,-6053 555.5,-6053 555.5,-5981 40.5,-5981"/>
-<text text-anchor="start" x="272.33" y="-6034.8" font-family="Times,serif" font-size="14.00">sampling</text>
-<polygon fill="none" stroke="black" points="45.5,-6008 45.5,-6028 160.5,-6028 160.5,-6008 45.5,-6008"/>
-<text text-anchor="start" x="88.22" y="-6013.8" font-family="Times,serif" font-size="14.00">kfold</text>
-<polygon fill="none" stroke="black" points="162.5,-6008 162.5,-6028 312.5,-6028 312.5,-6008 162.5,-6008"/>
-<text text-anchor="start" x="205.23" y="-6013.8" font-family="Times,serif" font-size="14.00">oversample</text>
-<polygon fill="none" stroke="black" points="314.5,-6008 314.5,-6028 415.5,-6028 415.5,-6008 314.5,-6008"/>
-<text text-anchor="start" x="357.22" y="-6013.8" font-family="Times,serif" font-size="14.00">srs</text>
-<polygon fill="none" stroke="black" points="417.5,-6008 417.5,-6028 550.5,-6028 550.5,-6008 417.5,-6008"/>
-<text text-anchor="start" x="459.5" y="-6013.8" font-family="Times,serif" font-size="14.00">stratified</text>
-<polygon fill="none" stroke="black" points="45.5,-5986 45.5,-6006 160.5,-6006 160.5,-5986 45.5,-5986"/>
-<text text-anchor="start" x="88.22" y="-5991.8" font-family="Times,serif" font-size="14.00">kfold</text>
-<polygon fill="none" stroke="black" points="162.5,-5986 162.5,-6006 312.5,-6006 312.5,-5986 162.5,-5986"/>
-<text text-anchor="start" x="205.23" y="-5991.8" font-family="Times,serif" font-size="14.00">oversample</text>
-<polygon fill="none" stroke="black" points="314.5,-5986 314.5,-6006 415.5,-6006 415.5,-5986 314.5,-5986"/>
-<text text-anchor="start" x="357.22" y="-5991.8" font-family="Times,serif" font-size="14.00">srs</text>
-<polygon fill="none" stroke="black" points="417.5,-5986 417.5,-6006 550.5,-6006 550.5,-5986 417.5,-5986"/>
-<text text-anchor="start" x="459.5" y="-5991.8" font-family="Times,serif" font-size="14.00">stratified</text>
-<polygon fill="none" stroke="black" points="555.5,-5981 555.5,-6053 1103.5,-6053 1103.5,-5981 555.5,-5981"/>
-<text text-anchor="start" x="803.06" y="-6029.3" font-family="Times,serif" font-size="14.00">sandwich</text>
-<polygon fill="none" stroke="black" points="560.5,-5986 560.5,-6017 828.5,-6017 828.5,-5986 560.5,-5986"/>
-<text text-anchor="start" x="665.73" y="-5997.3" font-family="Times,serif" font-size="14.00">sparseReg</text>
-<polygon fill="none" stroke="black" points="830.5,-5986 830.5,-6017 1098.5,-6017 1098.5,-5986 830.5,-5986"/>
-<text text-anchor="start" x="935.73" y="-5997.3" font-family="Times,serif" font-size="14.00">sparseReg</text>
-<polygon fill="none" stroke="black" points="40.5,-5821 40.5,-5981 555.5,-5981 555.5,-5821 40.5,-5821"/>
-<text text-anchor="start" x="288.67" y="-5962.8" font-family="Times,serif" font-size="14.00">spc</text>
-<polygon fill="none" stroke="black" points="45.5,-5936 45.5,-5956 174.5,-5956 174.5,-5936 45.5,-5936"/>
-<text text-anchor="start" x="83.95" y="-5941.8" font-family="Times,serif" font-size="14.00">boxChart</text>
-<polygon fill="none" stroke="black" points="176.5,-5936 176.5,-5956 305.5,-5956 305.5,-5936 176.5,-5936"/>
-<text text-anchor="start" x="222.34" y="-5941.8" font-family="Times,serif" font-size="14.00">cChart</text>
-<polygon fill="none" stroke="black" points="307.5,-5936 307.5,-5956 429.5,-5956 429.5,-5936 307.5,-5936"/>
-<text text-anchor="start" x="348.67" y="-5941.8" font-family="Times,serif" font-size="14.00">irChart</text>
-<polygon fill="none" stroke="black" points="431.5,-5936 431.5,-5956 550.5,-5956 550.5,-5936 431.5,-5936"/>
-<text text-anchor="start" x="470" y="-5941.8" font-family="Times,serif" font-size="14.00">mChart</text>
-<polygon fill="none" stroke="black" points="45.5,-5914 45.5,-5934 174.5,-5934 174.5,-5914 45.5,-5914"/>
-<text text-anchor="start" x="86.67" y="-5919.8" font-family="Times,serif" font-size="14.00">mrChart</text>
-<polygon fill="none" stroke="black" points="176.5,-5914 176.5,-5934 305.5,-5934 305.5,-5914 176.5,-5914"/>
-<text text-anchor="start" x="218.45" y="-5919.8" font-family="Times,serif" font-size="14.00">npChart</text>
-<polygon fill="none" stroke="black" points="307.5,-5914 307.5,-5934 429.5,-5934 429.5,-5914 307.5,-5914"/>
-<text text-anchor="start" x="349.45" y="-5919.8" font-family="Times,serif" font-size="14.00">pChart</text>
-<polygon fill="none" stroke="black" points="431.5,-5914 431.5,-5934 550.5,-5934 550.5,-5914 431.5,-5914"/>
-<text text-anchor="start" x="473.12" y="-5919.8" font-family="Times,serif" font-size="14.00">rChart</text>
-<polygon fill="none" stroke="black" points="45.5,-5892 45.5,-5912 174.5,-5912 174.5,-5892 45.5,-5892"/>
-<text text-anchor="start" x="91.72" y="-5897.8" font-family="Times,serif" font-size="14.00">sChart</text>
-<polygon fill="none" stroke="black" points="176.5,-5892 176.5,-5912 305.5,-5912 305.5,-5892 176.5,-5892"/>
-<text text-anchor="start" x="221.95" y="-5897.8" font-family="Times,serif" font-size="14.00">uChart</text>
-<polygon fill="none" stroke="black" points="307.5,-5892 307.5,-5912 429.5,-5912 429.5,-5892 307.5,-5892"/>
-<text text-anchor="start" x="349.45" y="-5897.8" font-family="Times,serif" font-size="14.00">xChart</text>
-<polygon fill="none" stroke="black" points="431.5,-5892 431.5,-5912 550.5,-5912 550.5,-5892 431.5,-5892"/>
-<text text-anchor="start" x="469.62" y="-5897.8" font-family="Times,serif" font-size="14.00">xrChart</text>
-<polygon fill="none" stroke="black" points="45.5,-5870 45.5,-5890 174.5,-5890 174.5,-5870 45.5,-5870"/>
-<text text-anchor="start" x="88.22" y="-5875.8" font-family="Times,serif" font-size="14.00">xsChart</text>
-<polygon fill="none" stroke="black" points="176.5,-5870 176.5,-5890 305.5,-5890 305.5,-5870 176.5,-5870"/>
-<text text-anchor="start" x="214.95" y="-5875.8" font-family="Times,serif" font-size="14.00">boxChart</text>
-<polygon fill="none" stroke="black" points="307.5,-5870 307.5,-5890 429.5,-5890 429.5,-5870 307.5,-5870"/>
-<text text-anchor="start" x="349.84" y="-5875.8" font-family="Times,serif" font-size="14.00">cChart</text>
-<polygon fill="none" stroke="black" points="431.5,-5870 431.5,-5890 550.5,-5890 550.5,-5870 431.5,-5870"/>
-<text text-anchor="start" x="471.17" y="-5875.8" font-family="Times,serif" font-size="14.00">irChart</text>
-<polygon fill="none" stroke="black" points="45.5,-5848 45.5,-5868 174.5,-5868 174.5,-5848 45.5,-5848"/>
-<text text-anchor="start" x="89" y="-5853.8" font-family="Times,serif" font-size="14.00">mChart</text>
-<polygon fill="none" stroke="black" points="176.5,-5848 176.5,-5868 305.5,-5868 305.5,-5848 176.5,-5848"/>
-<text text-anchor="start" x="217.67" y="-5853.8" font-family="Times,serif" font-size="14.00">mrChart</text>
-<polygon fill="none" stroke="black" points="307.5,-5848 307.5,-5868 429.5,-5868 429.5,-5848 307.5,-5848"/>
-<text text-anchor="start" x="345.95" y="-5853.8" font-family="Times,serif" font-size="14.00">npChart</text>
-<polygon fill="none" stroke="black" points="431.5,-5848 431.5,-5868 550.5,-5868 550.5,-5848 431.5,-5848"/>
-<text text-anchor="start" x="471.95" y="-5853.8" font-family="Times,serif" font-size="14.00">pChart</text>
-<polygon fill="none" stroke="black" points="45.5,-5826 45.5,-5846 174.5,-5846 174.5,-5826 45.5,-5826"/>
-<text text-anchor="start" x="92.12" y="-5831.8" font-family="Times,serif" font-size="14.00">rChart</text>
-<polygon fill="none" stroke="black" points="176.5,-5826 176.5,-5846 305.5,-5846 305.5,-5826 176.5,-5826"/>
-<text text-anchor="start" x="222.72" y="-5831.8" font-family="Times,serif" font-size="14.00">sChart</text>
-<polygon fill="none" stroke="black" points="307.5,-5826 307.5,-5846 429.5,-5846 429.5,-5826 307.5,-5826"/>
-<text text-anchor="start" x="349.45" y="-5831.8" font-family="Times,serif" font-size="14.00">uChart</text>
-<polygon fill="none" stroke="black" points="431.5,-5826 431.5,-5846 550.5,-5846 550.5,-5826 431.5,-5826"/>
-<text text-anchor="start" x="471.95" y="-5831.8" font-family="Times,serif" font-size="14.00">xChart</text>
-<polygon fill="none" stroke="black" points="555.5,-5821 555.5,-5981 1103.5,-5981 1103.5,-5821 555.5,-5821"/>
-<text text-anchor="start" x="777.4" y="-5935.3" font-family="Times,serif" font-size="14.00">svDataDescription</text>
-<polygon fill="none" stroke="black" points="560.5,-5826 560.5,-5901 1098.5,-5901 1098.5,-5826 560.5,-5826"/>
-<text text-anchor="start" x="801.36" y="-5859.3" font-family="Times,serif" font-size="14.00">svddTrain</text>
+<text text-anchor="start" x="1014.12" y="-6517.8" font-family="Times,serif" font-size="14.00">projection</text>
+<polygon fill="none" stroke="black" points="560.5,-6490 560.5,-6510 748.5,-6510 748.5,-6490 560.5,-6490"/>
+<text text-anchor="start" x="639.35" y="-6495.8" font-family="Times,serif" font-size="14.00">reach</text>
+<polygon fill="none" stroke="black" points="750.5,-6490 750.5,-6510 859.5,-6510 859.5,-6490 750.5,-6490"/>
+<text text-anchor="start" x="775.46" y="-6495.8" font-family="Times,serif" font-size="14.00">readGraph</text>
+<polygon fill="none" stroke="black" points="861.5,-6490 861.5,-6510 984.5,-6510 984.5,-6490 861.5,-6490"/>
+<text text-anchor="start" x="888.78" y="-6495.8" font-family="Times,serif" font-size="14.00">shortestPath</text>
+<polygon fill="none" stroke="black" points="986.5,-6490 986.5,-6510 1098.5,-6510 1098.5,-6490 986.5,-6490"/>
+<text text-anchor="start" x="1016.45" y="-6495.8" font-family="Times,serif" font-size="14.00">summary</text>
+<polygon fill="none" stroke="black" points="40.5,-6435 40.5,-6485 555.5,-6485 555.5,-6435 40.5,-6435"/>
+<text text-anchor="start" x="270.4" y="-6466.8" font-family="Times,serif" font-size="14.00">neuralNet</text>
+<polygon fill="none" stroke="black" points="45.5,-6440 45.5,-6460 211.5,-6460 211.5,-6440 45.5,-6440"/>
+<text text-anchor="start" x="103.62" y="-6445.8" font-family="Times,serif" font-size="14.00">annCode</text>
+<polygon fill="none" stroke="black" points="213.5,-6440 213.5,-6460 382.5,-6460 382.5,-6440 213.5,-6440"/>
+<text text-anchor="start" x="271.96" y="-6445.8" font-family="Times,serif" font-size="14.00">annScore</text>
+<polygon fill="none" stroke="black" points="384.5,-6440 384.5,-6460 550.5,-6460 550.5,-6440 384.5,-6440"/>
+<text text-anchor="start" x="442.48" y="-6445.8" font-family="Times,serif" font-size="14.00">annTrain</text>
+<polygon fill="none" stroke="black" points="555.5,-6435 555.5,-6485 1103.5,-6485 1103.5,-6435 555.5,-6435"/>
+<text text-anchor="start" x="803.07" y="-6466.8" font-family="Times,serif" font-size="14.00">nonlinear</text>
+<polygon fill="none" stroke="black" points="560.5,-6440 560.5,-6460 828.5,-6460 828.5,-6440 560.5,-6440"/>
+<text text-anchor="start" x="676.61" y="-6445.8" font-family="Times,serif" font-size="14.00">nlmod</text>
+<polygon fill="none" stroke="black" points="830.5,-6440 830.5,-6460 1098.5,-6460 1098.5,-6440 830.5,-6440"/>
+<text text-anchor="start" x="946.61" y="-6445.8" font-family="Times,serif" font-size="14.00">nlmod</text>
+<polygon fill="none" stroke="black" points="40.5,-6385 40.5,-6435 555.5,-6435 555.5,-6385 40.5,-6385"/>
+<text text-anchor="start" x="240.08" y="-6416.8" font-family="Times,serif" font-size="14.00">nonParametricBayes</text>
+<polygon fill="none" stroke="black" points="45.5,-6390 45.5,-6410 292.5,-6410 292.5,-6390 45.5,-6390"/>
+<text text-anchor="start" x="154.61" y="-6395.8" font-family="Times,serif" font-size="14.00">gmm</text>
+<polygon fill="none" stroke="black" points="294.5,-6390 294.5,-6410 550.5,-6410 550.5,-6390 294.5,-6390"/>
+<text text-anchor="start" x="404.22" y="-6395.8" font-family="Times,serif" font-size="14.00">gpReg</text>
+<polygon fill="none" stroke="black" points="555.5,-6385 555.5,-6435 1103.5,-6435 1103.5,-6385 555.5,-6385"/>
+<text text-anchor="start" x="821.33" y="-6416.8" font-family="Times,serif" font-size="14.00">pls</text>
+<polygon fill="none" stroke="black" points="560.5,-6390 560.5,-6410 828.5,-6410 828.5,-6390 560.5,-6390"/>
+<text text-anchor="start" x="686.33" y="-6395.8" font-family="Times,serif" font-size="14.00">pls</text>
+<polygon fill="none" stroke="black" points="830.5,-6390 830.5,-6410 1098.5,-6410 1098.5,-6390 830.5,-6390"/>
+<text text-anchor="start" x="956.33" y="-6395.8" font-family="Times,serif" font-size="14.00">pls</text>
+<polygon fill="none" stroke="black" points="40.5,-6313 40.5,-6385 555.5,-6385 555.5,-6313 40.5,-6313"/>
+<text text-anchor="start" x="288.29" y="-6366.8" font-family="Times,serif" font-size="14.00">pca</text>
+<polygon fill="none" stroke="black" points="45.5,-6340 45.5,-6360 152.5,-6360 152.5,-6340 45.5,-6340"/>
+<text text-anchor="start" x="90.45" y="-6345.8" font-family="Times,serif" font-size="14.00">eig</text>
+<polygon fill="none" stroke="black" points="154.5,-6340 154.5,-6360 273.5,-6360 273.5,-6340 154.5,-6340"/>
+<text text-anchor="start" x="198.57" y="-6345.8" font-family="Times,serif" font-size="14.00">itergs</text>
+<polygon fill="none" stroke="black" points="275.5,-6340 275.5,-6360 397.5,-6360 397.5,-6340 275.5,-6340"/>
+<text text-anchor="start" x="319.78" y="-6345.8" font-family="Times,serif" font-size="14.00">nipals</text>
+<polygon fill="none" stroke="black" points="399.5,-6340 399.5,-6360 550.5,-6360 550.5,-6340 399.5,-6340"/>
+<text text-anchor="start" x="443.9" y="-6345.8" font-family="Times,serif" font-size="14.00">randompca</text>
+<polygon fill="none" stroke="black" points="45.5,-6318 45.5,-6338 152.5,-6338 152.5,-6318 45.5,-6318"/>
+<text text-anchor="start" x="90.45" y="-6323.8" font-family="Times,serif" font-size="14.00">eig</text>
+<polygon fill="none" stroke="black" points="154.5,-6318 154.5,-6338 273.5,-6338 273.5,-6318 154.5,-6318"/>
+<text text-anchor="start" x="198.57" y="-6323.8" font-family="Times,serif" font-size="14.00">itergs</text>
+<polygon fill="none" stroke="black" points="275.5,-6318 275.5,-6338 397.5,-6338 397.5,-6318 275.5,-6318"/>
+<text text-anchor="start" x="319.78" y="-6323.8" font-family="Times,serif" font-size="14.00">nipals</text>
+<polygon fill="none" stroke="black" points="399.5,-6318 399.5,-6338 550.5,-6338 550.5,-6318 399.5,-6318"/>
+<text text-anchor="start" x="443.9" y="-6323.8" font-family="Times,serif" font-size="14.00">randompca</text>
+<polygon fill="none" stroke="black" points="555.5,-6313 555.5,-6385 1103.5,-6385 1103.5,-6313 555.5,-6313"/>
+<text text-anchor="start" x="813.56" y="-6361.3" font-family="Times,serif" font-size="14.00">phreg</text>
+<polygon fill="none" stroke="black" points="560.5,-6318 560.5,-6349 828.5,-6349 828.5,-6318 560.5,-6318"/>
+<text text-anchor="start" x="684.39" y="-6329.3" font-family="Times,serif" font-size="14.00">cox</text>
+<polygon fill="none" stroke="black" points="830.5,-6318 830.5,-6349 1098.5,-6349 1098.5,-6318 830.5,-6318"/>
+<text text-anchor="start" x="954.39" y="-6329.3" font-family="Times,serif" font-size="14.00">cox</text>
+<polygon fill="none" stroke="black" points="40.5,-6263 40.5,-6313 555.5,-6313 555.5,-6263 40.5,-6263"/>
+<text text-anchor="start" x="273.51" y="-6294.8" font-family="Times,serif" font-size="14.00">quantreg</text>
+<polygon fill="none" stroke="black" points="45.5,-6268 45.5,-6288 297.5,-6288 297.5,-6268 45.5,-6268"/>
+<text text-anchor="start" x="147.01" y="-6273.8" font-family="Times,serif" font-size="14.00">quantreg</text>
+<polygon fill="none" stroke="black" points="299.5,-6268 299.5,-6288 550.5,-6288 550.5,-6268 299.5,-6268"/>
+<text text-anchor="start" x="400.51" y="-6273.8" font-family="Times,serif" font-size="14.00">quantreg</text>
+<polygon fill="none" stroke="black" points="555.5,-6263 555.5,-6313 1103.5,-6313 1103.5,-6263 555.5,-6263"/>
+<text text-anchor="start" x="804.62" y="-6294.8" font-family="Times,serif" font-size="14.00">deepRnn</text>
+<polygon fill="none" stroke="black" points="560.5,-6268 560.5,-6288 715.5,-6288 715.5,-6268 560.5,-6268"/>
+<text text-anchor="start" x="591.34" y="-6273.8" font-family="Times,serif" font-size="14.00">rnnExportModel</text>
+<polygon fill="none" stroke="black" points="717.5,-6268 717.5,-6288 829.5,-6288 829.5,-6268 717.5,-6268"/>
+<text text-anchor="start" x="748.23" y="-6273.8" font-family="Times,serif" font-size="14.00">rnnScore</text>
+<polygon fill="none" stroke="black" points="831.5,-6268 831.5,-6288 941.5,-6288 941.5,-6268 831.5,-6268"/>
+<text text-anchor="start" x="862.25" y="-6273.8" font-family="Times,serif" font-size="14.00">rnnTrain</text>
+<polygon fill="none" stroke="black" points="943.5,-6268 943.5,-6288 1098.5,-6288 1098.5,-6268 943.5,-6268"/>
+<text text-anchor="start" x="974.34" y="-6273.8" font-family="Times,serif" font-size="14.00">rnnExportModel</text>
+<polygon fill="none" stroke="black" points="40.5,-6103 40.5,-6263 555.5,-6263 555.5,-6103 40.5,-6103"/>
+<text text-anchor="start" x="269.23" y="-6244.8" font-family="Times,serif" font-size="14.00">regression</text>
+<polygon fill="none" stroke="black" points="45.5,-6218 45.5,-6238 180.5,-6238 180.5,-6218 45.5,-6218"/>
+<text text-anchor="start" x="90.45" y="-6223.8" font-family="Times,serif" font-size="14.00">genmod</text>
+<polygon fill="none" stroke="black" points="182.5,-6218 182.5,-6238 323.5,-6238 323.5,-6218 182.5,-6218"/>
+<text text-anchor="start" x="214.51" y="-6223.8" font-family="Times,serif" font-size="14.00">genmodScore</text>
+<polygon fill="none" stroke="black" points="325.5,-6218 325.5,-6238 435.5,-6238 435.5,-6218 325.5,-6218"/>
+<text text-anchor="start" x="369.61" y="-6223.8" font-family="Times,serif" font-size="14.00">glm</text>
+<polygon fill="none" stroke="black" points="437.5,-6218 437.5,-6238 550.5,-6238 550.5,-6218 437.5,-6218"/>
+<text text-anchor="start" x="467.17" y="-6223.8" font-family="Times,serif" font-size="14.00">glmScore</text>
+<polygon fill="none" stroke="black" points="45.5,-6196 45.5,-6216 180.5,-6216 180.5,-6196 45.5,-6196"/>
+<text text-anchor="start" x="92.39" y="-6201.8" font-family="Times,serif" font-size="14.00">logistic</text>
+<polygon fill="none" stroke="black" points="182.5,-6196 182.5,-6216 323.5,-6216 323.5,-6196 182.5,-6196"/>
+<text text-anchor="start" x="199.34" y="-6201.8" font-family="Times,serif" font-size="14.00">logisticAssociation</text>
+<polygon fill="none" stroke="black" points="325.5,-6196 325.5,-6216 435.5,-6216 435.5,-6196 325.5,-6196"/>
+<text text-anchor="start" x="345.11" y="-6201.8" font-family="Times,serif" font-size="14.00">logisticCode</text>
+<polygon fill="none" stroke="black" points="437.5,-6196 437.5,-6216 550.5,-6216 550.5,-6196 437.5,-6196"/>
+<text text-anchor="start" x="453.56" y="-6201.8" font-family="Times,serif" font-size="14.00">logisticLackfit</text>
+<polygon fill="none" stroke="black" points="45.5,-6174 45.5,-6194 180.5,-6194 180.5,-6174 45.5,-6174"/>
+<text text-anchor="start" x="62.44" y="-6179.8" font-family="Times,serif" font-size="14.00">logisticOddsRatio</text>
+<polygon fill="none" stroke="black" points="182.5,-6174 182.5,-6194 323.5,-6194 323.5,-6174 182.5,-6174"/>
+<text text-anchor="start" x="216.45" y="-6179.8" font-family="Times,serif" font-size="14.00">logisticScore</text>
+<polygon fill="none" stroke="black" points="325.5,-6174 325.5,-6194 435.5,-6194 435.5,-6174 325.5,-6174"/>
+<text text-anchor="start" x="342.5" y="-6179.8" font-family="Times,serif" font-size="14.00">logisticType3</text>
+<polygon fill="none" stroke="black" points="437.5,-6174 437.5,-6194 550.5,-6194 550.5,-6174 437.5,-6174"/>
+<text text-anchor="start" x="457.45" y="-6179.8" font-family="Times,serif" font-size="14.00">modelMatrix</text>
+<polygon fill="none" stroke="black" points="45.5,-6152 45.5,-6172 180.5,-6172 180.5,-6152 45.5,-6152"/>
+<text text-anchor="start" x="90.45" y="-6157.8" font-family="Times,serif" font-size="14.00">genmod</text>
+<polygon fill="none" stroke="black" points="182.5,-6152 182.5,-6172 323.5,-6172 323.5,-6152 182.5,-6152"/>
+<text text-anchor="start" x="214.51" y="-6157.8" font-family="Times,serif" font-size="14.00">genmodScore</text>
+<polygon fill="none" stroke="black" points="325.5,-6152 325.5,-6172 435.5,-6172 435.5,-6152 325.5,-6152"/>
+<text text-anchor="start" x="369.61" y="-6157.8" font-family="Times,serif" font-size="14.00">glm</text>
+<polygon fill="none" stroke="black" points="437.5,-6152 437.5,-6172 550.5,-6172 550.5,-6152 437.5,-6152"/>
+<text text-anchor="start" x="467.17" y="-6157.8" font-family="Times,serif" font-size="14.00">glmScore</text>
+<polygon fill="none" stroke="black" points="45.5,-6130 45.5,-6150 180.5,-6150 180.5,-6130 45.5,-6130"/>
+<text text-anchor="start" x="92.39" y="-6135.8" font-family="Times,serif" font-size="14.00">logistic</text>
+<polygon fill="none" stroke="black" points="182.5,-6130 182.5,-6150 323.5,-6150 323.5,-6130 182.5,-6130"/>
+<text text-anchor="start" x="199.34" y="-6135.8" font-family="Times,serif" font-size="14.00">logisticAssociation</text>
+<polygon fill="none" stroke="black" points="325.5,-6130 325.5,-6150 435.5,-6150 435.5,-6130 325.5,-6130"/>
+<text text-anchor="start" x="345.11" y="-6135.8" font-family="Times,serif" font-size="14.00">logisticCode</text>
+<polygon fill="none" stroke="black" points="437.5,-6130 437.5,-6150 550.5,-6150 550.5,-6130 437.5,-6130"/>
+<text text-anchor="start" x="453.56" y="-6135.8" font-family="Times,serif" font-size="14.00">logisticLackfit</text>
+<polygon fill="none" stroke="black" points="45.5,-6108 45.5,-6128 180.5,-6128 180.5,-6108 45.5,-6108"/>
+<text text-anchor="start" x="62.44" y="-6113.8" font-family="Times,serif" font-size="14.00">logisticOddsRatio</text>
+<polygon fill="none" stroke="black" points="182.5,-6108 182.5,-6128 323.5,-6128 323.5,-6108 182.5,-6108"/>
+<text text-anchor="start" x="216.45" y="-6113.8" font-family="Times,serif" font-size="14.00">logisticScore</text>
+<polygon fill="none" stroke="black" points="325.5,-6108 325.5,-6128 435.5,-6128 435.5,-6108 325.5,-6108"/>
+<text text-anchor="start" x="342.5" y="-6113.8" font-family="Times,serif" font-size="14.00">logisticType3</text>
+<polygon fill="none" stroke="black" points="437.5,-6108 437.5,-6128 550.5,-6128 550.5,-6108 437.5,-6108"/>
+<text text-anchor="start" x="457.45" y="-6113.8" font-family="Times,serif" font-size="14.00">modelMatrix</text>
+<polygon fill="none" stroke="black" points="555.5,-6103 555.5,-6263 1103.5,-6263 1103.5,-6103 555.5,-6103"/>
+<text text-anchor="start" x="773.92" y="-6229.8" font-family="Times,serif" font-size="14.00">reinforcementLearn</text>
+<polygon fill="none" stroke="black" points="560.5,-6159 560.5,-6208 691.5,-6208 691.5,-6159 560.5,-6159"/>
+<text text-anchor="start" x="596.85" y="-6179.3" font-family="Times,serif" font-size="14.00">rlDescribe</text>
+<polygon fill="none" stroke="black" points="693.5,-6159 693.5,-6208 849.5,-6208 849.5,-6159 693.5,-6159"/>
+<text text-anchor="start" x="729.9" y="-6179.3" font-family="Times,serif" font-size="14.00">rlExportModel</text>
+<polygon fill="none" stroke="black" points="851.5,-6159 851.5,-6208 964.5,-6208 964.5,-6159 851.5,-6159"/>
+<text text-anchor="start" x="887.79" y="-6179.3" font-family="Times,serif" font-size="14.00">rlScore</text>
+<polygon fill="none" stroke="black" points="966.5,-6159 966.5,-6208 1098.5,-6208 1098.5,-6159 966.5,-6159"/>
+<text text-anchor="start" x="1002.42" y="-6179.3" font-family="Times,serif" font-size="14.00">rlTrainFqn</text>
+<polygon fill="none" stroke="black" points="560.5,-6108 560.5,-6157 691.5,-6157 691.5,-6108 560.5,-6108"/>
+<text text-anchor="start" x="596.85" y="-6128.3" font-family="Times,serif" font-size="14.00">rlDescribe</text>
+<polygon fill="none" stroke="black" points="693.5,-6108 693.5,-6157 849.5,-6157 849.5,-6108 693.5,-6108"/>
+<text text-anchor="start" x="729.9" y="-6128.3" font-family="Times,serif" font-size="14.00">rlExportModel</text>
+<polygon fill="none" stroke="black" points="851.5,-6108 851.5,-6157 964.5,-6157 964.5,-6108 851.5,-6108"/>
+<text text-anchor="start" x="887.79" y="-6128.3" font-family="Times,serif" font-size="14.00">rlScore</text>
+<polygon fill="none" stroke="black" points="966.5,-6108 966.5,-6157 1098.5,-6157 1098.5,-6108 966.5,-6108"/>
+<text text-anchor="start" x="1002.42" y="-6128.3" font-family="Times,serif" font-size="14.00">rlTrainFqn</text>
+<polygon fill="none" stroke="black" points="40.5,-6031 40.5,-6103 555.5,-6103 555.5,-6031 40.5,-6031"/>
+<text text-anchor="start" x="270.39" y="-6079.3" font-family="Times,serif" font-size="14.00">robustPca</text>
+<polygon fill="none" stroke="black" points="45.5,-6036 45.5,-6067 290.5,-6067 290.5,-6036 45.5,-6036"/>
+<text text-anchor="start" x="147.79" y="-6047.3" font-family="Times,serif" font-size="14.00">mwpca</text>
+<polygon fill="none" stroke="black" points="292.5,-6036 292.5,-6067 550.5,-6067 550.5,-6036 292.5,-6036"/>
+<text text-anchor="start" x="394.29" y="-6047.3" font-family="Times,serif" font-size="14.00">robustpca</text>
+<polygon fill="none" stroke="black" points="555.5,-6031 555.5,-6103 1103.5,-6103 1103.5,-6031 555.5,-6031"/>
+<text text-anchor="start" x="803.83" y="-6084.8" font-family="Times,serif" font-size="14.00">sampling</text>
+<polygon fill="none" stroke="black" points="560.5,-6058 560.5,-6078 683.5,-6078 683.5,-6058 560.5,-6058"/>
+<text text-anchor="start" x="607.22" y="-6063.8" font-family="Times,serif" font-size="14.00">kfold</text>
+<polygon fill="none" stroke="black" points="685.5,-6058 685.5,-6078 843.5,-6078 843.5,-6058 685.5,-6058"/>
+<text text-anchor="start" x="732.23" y="-6063.8" font-family="Times,serif" font-size="14.00">oversample</text>
+<polygon fill="none" stroke="black" points="845.5,-6058 845.5,-6078 954.5,-6078 954.5,-6058 845.5,-6058"/>
+<text text-anchor="start" x="892.22" y="-6063.8" font-family="Times,serif" font-size="14.00">srs</text>
+<polygon fill="none" stroke="black" points="956.5,-6058 956.5,-6078 1098.5,-6078 1098.5,-6058 956.5,-6058"/>
+<text text-anchor="start" x="1003" y="-6063.8" font-family="Times,serif" font-size="14.00">stratified</text>
+<polygon fill="none" stroke="black" points="560.5,-6036 560.5,-6056 683.5,-6056 683.5,-6036 560.5,-6036"/>
+<text text-anchor="start" x="607.22" y="-6041.8" font-family="Times,serif" font-size="14.00">kfold</text>
+<polygon fill="none" stroke="black" points="685.5,-6036 685.5,-6056 843.5,-6056 843.5,-6036 685.5,-6036"/>
+<text text-anchor="start" x="732.23" y="-6041.8" font-family="Times,serif" font-size="14.00">oversample</text>
+<polygon fill="none" stroke="black" points="845.5,-6036 845.5,-6056 954.5,-6056 954.5,-6036 845.5,-6036"/>
+<text text-anchor="start" x="892.22" y="-6041.8" font-family="Times,serif" font-size="14.00">srs</text>
+<polygon fill="none" stroke="black" points="956.5,-6036 956.5,-6056 1098.5,-6056 1098.5,-6036 956.5,-6036"/>
+<text text-anchor="start" x="1003" y="-6041.8" font-family="Times,serif" font-size="14.00">stratified</text>
+<polygon fill="none" stroke="black" points="40.5,-5871 40.5,-6031 555.5,-6031 555.5,-5871 40.5,-5871"/>
+<text text-anchor="start" x="271.56" y="-5985.3" font-family="Times,serif" font-size="14.00">sandwich</text>
+<polygon fill="none" stroke="black" points="45.5,-5876 45.5,-5951 297.5,-5951 297.5,-5876 45.5,-5876"/>
+<text text-anchor="start" x="142.73" y="-5909.3" font-family="Times,serif" font-size="14.00">sparseReg</text>
+<polygon fill="none" stroke="black" points="299.5,-5876 299.5,-5951 550.5,-5951 550.5,-5876 299.5,-5876"/>
+<text text-anchor="start" x="396.23" y="-5909.3" font-family="Times,serif" font-size="14.00">sparseReg</text>
+<polygon fill="none" stroke="black" points="555.5,-5871 555.5,-6031 1103.5,-6031 1103.5,-5871 555.5,-5871"/>
+<text text-anchor="start" x="820.17" y="-6012.8" font-family="Times,serif" font-size="14.00">spc</text>
+<polygon fill="none" stroke="black" points="560.5,-5986 560.5,-6006 698.5,-6006 698.5,-5986 560.5,-5986"/>
+<text text-anchor="start" x="603.45" y="-5991.8" font-family="Times,serif" font-size="14.00">boxChart</text>
+<polygon fill="none" stroke="black" points="700.5,-5986 700.5,-6006 837.5,-6006 837.5,-5986 700.5,-5986"/>
+<text text-anchor="start" x="750.34" y="-5991.8" font-family="Times,serif" font-size="14.00">cChart</text>
+<polygon fill="none" stroke="black" points="839.5,-5986 839.5,-6006 969.5,-6006 969.5,-5986 839.5,-5986"/>
+<text text-anchor="start" x="884.67" y="-5991.8" font-family="Times,serif" font-size="14.00">irChart</text>
+<polygon fill="none" stroke="black" points="971.5,-5986 971.5,-6006 1098.5,-6006 1098.5,-5986 971.5,-5986"/>
+<text text-anchor="start" x="1014" y="-5991.8" font-family="Times,serif" font-size="14.00">mChart</text>
+<polygon fill="none" stroke="black" points="560.5,-5964 560.5,-5984 698.5,-5984 698.5,-5964 560.5,-5964"/>
+<text text-anchor="start" x="606.17" y="-5969.8" font-family="Times,serif" font-size="14.00">mrChart</text>
+<polygon fill="none" stroke="black" points="700.5,-5964 700.5,-5984 837.5,-5984 837.5,-5964 700.5,-5964"/>
+<text text-anchor="start" x="746.45" y="-5969.8" font-family="Times,serif" font-size="14.00">npChart</text>
+<polygon fill="none" stroke="black" points="839.5,-5964 839.5,-5984 969.5,-5984 969.5,-5964 839.5,-5964"/>
+<text text-anchor="start" x="885.45" y="-5969.8" font-family="Times,serif" font-size="14.00">pChart</text>
+<polygon fill="none" stroke="black" points="971.5,-5964 971.5,-5984 1098.5,-5984 1098.5,-5964 971.5,-5964"/>
+<text text-anchor="start" x="1017.12" y="-5969.8" font-family="Times,serif" font-size="14.00">rChart</text>
+<polygon fill="none" stroke="black" points="560.5,-5942 560.5,-5962 698.5,-5962 698.5,-5942 560.5,-5942"/>
+<text text-anchor="start" x="611.22" y="-5947.8" font-family="Times,serif" font-size="14.00">sChart</text>
+<polygon fill="none" stroke="black" points="700.5,-5942 700.5,-5962 837.5,-5962 837.5,-5942 700.5,-5942"/>
+<text text-anchor="start" x="749.95" y="-5947.8" font-family="Times,serif" font-size="14.00">uChart</text>
+<polygon fill="none" stroke="black" points="839.5,-5942 839.5,-5962 969.5,-5962 969.5,-5942 839.5,-5942"/>
+<text text-anchor="start" x="885.45" y="-5947.8" font-family="Times,serif" font-size="14.00">xChart</text>
+<polygon fill="none" stroke="black" points="971.5,-5942 971.5,-5962 1098.5,-5962 1098.5,-5942 971.5,-5942"/>
+<text text-anchor="start" x="1013.62" y="-5947.8" font-family="Times,serif" font-size="14.00">xrChart</text>
+<polygon fill="none" stroke="black" points="560.5,-5920 560.5,-5940 698.5,-5940 698.5,-5920 560.5,-5920"/>
+<text text-anchor="start" x="607.72" y="-5925.8" font-family="Times,serif" font-size="14.00">xsChart</text>
+<polygon fill="none" stroke="black" points="700.5,-5920 700.5,-5940 837.5,-5940 837.5,-5920 700.5,-5920"/>
+<text text-anchor="start" x="742.95" y="-5925.8" font-family="Times,serif" font-size="14.00">boxChart</text>
+<polygon fill="none" stroke="black" points="839.5,-5920 839.5,-5940 969.5,-5940 969.5,-5920 839.5,-5920"/>
+<text text-anchor="start" x="885.84" y="-5925.8" font-family="Times,serif" font-size="14.00">cChart</text>
+<polygon fill="none" stroke="black" points="971.5,-5920 971.5,-5940 1098.5,-5940 1098.5,-5920 971.5,-5920"/>
+<text text-anchor="start" x="1015.17" y="-5925.8" font-family="Times,serif" font-size="14.00">irChart</text>
+<polygon fill="none" stroke="black" points="560.5,-5898 560.5,-5918 698.5,-5918 698.5,-5898 560.5,-5898"/>
+<text text-anchor="start" x="608.5" y="-5903.8" font-family="Times,serif" font-size="14.00">mChart</text>
+<polygon fill="none" stroke="black" points="700.5,-5898 700.5,-5918 837.5,-5918 837.5,-5898 700.5,-5898"/>
+<text text-anchor="start" x="745.67" y="-5903.8" font-family="Times,serif" font-size="14.00">mrChart</text>
+<polygon fill="none" stroke="black" points="839.5,-5898 839.5,-5918 969.5,-5918 969.5,-5898 839.5,-5898"/>
+<text text-anchor="start" x="881.95" y="-5903.8" font-family="Times,serif" font-size="14.00">npChart</text>
+<polygon fill="none" stroke="black" points="971.5,-5898 971.5,-5918 1098.5,-5918 1098.5,-5898 971.5,-5898"/>
+<text text-anchor="start" x="1015.95" y="-5903.8" font-family="Times,serif" font-size="14.00">pChart</text>
+<polygon fill="none" stroke="black" points="560.5,-5876 560.5,-5896 698.5,-5896 698.5,-5876 560.5,-5876"/>
+<text text-anchor="start" x="611.62" y="-5881.8" font-family="Times,serif" font-size="14.00">rChart</text>
+<polygon fill="none" stroke="black" points="700.5,-5876 700.5,-5896 837.5,-5896 837.5,-5876 700.5,-5876"/>
+<text text-anchor="start" x="750.72" y="-5881.8" font-family="Times,serif" font-size="14.00">sChart</text>
+<polygon fill="none" stroke="black" points="839.5,-5876 839.5,-5896 969.5,-5896 969.5,-5876 839.5,-5876"/>
+<text text-anchor="start" x="885.45" y="-5881.8" font-family="Times,serif" font-size="14.00">uChart</text>
+<polygon fill="none" stroke="black" points="971.5,-5876 971.5,-5896 1098.5,-5896 1098.5,-5876 971.5,-5876"/>
+<text text-anchor="start" x="1015.95" y="-5881.8" font-family="Times,serif" font-size="14.00">xChart</text>
+<polygon fill="none" stroke="black" points="40.5,-5821 40.5,-5871 555.5,-5871 555.5,-5821 40.5,-5821"/>
+<text text-anchor="start" x="245.9" y="-5852.8" font-family="Times,serif" font-size="14.00">svDataDescription</text>
+<polygon fill="none" stroke="black" points="45.5,-5826 45.5,-5846 550.5,-5846 550.5,-5826 45.5,-5826"/>
+<text text-anchor="start" x="269.86" y="-5831.8" font-family="Times,serif" font-size="14.00">svddTrain</text>
+<polygon fill="none" stroke="black" points="555.5,-5821 555.5,-5871 1103.5,-5871 1103.5,-5821 555.5,-5821"/>
+<text text-anchor="start" x="817.83" y="-5852.8" font-family="Times,serif" font-size="14.00">svm</text>
+<polygon fill="none" stroke="black" points="560.5,-5826 560.5,-5846 1098.5,-5846 1098.5,-5826 560.5,-5826"/>
+<text text-anchor="start" x="802.92" y="-5831.8" font-family="Times,serif" font-size="14.00">svmTrain</text>
 <polygon fill="none" stroke="black" points="40.5,-5771 40.5,-5821 555.5,-5821 555.5,-5771 40.5,-5771"/>
-<text text-anchor="start" x="286.33" y="-5802.8" font-family="Times,serif" font-size="14.00">svm</text>
+<text text-anchor="start" x="285.56" y="-5802.8" font-family="Times,serif" font-size="14.00">tSne</text>
 <polygon fill="none" stroke="black" points="45.5,-5776 45.5,-5796 550.5,-5796 550.5,-5776 45.5,-5776"/>
-<text text-anchor="start" x="271.42" y="-5781.8" font-family="Times,serif" font-size="14.00">svmTrain</text>
-<polygon fill="none" stroke="black" points="555.5,-5771 555.5,-5821 1103.5,-5821 1103.5,-5771 555.5,-5771"/>
-<text text-anchor="start" x="817.06" y="-5802.8" font-family="Times,serif" font-size="14.00">tSne</text>
-<polygon fill="none" stroke="black" points="560.5,-5776 560.5,-5796 1098.5,-5796 1098.5,-5776 560.5,-5776"/>
-<text text-anchor="start" x="817.06" y="-5781.8" font-family="Times,serif" font-size="14.00">tSne</text>
+<text text-anchor="start" x="285.56" y="-5781.8" font-family="Times,serif" font-size="14.00">tSne</text>
 </g>
 <!-- p_2_7 -->
 <g id="node40" class="node">

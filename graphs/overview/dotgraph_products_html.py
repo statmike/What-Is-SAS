@@ -9,7 +9,7 @@ from common.commons import myreader
 prodclus = myreader('process/processed_data/','product_clusters',header='drop')
 collect = myreader('process/processed_data/','procs_linked',header='drop')
 prodedge = myreader('process/manual_inputs/','product_edges_manual',header='drop')
-action_sets = myreader('crawlers/actions_by_product/','action_sets',header='drop')
+action_sets = myreader('process/processed_data/','action_sets',header='drop')
 actions_data = myreader('crawlers/actions_by_product/','actions',header='drop')
 
 # function for cluster (subgraph) naming with iteration

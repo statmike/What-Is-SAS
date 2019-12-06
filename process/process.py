@@ -76,3 +76,25 @@ for i, row in enumerate(viya_procs):
 list(viya_procs)
 
 mywriter('process/processed_data/',header,viya_procs,'viya_procs')
+
+
+
+
+
+
+
+# process viya actionsets - remove actionsets with no actions
+actions = myreader('crawlers/actions_by_product/','actions')
+action_sets = myreader('crawlers/actions_by_product/','action_sets')
+
+a_header = actions.pop(0)
+as_header = action_sets.pop(0)
+
+used_actionsets = []
+for actionset in actions:
+    if actionset[1] not in used_actionsets: used_actionsets.append(actionset[1])
+
+for i, action_set in enumerate(action_sets):
+    if action_set[1] not in used_actionsets: del action_sets[i]
+
+mywriter('process/processed_data/',as_header,action_sets,'action_sets')

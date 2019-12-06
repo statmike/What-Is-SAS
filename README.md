@@ -33,7 +33,9 @@ Provide an interactive visual guide the all of SAS for coding in SAS 9.4, SAS Vi
     - [ ] on Viya - a cluster inside Viya
     - [ ] not on Viya - a cluster outside Viya
   - [X] add actionSets
-    - [ ] add actions as nested table beneath each actionset
+    - [X] add actions as nested table beneath each actionset
+    - [X] removed actionsets that add no actions listed: nmf in VS and VDMML
+    - [ ] deal with duplicate names of actionsets across products and actions with same name as actionset - is this needed or does product > port=actionset:action enough?
   - [ ] figure out borders: product > proc / actions > items > nested table items (actions)
   - [ ] add hyperlinks:
     - [ ] names of products
@@ -45,6 +47,9 @@ Provide an interactive visual guide the all of SAS for coding in SAS 9.4, SAS Vi
     - [ ] proc on both = yellow
   - [ ] link related procs
     - [ ] add hyperlinks to edges
+  - clean up code
+    - [ ] make functions for table and cluster building - partially started
+    - [ ] add "_input" to all lists of read in data sources to prevent confusion with created list throughout code
 - [ ] use the completed prototype to break down into layers with hyperlinks to drill through:
   - [ ] Platforms & products
     - [ ] select product: procs & actionsets+actions

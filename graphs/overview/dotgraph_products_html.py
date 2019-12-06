@@ -25,31 +25,32 @@ def url_escape(url):
 
 # build an html table for each actionset where the actionset spans the first row, actions on second row on
 def actiontab(actionSet):
-    Node_Name_List.append(actionSet)
+    #actionSet is a row from the action_set data: 0=product, 1=actionset,2=description, 3=link, 4=link text
+    Node_Name_List.append(actionSet[1])
     colspan=4
     innertab = '<table border="0">'
     # build the rows for actions
     a=0
     for rows in actions_data:
-        if rows[1] == actionSet: a += 1
+        if rows[1] == actionSet[1]: a += 1
     if a <= colspan: colspan = a
-    innertab += '<tr><td colspan="'+str(colspan)+'" port="'+actionSet+'">'+actionSet+'</td></tr>'
+    innertab += '<tr><td colspan="'+str(colspan)+'" port="'+actionSet[1]+'" href="'+url_escape(actionSet[3])+'" tooltip="'+actionSet[2]+'">'+actionSet[1]+'</td></tr>'
     s = 0 # overall count for actions in actionset
     c = 0 # column count for table
     sstruct = '' # holder for row of actions
     for rows in actions_data:
-        if rows[1] == actionSet:
+        if rows[1] == actionSet[1]:
             c += 1
             s += 1
             if c == 1 and colspan == 1: # first and last column on row
-                struct = '<tr><td port="action_'+rows[2]+'" border="1">'+rows[2]+'</td></tr>'
+                struct = '<tr><td port="action_'+rows[2]+'" border="1" href="'+url_escape(rows[4])+'" tooltip="'+rows[3]+'">'+rows[2]+'</td></tr>'
             elif c == 1: # first column on row
-                struct = '<tr><td port="action_'+rows[2]+'" border="1">'+rows[2]+'</td>'
+                struct = '<tr><td port="action_'+rows[2]+'" border="1" href="'+url_escape(rows[4])+'" tooltip="'+rows[3]+'">'+rows[2]+'</td>'
             elif c == colspan: # last column on row
-                struct = struct+'<td port="action_'+rows[2]+'" border="1">'+rows[2]+'</td></tr>'
+                struct = struct+'<td port="action_'+rows[2]+'" border="1" href="'+url_escape(rows[4])+'" tooltip="'+rows[3]+'">'+rows[2]+'</td></tr>'
                 c = 0
             else: # not first or last column on row
-                struct = struct+'<td port="action_'+rows[2]+'" border="1">'+rows[2]+'</td>'
+                struct = struct+'<td port="action_'+rows[2]+'" border="1" href="'+url_escape(rows[4])+'" tooltip="'+rows[3]+'">'+rows[2]+'</td>'
             if s % colspan == 0: # end of a complete row
                 if not sstruct: sstruct = struct  # first row
                 else: sstruct = sstruct+struct  # new row, not first row
@@ -157,12 +158,12 @@ for platform in platforms: # gets a list for a platform in platforms
                         c += 1
                         s += 1
                         if c == 1: # first column on row
-                            struct = '<tr><td port="'+row[1]+'" border="1">'+actiontab(row[1])+'</td>'
+                            struct = '<tr><td port="'+row[1]+'" border="1">'+actiontab(row)+'</td>'
                         elif c == x: # last column on row
-                            struct = struct+'<td port="'+row[1]+'" border="1">'+actiontab(row[1])+'</td></tr>'
+                            struct = struct+'<td port="'+row[1]+'" border="1">'+actiontab(row)+'</td></tr>'
                             c = 0
                         else: # not first or last column on row
-                            struct = struct+'<td port="'+row[1]+'" border="1">'+actiontab(row[1])+'</td>'
+                            struct = struct+'<td port="'+row[1]+'" border="1">'+actiontab(row)+'</td>'
                         if s % x == 0: # end of a complete row
                             if not sstruct: sstruct = struct  # first row
                             else: sstruct = sstruct+struct  # new row, not first row

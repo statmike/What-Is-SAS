@@ -26,16 +26,13 @@ Provide an interactive visual guide the all of SAS for coding in SAS 9.4, SAS Vi
   - [X] viya_procs has some sas 9 products listed (VS has SAS/STAT)
 - [X] move common functions to a common/commons.py file and import throughout modules: myreader, mywriter
 - [X] tie existing graphs to new data structure
-  - [ ] graph for platform + products
-  - [ ] graph for platform + products + procedures/actionSets
-    - [ ] version with relationships added
 - [X] delete "dump this" and "testing stuff" - consolidated into testing stuff
 - [ ] complete prototype of overall - too big and very busy BUT complete
   - [ ] engineer out the need for special coding for SAS Visual Analytics and SAS IML
   - [ ] separate sas 9 platform into:
     - [ ] on Viya - a cluster inside Viya
     - [ ] not on Viya - a cluster outside Viya
-  - [ ] add actionSets
+  - [X] add actionSets
     - [ ] add actions as nested table beneath each actionset
   - [ ] figure out borders: product > proc / actions > items > nested table items (actions)
   - [ ] add hyperlinks:

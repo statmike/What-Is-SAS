@@ -13,7 +13,7 @@ digraph G
                 <td port="port5" border="1">CATALOG for UNIX</td>
                 </tr>
                 <tr>
-                  <td port="port6" border="1">
+                  <td border="1">
                     <table border="0">
                       <tr>
                         <td port="port6" border="1">CATALOG for Windows</td>

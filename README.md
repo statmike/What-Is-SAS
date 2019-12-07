@@ -40,7 +40,8 @@ Provide an interactive visual guide the all of SAS for coding in SAS 9.4, SAS Vi
   - [ ] add hyperlinks:
     - [ ] names of products
     - [ ] list of procs / actionsets / actions
-    - [ ] names of procs / actionsets / actions
+    - [X] names of procs / actionsets / actions
+    - [X] figure out escape characters: escaping & with &amp; in hyperlinks but dot.render strips this in href=, using import re to modify the .svg to re-escape &.  Not beautifulsoup because it auto-escsapes on read with lxml... and resolves with xml 
   - [ ] color coding
     - [ ] action/actionset/proc cas enabled = viya green
     - [ ] proc on 9.4 workspace only = sas blue
@@ -55,3 +56,8 @@ Provide an interactive visual guide the all of SAS for coding in SAS 9.4, SAS Vi
     - [ ] select product: procs & actionsets+actions
       - [ ] select proc/actionset/action:
         - [ ] see relationships to other procs - or - go to manual for that item
+
+
+# Longterm Goals
+- [ ] create a what's new history for every element
+- [ ] get proc descriptions for link hover text

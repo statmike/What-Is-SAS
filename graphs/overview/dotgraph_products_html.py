@@ -20,8 +20,8 @@ def subs(name,label,color):
 
 # function for escaping & in URL so SVG works in browser
 def url_escape(url):
-    #url_esc ={"&": "&amp;"}
-    url_esc ={"&": "&#38;"}
+    url_esc ={"&": "&amp;"}
+    #url_esc ={"&": "&#38;"}
     return "".join(url_esc.get(c,c) for c in url)
 
 # build an html table for each actionset where the actionset spans the first row, actions on second row on
@@ -45,6 +45,7 @@ def actiontab(actionSet):
             s += 1
             if c == 1 and colspan == 1: # first and last column on row
                 struct = '<tr><td port="action_'+rows[2]+'" border="1" href="'+url_escape(rows[4])+'" tooltip="'+rows[3]+'">'+rows[2]+'</td></tr>'
+                c = 0
             elif c == 1: # first column on row
                 struct = '<tr><td port="action_'+rows[2]+'" border="1" href="'+url_escape(rows[4])+'" tooltip="'+rows[3]+'">'+rows[2]+'</td>'
             elif c == colspan: # last column on row
@@ -119,13 +120,16 @@ for platform in platforms: # gets a list for a platform in platforms
                             #build a struct row for each x procs as an html table
                             c += 1
                             s += 1
-                            if c == 1: # first column on row
-                                struct = '<tr><td port="'+row[7]+'" border="1">'+row[1]+'</td>'
+                            if c == 1 and c == x: # first and last column on row
+                                struct = '<tr><td port="'+row[7]+'" border="1" href="'+url_escape(row[3])+'" tooltip="'+url_escape(row[2])+'">'+row[1]+'</td></tr>'
+                                c = 0
+                            elif c == 1: # first column on row
+                                struct = '<tr><td port="'+row[7]+'" border="1" href="'+url_escape(row[3])+'" tooltip="'+url_escape(row[2])+'">'+row[1]+'</td>'
                             elif c == x: # last column on row
-                                struct = struct+'<td port="'+row[7]+'" border="1">'+row[1]+'</td></tr>'
+                                struct = struct+'<td port="'+row[7]+'" border="1" href="'+url_escape(row[3])+'" tooltip="'+url_escape(row[2])+'">'+row[1]+'</td></tr>'
                                 c = 0
                             else: # not first or last column on row
-                                struct = struct+'<td port="'+row[7]+'" border="1">'+row[1]+'</td>'
+                                struct = struct+'<td port="'+row[7]+'" border="1" href="'+url_escape(row[3])+'" tooltip="'+url_escape(row[2])+'">'+row[1]+'</td>'
                             if s % x == 0: # end of a complete row
                                 if not sstruct: sstruct = struct  # first row
                                 else: sstruct = sstruct+struct  # new row, not first row
@@ -227,7 +231,7 @@ dot.render('graphs/overview/dotgraph_products_html')
 
 #use regex to fix all href in the svg: escape & as &amp;
 import re
-regex = re.compile(r"&(?!amp;|lt;|gt;)")
+regex = re.compile(r"&(?!amp;|lt;|gt;|#)")
 with open('graphs/overview/dotgraph_products_html.svg', 'r') as file:
     lines = file.readlines()
 

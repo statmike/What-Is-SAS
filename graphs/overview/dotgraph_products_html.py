@@ -20,14 +20,15 @@ def subs(name,label,color):
 
 # function for escaping & in URL so SVG works in browser
 def url_escape(url):
-    url_esc ={"&": "&amp;"}
+    #url_esc ={"&": "&amp;"}
+    url_esc ={"&": "&#38;"}
     return "".join(url_esc.get(c,c) for c in url)
 
 # build an html table for each actionset where the actionset spans the first row, actions on second row on
 def actiontab(actionSet):
     #actionSet is a row from the action_set data: 0=product, 1=actionset,2=description, 3=link, 4=link text
     Node_Name_List.append(actionSet[1])
-    colspan=4
+    colspan=5
     innertab = '<table border="0">'
     # build the rows for actions
     a=0
@@ -55,6 +56,7 @@ def actiontab(actionSet):
                 if not sstruct: sstruct = struct  # first row
                 else: sstruct = sstruct+struct  # new row, not first row
     innertab += sstruct+'</table>'
+    print(innertab)
     #return actionSet
     return innertab
 
@@ -62,7 +64,7 @@ def actiontab(actionSet):
 #print(temp)
 
 #create dot graph with graphviz
-dot = Digraph(comment = 'SAS',strict=True)
+dot = Digraph(comment = 'SAS',strict=True, format='SVG')
 # ,splines='ortho'
 dot.attr(rankdir='LR',splines='polyline')#,compound='True',nodesep='0.1',ranksep='.02')#,ratio='compress')
 
@@ -136,7 +138,7 @@ for platform in platforms: # gets a list for a platform in platforms
                     sstruct = '<<table border="0" cellspacing="0">'+sstruct+struct+'</tr></table>>'
                 else: # one or more rows, full
                     sstruct = '<<table border="0" cellspacing="0">'+sstruct+'</table>>'
-                procs.node('p_'+str(i1)+'_'+str(i2),label=sstruct,shape='record')
+                procs.node('p_'+str(i1)+'_'+str(i2),label=sstruct,shape='none')
             product_sub.subgraph(procs)
         if product[0][3] == 'Y': # has actions (CAS)
             clusters[product[0][1]+'_A'] = "cluster_"+str(i1)+"_"+str(i2)+"_actions"
@@ -149,7 +151,7 @@ for platform in platforms: # gets a list for a platform in platforms
             # lookup procedures for the product and create a node containing a table (html)
             s = 0 # overall count for procedures in product
             c = 0 # column count for sturcture
-            x = 2 # number of columns for structures
+            x = 1 # number of columns for structures
             sstruct = '' # holder for the structure label
             for row in action_sets:
                 if row[0] == product[0][1]:
@@ -157,7 +159,10 @@ for platform in platforms: # gets a list for a platform in platforms
                         #build a struct row for each x procs as an html table
                         c += 1
                         s += 1
-                        if c == 1: # first column on row
+                        if c==1 and c==x: # first and last column on row
+                            struct = '<tr><td port="'+row[1]+'" border="1">'+actiontab(row)+'</td></tr>'
+                            c=0
+                        elif c == 1: # first column on row
                             struct = '<tr><td port="'+row[1]+'" border="1">'+actiontab(row)+'</td>'
                         elif c == x: # last column on row
                             struct = struct+'<td port="'+row[1]+'" border="1">'+actiontab(row)+'</td></tr>'
@@ -175,7 +180,7 @@ for platform in platforms: # gets a list for a platform in platforms
                 sstruct = '<<table border="0" cellspacing="0">'+sstruct+struct+'</tr></table>>'
             else: # one or more rows, full
                 sstruct = '<<table border="0" cellspacing="0">'+sstruct+'</table>>'
-            actions.node('a_'+str(i1)+'_'+str(i2),label=sstruct,shape='record')
+            actions.node('a_'+str(i1)+'_'+str(i2),label=sstruct,shape='none')
 
             product_sub.subgraph(actions)
         platform_sub.subgraph(product_sub)
@@ -217,3 +222,12 @@ for edge in prodedge:
 dot.format = 'SVG'
 dot.render('graphs/overview/dotgraph_products_html')
 # unflatten -l 3 dotgraph_products | dot -Tsvg -o dotgraph_products.svg
+# dot -Tsvg dotgraph_products_html -o dotgraph_products_html.svg
+
+#use beautifulsoup to fix all href in the svg: escape & as &amp;
+#note: beautifulsoup escapes the & in href and xlink:href so just reading, the writing out to file is enough
+from bs4 import BeautifulSoup as bs
+soup = bs(open('graphs/overview/dotgraph_products_html.svg'),"lxml")
+bowl = soup.prettify()
+with open('graphs/overview/dotgraph_products_html.svg', "w") as file:
+    file.write(bowl)

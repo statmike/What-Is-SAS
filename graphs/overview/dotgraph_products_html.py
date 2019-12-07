@@ -56,7 +56,6 @@ def actiontab(actionSet):
                 if not sstruct: sstruct = struct  # first row
                 else: sstruct = sstruct+struct  # new row, not first row
     innertab += sstruct+'</table>'
-    print(innertab)
     #return actionSet
     return innertab
 
@@ -224,10 +223,16 @@ dot.render('graphs/overview/dotgraph_products_html')
 # unflatten -l 3 dotgraph_products | dot -Tsvg -o dotgraph_products.svg
 # dot -Tsvg dotgraph_products_html -o dotgraph_products_html.svg
 
-#use beautifulsoup to fix all href in the svg: escape & as &amp;
-#note: beautifulsoup escapes the & in href and xlink:href so just reading, the writing out to file is enough
-from bs4 import BeautifulSoup as bs
-soup = bs(open('graphs/overview/dotgraph_products_html.svg'),"lxml")
-bowl = soup.prettify()
-with open('graphs/overview/dotgraph_products_html.svg', "w") as file:
-    file.write(bowl)
+
+
+#use regex to fix all href in the svg: escape & as &amp;
+import re
+regex = re.compile(r"&(?!amp;|lt;|gt;)")
+with open('graphs/overview/dotgraph_products_html.svg', 'r') as file:
+    lines = file.readlines()
+
+for i, line in enumerate(lines):
+    lines[i] = regex.sub("&amp;", line)
+
+with open('graphs/overview/dotgraph_products_html.svg', 'w') as file:
+    file.writelines(lines)

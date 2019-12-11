@@ -262,7 +262,7 @@ strict digraph {
 			// Action Sets
 			subgraph cluster_2_1_actions {
 				fillcolor=white label="Action Sets" style=filled tooltip="This Tooltip (Cluster)"
-				a_2_1 [label=<<table border="0" cellspacing="0"><tr><td port="CAS0" border="1" href="https://documentation.sas.com/?cdcId=pgmsascdc&amp;cdcVersion=9.4_3.5&amp;docsetId=proccas&amp;docsetTarget=n1gq4olyaoyw7kn1g4hvz6gyoxoj.htm&amp;locale=en" tooltip="CAS">CAS</td><td port="CASUTIL0" border="1" href="https://documentation.sas.com/?cdcId=pgmsascdc&amp;cdcVersion=9.4_3.5&amp;docsetId=casref&amp;docsetTarget=p1momv516ndlt7n1vhgva4urpuk6.htm&amp;locale=en" tooltip="CASUTIL">CASUTIL</td><td port="FMTC2ITM1" border="1" href="https://documentation.sas.com/?cdcId=pgmsascdc&amp;cdcVersion=9.4_3.5&amp;docsetId=proc&amp;docsetTarget=p1nbzavwbtbkx7n1eqio0qw78ppg.htm&amp;locale=en" tooltip="FMTC2ITM">FMTC2ITM</td><td port="MDSUMMARY0" border="1" href="https://documentation.sas.com/?cdcId=pgmsascdc&amp;cdcVersion=9.4_3.5&amp;docsetId=casref&amp;docsetTarget=n11ya1chrkoyykn17iewtol63xtx.htm&amp;locale=en" tooltip="MDSUMMARY">MDSUMMARY</td></tr></table>> shape=none]
+				a_2_1 [label=<<table border="0" cellspacing="0"></tr></table>> shape=none]
 			}
 		}
 		// SAS Econometrics
@@ -360,7 +360,7 @@ strict digraph {
 			// Action Sets
 			subgraph cluster_2_8_actions {
 				fillcolor=white label="Action Sets" style=filled tooltip="This Tooltip (Cluster)"
-				a_2_8 [label=<<table border="0" cellspacing="0"><tr><td port="TREESPLIT0" border="1" href="https://documentation.sas.com/?cdcId=pgmsascdc&amp;cdcVersion=9.4_3.5&amp;docsetId=casstat&amp;docsetTarget=casstat_treesplit_toc.htm&amp;locale=en" tooltip="TREESPLIT">TREESPLIT</td><td port="VARIMPUTE0" border="1" href="https://documentation.sas.com/?cdcId=pgmsascdc&amp;cdcVersion=9.4_3.5&amp;docsetId=casstat&amp;docsetTarget=casstat_varimpute_toc.htm&amp;locale=en" tooltip="VARIMPUTE">VARIMPUTE</td><td port="VARREDUCE0" border="1" href="https://documentation.sas.com/?cdcId=pgmsascdc&amp;cdcVersion=9.4_3.5&amp;docsetId=casstat&amp;docsetTarget=casstat_varreduce_toc.htm&amp;locale=en" tooltip="VARREDUCE">VARREDUCE</td></tr></table>> shape=none]
+				a_2_8 [label=<<table border="0" cellspacing="0"></tr></table>> shape=none]
 			}
 		}
 		// SAS Visual Text Analytics

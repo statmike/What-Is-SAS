@@ -35,13 +35,13 @@ Provide an interactive visual guide the all of SAS for coding in SAS 9.4, SAS Vi
   - [X] add actionSets
     - [X] add actions as nested table beneath each actionset
     - [X] removed actionsets that add no actions listed: nmf in VS and VDMML
-    - [ ] deal with duplicate names of actionsets across products and actions with same name as actionset - is this needed or does product > port=actionset:action enough?
+    - [ ] deal with duplicate names of actionsets across products and actions with same name as actionset - is this needed or does product > port=actionset:action enough? Look at tmMine in VA and VTA
   - [ ] figure out borders: product > proc / actions > items > nested table items (actions)
   - [ ] add hyperlinks:
     - [ ] names of products
     - [ ] list of procs / actionsets / actions
     - [X] names of procs / actionsets / actions
-    - [X] figure out escape characters: escaping & with &amp; in hyperlinks but dot.render strips this in href=, using import re to modify the .svg to re-escape &.  Not beautifulsoup because it auto-escsapes on read with lxml... and resolves with xml 
+    - [X] figure out escape characters: escaping & with &amp; in hyperlinks but dot.render strips this in href=, using import re to modify the .svg to re-escape &.  Not beautifulsoup because it auto-escsapes on read with lxml... and resolves with xml
   - [ ] color coding
     - [ ] action/actionset/proc cas enabled = viya green
     - [ ] proc on 9.4 workspace only = sas blue

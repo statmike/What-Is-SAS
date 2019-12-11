@@ -178,7 +178,39 @@ for platform in platforms: # gets a list for a platform in platforms
                 procs.node('SIML',label='SIML',shape='plaintext',style='invis')
             else:
                 clusters[product[0][1]+'_NP'] = 'p_'+str(i1)+'_'+str(i2)
-                sstruct = proctab(product)
+                #sstruct = proctab(product)
+                # lookup procedures for the product and create a node containing a table (html)
+                s = 0 # overall count for procedures in product
+                c = 0 # column count for sturcture
+                x = 5 # number of columns for structures
+                sstruct = '' # holder for the structure label
+                for row in procs_linked_input:
+                    if row[0] == product[0][1]:
+                        if row[7] not in Node_Name_List:
+                            #build a struct row for each x procs as an html table
+                            c += 1
+                            s += 1
+                            if c == 1 and c == x: # first and last column on row
+                                struct = '<tr><td port="'+row[7]+'" border="1" href="'+url_escape(row[3])+'" tooltip="'+url_escape(row[2])+'">'+row[1]+'</td></tr>'
+                                c = 0
+                            elif c == 1: # first column on row
+                                struct = '<tr><td port="'+row[7]+'" border="1" href="'+url_escape(row[3])+'" tooltip="'+url_escape(row[2])+'">'+row[1]+'</td>'
+                            elif c == x: # last column on row
+                                struct = struct+'<td port="'+row[7]+'" border="1" href="'+url_escape(row[3])+'" tooltip="'+url_escape(row[2])+'">'+row[1]+'</td></tr>'
+                                c = 0
+                            else: # not first or last column on row
+                                struct = struct+'<td port="'+row[7]+'" border="1" href="'+url_escape(row[3])+'" tooltip="'+url_escape(row[2])+'">'+row[1]+'</td>'
+                            if s % x == 0: # end of a complete row
+                                if not sstruct: sstruct = struct  # first row
+                                else: sstruct = sstruct+struct  # new row, not first row
+                            Node_Name_List.append(row[7])
+                # check for incomplete stucture, add empty columns, make node
+                if s < x: # not a full single row
+                    sstruct = '<<table border="0" cellspacing="0">'+struct+'</tr></table>>'
+                elif s % x: # more than one row, last row not full (x) so end row with </tr>
+                    sstruct = '<<table border="0" cellspacing="0">'+sstruct+struct+'</tr></table>>'
+                else: # one or more rows, full
+                    sstruct = '<<table border="0" cellspacing="0">'+sstruct+'</table>>'
                 procs.node('p_'+str(i1)+'_'+str(i2),label=sstruct,shape='none')
             product_sub.subgraph(procs)
         if product[0][3] == 'Y': # has actions (CAS)
@@ -186,7 +218,39 @@ for platform in platforms: # gets a list for a platform in platforms
             actions = subs(clusters[product[0][1]+'_A'],'Action Sets','white')
 
             clusters[product[0][1]+'_NA'] = 'a_'+str(i1)+'_'+str(i2)
-            sstruct = actionsetTab(product)
+            #sstruct = actionsetTab(product)
+            # lookup procedures for the product and create a node containing a table (html)
+            s = 0 # overall count for procedures in product
+            c = 0 # column count for sturcture
+            x = 1 # number of columns for structures
+            sstruct = '' # holder for the structure label
+            for row in action_sets_input:
+                if row[0] == product[0][1]:
+                    if row[1] not in Node_Name_List: # are proc, actionset, action names all unique with no overlap?
+                        #build a struct row for each x procs as an html table
+                        c += 1
+                        s += 1
+                        if c==1 and c==x: # first and last column on row
+                            struct = '<tr><td port="'+row[1]+'" border="1">'+actiontab(row)+'</td></tr>'
+                            c=0
+                        elif c == 1: # first column on row
+                            struct = '<tr><td port="'+row[1]+'" border="1">'+actiontab(row)+'</td>'
+                        elif c == x: # last column on row
+                            struct = struct+'<td port="'+row[1]+'" border="1">'+actiontab(row)+'</td></tr>'
+                            c = 0
+                        else: # not first or last column on row
+                            struct = struct+'<td port="'+row[1]+'" border="1">'+actiontab(row)+'</td>'
+                        if s % x == 0: # end of a complete row
+                            if not sstruct: sstruct = struct  # first row
+                            else: sstruct = sstruct+struct  # new row, not first row
+
+            # check for incomplete stucture, add empty columns, make node
+            if s < x: # not a full single row
+                sstruct = '<<table border="0" cellspacing="0">'+struct+'</tr></table>>'
+            elif s % x: # more than one row, last row not full (x) so end row with </tr>
+                sstruct = '<<table border="0" cellspacing="0">'+sstruct+struct+'</tr></table>>'
+            else: # one or more rows, full
+                sstruct = '<<table border="0" cellspacing="0">'+sstruct+'</table>>'
             actions.node('a_'+str(i1)+'_'+str(i2),label=sstruct,shape='none')
 
             product_sub.subgraph(actions)

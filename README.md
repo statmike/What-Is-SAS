@@ -28,14 +28,13 @@ Provide an interactive visual guide the all of SAS for coding in SAS 9.4, SAS Vi
 - [X] tie existing graphs to new data structure
 - [X] delete "dump this" and "testing stuff" - consolidated into testing stuff
 - [ ] complete prototype of overall - too big and very busy BUT complete
-  - [ ] engineer out the need for special coding for SAS Visual Analytics and SAS IML
+  - [X] engineer out the need for special coding for SAS Visual Analytics and SAS IML
   - [ ] separate sas 9 platform into:
     - [ ] on Viya - a cluster inside Viya
     - [ ] not on Viya - a cluster outside Viya
   - [X] add actionSets
     - [X] add actions as nested table beneath each actionset
     - [X] removed actionsets that add no actions listed: nmf in VS and VDMML
-    - [ ] deal with duplicate names of actionsets across products and actions with same name as actionset - is this needed or does product > port=actionset:action enough? Look at tmMine in VA and VTA
   - [ ] figure out borders: product > proc / actions > items > nested table items (actions)
   - [ ] add hyperlinks:
     - [ ] names of products
@@ -46,11 +45,14 @@ Provide an interactive visual guide the all of SAS for coding in SAS 9.4, SAS Vi
     - [ ] action/actionset/proc cas enabled = viya green
     - [ ] proc on 9.4 workspace only = sas blue
     - [ ] proc on both = yellow
-  - [ ] link related procs
-    - [ ] add hyperlinks to edges
+  - [X] link related procs
+    - [X] add hyperlinks to edges
+    - [ ] label the edges informatively
   - clean up code
-    - [ ] make functions for table and cluster building - partially started
-    - [ ] add "_input" to all lists of read in data sources to prevent confusion with created list throughout code
+    - [X] make functions for table and cluster building
+    - [X] add "_input" to all lists of read in data sources to prevent confusion with created list throughout code
+    - [X] debug actionsets without actions....
+      - [X] deal with duplicate names of actionsets across products and actions with same name as actionset - is this needed or does product > port=actionset:action enough? Look at tmMine in VA and VTA
 - [ ] use the completed prototype to break down into layers with hyperlinks to drill through:
   - [ ] Platforms & products
     - [ ] select product: procs & actionsets+actions
@@ -61,3 +63,4 @@ Provide an interactive visual guide the all of SAS for coding in SAS 9.4, SAS Vi
 # Longterm Goals
 - [ ] create a what's new history for every element
 - [ ] get proc descriptions for link hover text
+  - [ ] first sentence of overview page

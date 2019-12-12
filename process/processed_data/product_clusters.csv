@@ -7,15 +7,15 @@ SAS 9,SAS/IML,Y,N
 SAS 9,SAS/ETS,Y,N
 SAS 9,SAS/CONNECT,Y,N
 SAS 9,SAS/QC,Y,N
-Viya,SAS Visual Analytics,Y,Y
+Viya,SAS Visual Analytics,N,Y
 Viya,SAS Visual Statistics,Y,Y
 Viya,SAS Visual Data Mining and Machine Learning,Y,Y
 Viya,SAS Visual Text Analytics,Y,Y
 Viya,SAS Visual Forecasting,Y,Y
 Viya,SAS Optimization,Y,Y
-Viya,SAS IML,Y,Y
+Viya,SAS IML,N,Y
 Viya,SAS Econometrics,Y,Y
-Viya,SAS Cloud Analytic Services,Y,Y
+Viya,SAS Cloud Analytic Services,Y,N
 SAS 9,SAS/ACCESS,Y,N
 SAS 9,SAS/AF,Y,N
 SAS 9,Base SAS High-Performance Procedures,Y,N

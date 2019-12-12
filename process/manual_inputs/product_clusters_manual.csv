@@ -1,18 +1,18 @@
-Platform,Product,HAS_PROC,HAS_ACTION
-SAS 9,Base SAS,Y,N
-SAS 9,SAS/STAT,Y,N
-SAS 9,SAS/GRAPH,Y,N
-SAS 9,SAS/OR,Y,N
-SAS 9,SAS/IML,Y,N
-SAS 9,SAS/ETS,Y,N
-SAS 9,SAS/CONNECT,Y,N
-SAS 9,SAS/QC,Y,N
-Viya,SAS Visual Analytics,Y,Y
-Viya,SAS Visual Statistics,Y,Y
-Viya,SAS Visual Data Mining and Machine Learning,Y,Y
-Viya,SAS Visual Text Analytics,Y,Y
-Viya,SAS Visual Forecasting,Y,Y
-Viya,SAS Optimization,Y,Y
-Viya,SAS IML,Y,Y
-Viya,SAS Econometrics,Y,Y
-Viya,SAS Cloud Analytic Services,Y,Y
+Platform,Product
+SAS 9,Base SAS
+SAS 9,SAS/STAT
+SAS 9,SAS/GRAPH
+SAS 9,SAS/OR
+SAS 9,SAS/IML
+SAS 9,SAS/ETS
+SAS 9,SAS/CONNECT
+SAS 9,SAS/QC
+Viya,SAS Visual Analytics
+Viya,SAS Visual Statistics
+Viya,SAS Visual Data Mining and Machine Learning
+Viya,SAS Visual Text Analytics
+Viya,SAS Visual Forecasting
+Viya,SAS Optimization
+Viya,SAS IML
+Viya,SAS Econometrics
+Viya,SAS Cloud Analytic Services

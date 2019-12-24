@@ -164,9 +164,9 @@ SAS Cloud Analytic Services,CASUTIL,CASUTIL,https://documentation.sas.com/?cdcId
 SAS Cloud Analytic Services,FMTC2ITM,FMTC2ITM,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=proc&docsetTarget=p1nbzavwbtbkx7n1eqio0qw78ppg.htm&locale=en
 SAS Cloud Analytic Services,MDSUMMARY,MDSUMMARY,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casref&docsetTarget=n11ya1chrkoyykn17iewtol63xtx.htm&locale=en
 SAS/CONNECT,DOWNLOAD,DOWNLOAD,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=connref&docsetTarget=n1cizhpjm3sk4gn1ar64ccshws62.htm&locale=en
-SAS/CONNECT,DOWNLOAD,DOWNLOAD,http://support.sas.com/documentation/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=viyaconnref&docsetTarget=n0201j3ph2d2xvn1dzy66fb9tnc8.htm
+SAS/CONNECT,DOWNLOAD,DOWNLOAD,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=viyaconnref&docsetTarget=n0201j3ph2d2xvn1dzy66fb9tnc8.htm
 SAS/CONNECT,UPLOAD,UPLOAD,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=connref&docsetTarget=n1vaverm2ole11n1j6q0qg3qtz5g.htm&locale=en
-SAS/CONNECT,UPLOAD,UPLOAD,http://support.sas.com/documentation/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=viyaconnref&docsetTarget=p1fomu79jj84ipn10wltbbed6srk.htm
+SAS/CONNECT,UPLOAD,UPLOAD,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=viyaconnref&docsetTarget=p1fomu79jj84ipn10wltbbed6srk.htm
 SAS Data Quality Server,DMSRVADM,DMSRVADM,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=dqclref&docsetTarget=n15nsfihbjr1h6n1d76y8l1ua7n7.htm&locale=en
 SAS Data Quality Server,DMSRVDATASVC,DMSRVDATASVC,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=dqclref&docsetTarget=n1osmfep1syc3in1w9r7ms8zmo25.htm&locale=en
 SAS Data Quality Server,DMSRVPROCESSSVC,DMSRVPROCESSSVC,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=dqclref&docsetTarget=p0d6fevr1x4sbfn1suakm35p488i.htm&locale=en
@@ -286,7 +286,7 @@ SAS/GRAPH,GREMOVE,GREMOVE,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVers
 SAS/GRAPH,GREPLAY,GREPLAY,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=graphref&docsetTarget=p1rldvq0c4q3c8n14y5otguby0km.htm&locale=en
 SAS/GRAPH,GSLIDE,GSLIDE,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=graphref&docsetTarget=p1jfb7iqnto3fun1a5evbjbj61qy.htm&locale=en
 SAS/GRAPH,GTILE,GTILE,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=graphref&docsetTarget=p05jxidl2cw5svn1ngcpzvuirlcz.htm&locale=en
-SAS/IML,IML,IML,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=imlug&docsetTarget=imlug_imlstart_sect011.htm&locale=en
+SAS/IML,IML,IML,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=imlug&docsetTarget=imlug_imlstart_toc.htm&locale=en
 SAS Integration Technologies,IOMOPERATE,IOMOPERATE,https://documentation.sas.com/?docsetId=biasag&docsetTarget=n20000intelplatform00srvradm.htm&docsetVersion=9.4
 SAS Integration Technologies,STP,STP,https://documentation.sas.com/?docsetId=stpug&docsetTarget=p0yy4kd3k4dc03n1mcd76hog6y2u.htm&docsetVersion=9.4&locale=en
 SAS/IntrNet,APPSRV,APPSRV,https://documentation.sas.com/?docsetId=dispatch&docsetTarget=n19m642yloeug5n1byy5sgvyytv7.htm&docsetVersion=9.4&locale=en
@@ -480,6 +480,7 @@ SAS Visual Data Mining and Machine Learning,SVMACHINE,SVMACHINE,https://document
 SAS Visual Data Mining and Machine Learning,TEXTMINE,TEXTMINE,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casml&docsetTarget=casml_textmine_toc.htm&locale=en
 SAS Visual Data Mining and Machine Learning,TMSCORE,TMSCORE,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casml&docsetTarget=casml_tmscore_toc.htm&locale=en
 SAS Visual Data Mining and Machine Learning,TSNE,TSNE,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casml&docsetTarget=casml_tsne_toc.htm&locale=en
+SAS Visual Forecasting,DFIL,DFIL,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casforecast&docsetTarget=casforecast_dfil_toc.htm&locale=en
 SAS Visual Forecasting,SMCALIB,SMCALIB,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casforecast&docsetTarget=casforecast_smcalib_toc.htm&locale=en
 SAS Visual Forecasting,SMPROJECT,SMPROJECT,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casforecast&docsetTarget=casforecast_smproject_toc.htm&locale=en
 SAS Visual Forecasting,SMSCORE,SMSCORE,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casforecast&docsetTarget=casforecast_smscore_toc.htm&locale=en

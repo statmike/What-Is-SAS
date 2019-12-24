@@ -31,7 +31,7 @@ def viya_procs(url,reload='No'):
         #keep the list of links for products and procedures in procs.csv
         header=["Product","Procedure","Procedure_Short","Procedure_Link"]
         mywriter(pathhead,header,viya_procs,'viya_procs')
-        return procs
+        return viya_procs
     else:
         viya_procs = myreader(pathhead,'viya_procs',header='drop')
         return viya_procs

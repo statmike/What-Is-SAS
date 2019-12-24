@@ -82,7 +82,7 @@ def proctab(product):
         sstruct = '<<table border="0" cellspacing="0">'+sstruct+struct+'</tr></table>>'
     else: # one or more rows, full
         sstruct = '<<table border="0" cellspacing="0">'+sstruct+'</table>>'
-    #sstruct = '<<table border="0" cellspacing="0"><tr><td>Holder</td></tr></table>>'
+        #sstruct = '<<table border="0" cellspacing="0"><tr><td>Holder</td></tr></table>>'
     return sstruct
 
 # function to build an html table for each actionset where the actionset spans the first row, actions on second row on
@@ -235,6 +235,7 @@ for compared in procs_linked_input:
                 to_proc = clusters[row[0]+'_P_node']+":"+row[7]
                 dot.edge(from_proc,to_proc,URL=url)
                 used_to_procs.append(row[2])
+
 
 filepath='graphs/overview/dotgraph_products_html'
 #builddot(filepath)

@@ -126,6 +126,5 @@ viya_procs = myreader('crawlers/viya_procs/','viya_procs')
 header = viya_procs.pop(0)
 for i, row in enumerate(viya_procs):
     if row[1] in unique_products: del viya_procs[i]
-list(viya_procs)
 
 mywriter('process/processed_data/',header,viya_procs,'viya_procs')

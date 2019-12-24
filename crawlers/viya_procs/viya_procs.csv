@@ -70,7 +70,7 @@ SAS Econometrics,HMM,HMM,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersi
 SAS Econometrics,SEVSELECT,SEVSELECT,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casecon&docsetTarget=casecon_sevselect_toc.htm&locale=en
 SAS Econometrics,TSINFO,TSINFO,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casecon&docsetTarget=casecon_tsinfo_toc.htm&locale=en
 SAS Econometrics,TSMODEL,TSMODEL,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casecon&docsetTarget=casecon_tsmodel_toc.htm&locale=en
-SAS/IML,IML,IML,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=imlug&docsetTarget=imlug_imlstart_sect011.htm&locale=en
+SAS/IML,IML,IML,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=imlug&docsetTarget=imlug_imlstart_toc.htm&locale=en
 SAS Optimization,SAS/OR,SAS/OR,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=allprodsproc&docsetTarget=p1vzipzy6l8so0n1gbbh3ae63czb.htm&locale=en#n074h8a9rki10bn1tdimx0dehp14
 SAS Optimization,CLP,CLP,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casmopt&docsetTarget=casmopt_clp_toc.htm&locale=en
 SAS Optimization,OPTLP,OPTLP,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casmopt&docsetTarget=casmopt_optlp_toc.htm&locale=en
@@ -117,6 +117,7 @@ SAS Visual Data Mining and Machine Learning,SVMACHINE,SVMACHINE,https://document
 SAS Visual Data Mining and Machine Learning,TEXTMINE,TEXTMINE,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casml&docsetTarget=casml_textmine_toc.htm&locale=en
 SAS Visual Data Mining and Machine Learning,TMSCORE,TMSCORE,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casml&docsetTarget=casml_tmscore_toc.htm&locale=en
 SAS Visual Data Mining and Machine Learning,TSNE,TSNE,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casml&docsetTarget=casml_tsne_toc.htm&locale=en
+SAS Visual Forecasting,DFIL,DFIL,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casforecast&docsetTarget=casforecast_dfil_toc.htm&locale=en
 SAS Visual Forecasting,SMCALIB,SMCALIB,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casforecast&docsetTarget=casforecast_smcalib_toc.htm&locale=en
 SAS Visual Forecasting,SMPROJECT,SMPROJECT,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casforecast&docsetTarget=casforecast_smproject_toc.htm&locale=en
 SAS Visual Forecasting,SMSCORE,SMSCORE,https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casforecast&docsetTarget=casforecast_smscore_toc.htm&locale=en

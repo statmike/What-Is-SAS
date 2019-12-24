@@ -69,7 +69,8 @@ def procs_plus(procs,reload='No'):
             proc_soup = BeautifulSoup(driver.page_source,"lxml")
             for proc_link in proc_soup.find_all('a'):
                 if ("Overview" in proc_link.text) and proc_link.get('href'):
-                    row.append(check_addstump(proc_link.get('href'),comp_stump))
+                    if "overview" in proc_link.get('href'):
+                        row.append(check_addstump(proc_link.get('href'),comp_stump))
             if len(row) != 5:
                     row.append('')
             for proc_link in proc_soup.find_all('a'):
@@ -129,7 +130,7 @@ def procs_linked(procs_plus,reload='No'):
                                 writer.writerow(row)
             if row[4]: # get overview PROCs - only keep ones not already covered in compared
                 driver.get(row[4])
-                time.sleep(15)
+                time.sleep(10)
                 comp_soup = BeautifulSoup(driver.page_source,"lxml")
                 for comp_link in comp_soup.find_all('p'):
                     for match in re.finditer(regex, comp_link.text):
